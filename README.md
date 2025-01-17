@@ -31,6 +31,3 @@ You can access the proxy lists directly via the following links:
 | **SS Proxies**   | [ss.json](https://raw.githubusercontent.com/LoneKingCode/free-proxy-db/refs/heads/main/proxies/ss.json) | [ss.txt](https://raw.githubusercontent.com/LoneKingCode/free-proxy-db/refs/heads/main/proxies/ss.txt) |
 | **MTProto Proxies** | [mtproto.json](https://raw.githubusercontent.com/LoneKingCode/free-proxy-db/refs/heads/main/proxies/mtproto.json) | [mtproto.txt](https://raw.githubusercontent.com/LoneKingCode/free-proxy-db/refs/heads/main/proxies/mtproto.txt) |
 
----
-
-Now, you have easy access to both **.json** and **.txt** proxy files for each protocol type. Enjoy browsing and scraping securely!
