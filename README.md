@@ -1,6 +1,7 @@
 # Free Proxy DB
 
 Welcome to the **Free Proxy DB** repository! This project provides **1000+ free proxies** in various types (HTTP, SOCKS4, SOCKS5, V2Ray, SSR, SS, and MTProto) along with tools like Proxy Checker, Port Checker, IP Checker, Web Crawler, and **Anon. Check** to help you maintain anonymity and security online.
+![image](https://github.com/user-attachments/assets/bc778fed-4f65-49a4-b206-b7d462029003)
 
 ---
 
