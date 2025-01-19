@@ -1,7 +1,6 @@
 tg://proxy?server=138.124.115.67&port=6&secret=eedf244041b642510a3230c5efae4725cb
 tg://proxy?server=138.124.124.92&port=826&secret=ee94a6e083b20ea7a0ff87d664b10f3a1773332e616d617a6f6e6177732e636f6d
 tg://proxy?server=130.0.239.75&port=443&secret=eef9f48d41044f0225c1af64490ce88cda7777772e7a6f6f6d69742e6972
-tg://proxy?server=150.241.81.156&port=888&secret=ee887285ced152d64c80e9ebd982acb5bc73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=157.90.20.167&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
 tg://proxy?server=172.104.143.11&port=443&secret=ee68e585414a5154a9266dab4b0c2c6dcc6d796b65742e6972
 tg://proxy?server=193.93.153.119&port=443&secret=ee6ea63f16082c83dae8859595949897046d63692e6972
@@ -37,7 +36,6 @@ tg://proxy?server=11.11.10.1.0me-ninja.nike.com.just-do-it-unless-it-involves-ex
 tg://proxy?server=86.104.74.139&port=443&secret=eef7c2b8d3a4e9f1b5c6d8a7e3f2b9c4a17a756c612e6972
 tg://proxy?server=45.89.111.251&port=23&secret=eef2a8b3d7e4c9f1b6a7e3d9c5f8a2b4c17a756c612e6972
 tg://proxy?server=2.56.122.161&port=8443&secret=ee41d6b1dec3481baffaa36d5b0152c9067a756c612e6972
-tg://proxy?server=cumprx.harry-potter.top&port=9910&secret=eeaa94d6400fb3b1cd3e3410f6518bff847461726973676c6f62616c2e636f6d
 tg://proxy?server=185.235.128.70&port=2066&secret=ee4be98417c54dddb8e0671e00e707d17570333061667a61722e636f6d
 tg://proxy?server=45.128.52.26&port=2096&secret=ee6fada74059e8d9bb144aed34817a85fa7a756c612e6972
 tg://proxy?server=2.56.179.67&port=23&secret=eef2a8b3d7e4c9f1b6a7e3d9c5f8a2b4c17a756c612e6972
@@ -60,3 +58,5 @@ tg://proxy?server=s1.proxytun.store&port=2087&secret=ee8318f151edb0da2dc254e6740
 tg://proxy?server=www.anten.film.garden2424.ir&port=80&secret=ee220280c1666f81ee2beea19317837d0a7777772e7a756c612e69722e616e74656e2e69722e66616e617661722e636f2e75742e61632e6972
 tg://proxy?server=dl2.soft20.ir.harry-potter.top&port=9945&secret=eea0f48aaa3fa071373b4a5276e5acc58f7461726973676c6f62616c2e636f6d
 tg://proxy?server=garden2424.ir&port=80&secret=ee220280c1666f81ee2beea19317837d0a7777772e7a756c612e69722e616e74656e2e69722e66616e617661722e636f2e75742e61632e6972
+tg://proxy?server=www.garden2424.ir&port=23&secret=eee483cdf29d58eb9c25ad1739371fd96e7777772e7a756c612e69722e616e74656e2e69722e66616e617661722e636f2e75742e61632e6972
+tg://proxy?server=www.zula.ir.garden2424.ir&port=23&secret=eee483cdf29d58eb9c25ad1739371fd96e7777772e7a756c612e69722e616e74656e2e69722e66616e617661722e636f2e75742e61632e6972
