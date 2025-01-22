@@ -57,3 +57,4 @@ tg://proxy?server=garden2424.ir&port=80&secret=ee220280c1666f81ee2beea19317837d0
 tg://proxy?server=www.garden2424.ir&port=23&secret=eee483cdf29d58eb9c25ad1739371fd96e7777772e7a756c612e69722e616e74656e2e69722e66616e617661722e636f2e75742e61632e6972
 tg://proxy?server=www.zula.ir.garden2424.ir&port=23&secret=eee483cdf29d58eb9c25ad1739371fd96e7777772e7a756c612e69722e616e74656e2e69722e66616e617661722e636f2e75742e61632e6972
 tg://proxy?server=141.95.175.96&port=2066&secret=ee4be98417c54dddb8e0671e00e707d17570333061667a61722e636f6d
+tg://proxy?server=xn--uh8h.xn--57ha.xn--47haa.xn--5s9haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--o1aaaaaaaaaaaaa.ip-ddns.com&port=443&secret=ee1690010333018701fc030386e88c9bdd7777772e7673737765622e6e6574
