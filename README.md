@@ -6,13 +6,22 @@ Welcome to the **Free Proxy DB** repository! This project provides **1000+ free 
 ---
 
 ## Features:
-
-- **Free Proxy List**: Access a variety of free proxy types including **HTTP**, **SOCKS4**, **SOCKS5**, **V2Ray**, **SSR**, **SS**, and **MTProto**. Learn more on [freeproxydb.com](https://freeproxydb.com/).
-- **Proxy Checker**: Verify proxy status, speed, and availability. Check out [Proxy Checker](https://freeproxydb.com/freeTools/proxyChecker).
+- **Free Proxy List**: Access a variety of free proxy types, including **HTTP**, **SOCKS4**, **SOCKS5**, **V2Ray**, **SSR**, **SS**, and **MTProto**. Learn more on [freeproxydb.com](https://freeproxydb.com/).
+- **Proxy Checker**: Verify the status, speed, and availability of proxies. Check out [Proxy Checker](https://freeproxydb.com/freeTools/proxyChecker).
 - **Port Checker**: Ensure your proxy setup works by checking open ports. Explore [Port Checker](https://freeproxydb.com/freeTools/portChecker).
-- **IP Checker**: Verify your current IP address and ensure proxy anonymity. Visit [IP Checker](https://freeproxydb.com/freeTools/ipChecker).
+- **IP Checker**: Verify your current IP address and ensure proxy anonymity. You can also view detailed IP information, including latitude, longitude, and map location. Visit [IP Checker](https://freeproxydb.com/freeTools/ipChecker).
 - **Web Crawler**: Scrape websites securely using rotating proxies. Learn more about [Web Crawler](https://freeproxydb.com/freeTools/webCrawler).
-- **Anon. Check**: Check the level of anonymity provided by proxies. Use [Anon. Check](https://freeproxydb.com/anonChecker).
+- **Anon. Check**: Check the level of anonymity provided by proxies. You can also inspect HTTP headers to understand the level of anonymity. Use [Anon. Check](https://freeproxydb.com/anonChecker).
+---
+
+### Additional Notes:
+1. **IP Checker**:
+   - In addition to verifying the current IP address and proxy anonymity, this tool provides detailed IP information, such as geographical location (country, city), latitude, longitude, and map positioning.
+   - This feature helps users better understand the effectiveness and security of their proxies.
+
+2. **Anon. Check**:
+   - Besides checking the anonymity level of proxies, this tool allows users to inspect HTTP headers to see if their true identity is fully concealed.
+   - This is particularly useful for users who require high anonymity, such as for privacy protection or web scraping.
 
 ---
 
