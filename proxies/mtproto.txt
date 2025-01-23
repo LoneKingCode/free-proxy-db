@@ -56,7 +56,6 @@ tg://proxy?server=www.zula.ir.garden2424.ir&port=23&secret=eee483cdf29d58eb9c25a
 tg://proxy?server=141.95.175.96&port=2066&secret=ee4be98417c54dddb8e0671e00e707d17570333061667a61722e636f6d
 tg://proxy?server=xn--uh8h.xn--57ha.xn--47haa.xn--5s9haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--o1aaaaaaaaaaaaa.ip-ddns.com&port=443&secret=ee1690010333018701fc030386e88c9bdd7777772e7673737765622e6e6574
 tg://proxy?server=12.12.12.ads1.0me-ninja.nike.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental-from.gustavofring.shop&port=443&secret=ee195a48185c0234c1bd974f6fc950f56c726566657273696f6e2e636f6d
-tg://proxy?server=45.156.23.120&port=443&secret=ee523b6916e907f3723f187aba1566276e73332e676f6f676c652e636f6d
 tg://proxy?server=100.120.130echolicense.sacony.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental-from.vayasaze.ir&port=443&secret=ee195a48185c0234c1bd974f6fc950f56c726566657273696f6e2e636f6d
 tg://proxy?server=185.212.44.187&port=7878&secret=ee85848b9caff8374e97f4c5a7d5ebaea16769746875622e636f6d
 tg://proxy?server=192.168.1.1.apt-kernel.org.vayasaze.ir&port=443&secret=ee195a48185c0234c1bd974f6fc950f56c726566657273696f6e2e636f6d
