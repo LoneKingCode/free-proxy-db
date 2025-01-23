@@ -31,9 +31,6 @@ tg://proxy?server=91.107.177.128&port=443&secret=ee86ded775f7fb6fd644c0b0752aaaa
 tg://proxy?server=46.101.177.218&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e1d07265736561726368676174652e6e6574
 tg://proxy?server=192.168.1.102.ads2-cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.littlepig-littlepig-letmein.mr-pinkman.blue&port=443&secret=eec84af64ba5a68532dd6393acc2385497726566657273696f6e2e636f6d
 tg://proxy?server=11.11.10.1.0me-ninja.nike.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental-from.mr-pinkman.blue&port=443&secret=eec84af64ba5a68532dd6393acc2385497726566657273696f6e2e636f6d
-tg://proxy?server=86.104.74.139&port=443&secret=eef7c2b8d3a4e9f1b5c6d8a7e3f2b9c4a17a756c612e6972
-tg://proxy?server=45.89.111.251&port=23&secret=eef2a8b3d7e4c9f1b6a7e3d9c5f8a2b4c17a756c612e6972
-tg://proxy?server=2.56.122.161&port=8443&secret=ee41d6b1dec3481baffaa36d5b0152c9067a756c612e6972
 tg://proxy?server=185.235.128.70&port=2066&secret=ee4be98417c54dddb8e0671e00e707d17570333061667a61722e636f6d
 tg://proxy?server=googleamazondigikalaalibabasahibindenayz.treasurer.pw&port=15&secret=ee1bb5b4bc5681ed6b31820f2f22c772da696e7465726e657468616265722e636f6d
 tg://proxy?server=gertoo.chriamastree.ir&port=81&secret=ee20e6f608dca1b1ed83b600228d3a1bff66616e617661722e636f2e616e74656e2e69722e6170617261742e636f6d2e676f6f676c652e636f6d
