@@ -7,8 +7,6 @@ tg://proxy?server=188.245.233.174&port=343&secret=ee735f4f4dbf418db88c1035376606
 tg://proxy?server=195.15.202.56&port=4045&secret=ee0000f00f0f775555fffffff5006e2e692d2d2d2d2d2d696e2e61707063656e7465722e6d732d2d2d2d2d2d
 tg://proxy?server=188.34.166.237&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
 tg://proxy?server=5.255.121.99&port=443&secret=ee6ea63f16082c83dae885959594989704676f6f676c652e636f6d
-tg://proxy?server=45.150.32.241&port=6&secret=eedf244041b642510a3230c5efae4725cb
-tg://proxy?server=85.192.24.148&port=6&secret=eedf244041b642510a3230c5efae4725cb
 tg://proxy?server=78.46.135.59&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
 tg://proxy?server=b.qjsw.dd.ro33.ecce.be.omide.fardaei.behtar.hivanet.sbs&port=443&secret=eea233072409b30743ae8df779c71e88a273332e616d617a6f6e6177732e636f6d
 tg://proxy?server=alibaba.com.digikala.ir.apparat.com.grizzzlyyyy.ir&port=8443&secret=ee01f010a10c0d0e0d101e100101ffaeee7265736561726368676174652e6e6574
