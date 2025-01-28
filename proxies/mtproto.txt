@@ -18,7 +18,6 @@ tg://proxy?server=www.alibaba.farshekashani.ir&port=5001&secret=ee93249483cd1528
 tg://proxy?server=poser02.avgame.ir&port=443&secret=ee37c0b75896dfca9b36f0fe3cc87e67c26d796b65742e6972
 tg://proxy?server=www.abccloud.ir&port=443&secret=eedddddddddddddddddddddddddddddddd7370656564746573742e6e6574
 tg://proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.ttl_internet.ufw-dns.co.uk&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
-tg://proxy?server=s3.proxytun.com&port=8443&secret=ee41d6b1dec3481baffaa36d5b0152c9067a756c612e6972
 tg://proxy?server=be.sorat.vasl.sho.hiva.parnianshop.co.uk&port=8080&secret=ee9def57ce0381815c3e7d6f84f7ad0df4
 tg://proxy?server=sar.dar.gom.bodam.hame.omr.hiva.parnianshop.co.uk&port=8080&secret=ee9def57ce0381815c3e7d6f84f7ad0df4
 tg://proxy?server=googleamazondigikalaalibabasahibindenay.capitalpulse.me&port=15&secret=ee1bb5b4bc5681ed6b31820f2f22c772da696e7465726e657468616265722e636f6d
