@@ -13,7 +13,6 @@ tg://proxy?server=b.hu.jki.bnv.po0.bfd.nmb.zsx.nbfr.qjsw.dd.ro33.ecce.be.omide.f
 tg://proxy?server=hami.lovethosetrains.com&port=1053&secret=eea7f0d1bb32369e1013e5aae6136831c573332e616d617a6f6e6177732e636f6d
 tg://proxy?server=hmrah.mokhaberat.hiva.parnianshop.co.uk&port=8080&secret=ee9def57ce0381815c3e7d6f84f7ad0df4
 tg://proxy?server=us.skrsteam.click&port=2021&secret=ee2f67d558cda75d096636c292cbf4aa3673332e616d617a6f6e6177732e636f6d
-tg://proxy?server=s1.proxytun.com&port=443&secret=eef7c2b8d3a4e9f1b5c6d8a7e3f2b9c4a17a756c612e6972
 tg://proxy?server=www.alibaba.farshekashani.ir&port=5001&secret=ee93249483cd15284e8d5ebd948dd7ce746769746875622e636f6d
 tg://proxy?server=poser02.avgame.ir&port=443&secret=ee37c0b75896dfca9b36f0fe3cc87e67c26d796b65742e6972
 tg://proxy?server=www.abccloud.ir&port=443&secret=eedddddddddddddddddddddddddddddddd7370656564746573742e6e6574
