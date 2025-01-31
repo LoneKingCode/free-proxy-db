@@ -59,3 +59,4 @@ tg://proxy?server=77.91.72.19&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7b
 tg://proxy?server=194.116.215.197&port=3565&secret=ee502b6941e967f5723f180aba1561286e73332e676f6f676c652e636f6d
 tg://proxy?server=my.direct.namava.aparat.s1.rayapp.top&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636f6d
 tg://proxy?server=95.182.115.174&port=8767&secret=ee542b6941e967f5703f180aba1569286e73332e676f6f676c652e636f6d
+tg://proxy?server=2.56.127.170&port=2087&secret=ee8318f151edb0da2dc254e67407b419777a756c612e6972
