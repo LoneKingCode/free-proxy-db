@@ -18,8 +18,6 @@ tg://proxy?server=sar.dar.gom.bodam.hame.omr.hiva.parnianshop.co.uk&port=8080&se
 tg://proxy?server=googleamazondigikalaalibabasahibindenay.capitalpulse.me&port=15&secret=ee1bb5b4bc5681ed6b31820f2f22c772da696e7465726e657468616265722e636f6d
 tg://proxy?server=91.107.177.128&port=443&secret=ee86ded775f7fb6fd644c0b0752aaaaf0863646e6e79656b74616e65742e636f6d666172616b6176692e636f6d76616e2e6e616a76612e636f6d
 tg://proxy?server=46.101.177.218&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e1d07265736561726368676174652e6e6574
-tg://proxy?server=192.168.1.102.ads2-cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.littlepig-littlepig-letmein.mr-pinkman.blue&port=443&secret=eec84af64ba5a68532dd6393acc2385497726566657273696f6e2e636f6d
-tg://proxy?server=11.11.10.1.0me-ninja.nike.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental-from.mr-pinkman.blue&port=443&secret=eec84af64ba5a68532dd6393acc2385497726566657273696f6e2e636f6d
 tg://proxy?server=googleamazondigikalaalibabasahibindenayz.treasurer.pw&port=15&secret=ee1bb5b4bc5681ed6b31820f2f22c772da696e7465726e657468616265722e636f6d
 tg://proxy?server=gertoo.chriamastree.ir&port=81&secret=ee20e6f608dca1b1ed83b600228d3a1bff66616e617661722e636f2e616e74656e2e69722e6170617261742e636f6d2e676f6f676c652e636f6d
 tg://proxy?server=gerone.chriamastree.ir&port=81&secret=ee20e6f608dca1b1ed83b600228d3a1bff66616e617661722e636f2e616e74656e2e69722e6170617261742e636f6d2e676f6f676c652e636f6d
@@ -61,3 +59,5 @@ tg://proxy?server=91.107.240.18&port=443&secret=ee30c12e7035fca930279433c4f96dae
 tg://proxy?server=2.56.179.173&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
 tg://proxy?server=146.19.233.4&port=8443&secret=ee91119764c5ec93924e7e1277004b8b257a756c612e6972
 tg://proxy?server=65.109.201.209&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636f6d
+tg://proxy?server=193.187.172.62&port=8658&secret=ee542b6641e667f5703f180aba1566286e73332e676f6f676c652e636f6d
+tg://proxy?server=events.dailyhorizon.info&port=443&secret=eec12e97d52ec61f8953aee14337271c957777772e636c6f7564666c6172652e636f6d
