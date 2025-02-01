@@ -12,7 +12,6 @@ tg://proxy?server=hami.lovethosetrains.com&port=1053&secret=eea7f0d1bb32369e1013
 tg://proxy?server=hmrah.mokhaberat.hiva.parnianshop.co.uk&port=8080&secret=ee9def57ce0381815c3e7d6f84f7ad0df4
 tg://proxy?server=us.skrsteam.click&port=2021&secret=ee2f67d558cda75d096636c292cbf4aa3673332e616d617a6f6e6177732e636f6d
 tg://proxy?server=www.alibaba.farshekashani.ir&port=5001&secret=ee93249483cd15284e8d5ebd948dd7ce746769746875622e636f6d
-tg://proxy?server=poser02.avgame.ir&port=443&secret=ee37c0b75896dfca9b36f0fe3cc87e67c26d796b65742e6972
 tg://proxy?server=www.abccloud.ir&port=443&secret=eedddddddddddddddddddddddddddddddd7370656564746573742e6e6574
 tg://proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.ttl_internet.ufw-dns.co.uk&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
 tg://proxy?server=be.sorat.vasl.sho.hiva.parnianshop.co.uk&port=8080&secret=ee9def57ce0381815c3e7d6f84f7ad0df4
