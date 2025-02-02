@@ -61,3 +61,4 @@ tg://proxy?server=65.109.201.209&port=443&secret=ee30c12e7035fca930279433c4f96da
 tg://proxy?server=193.187.172.62&port=8658&secret=ee542b6641e667f5703f180aba1566286e73332e676f6f676c652e636f6d
 tg://proxy?server=events.dailyhorizon.info&port=443&secret=eec12e97d52ec61f8953aee14337271c957777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=liaghatnadashtim_www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.wm5.ir.bia2pardisan.ir&port=2292&secret=eed0d6e111bada5511fcce9584deadbeef73332e616d617a6f6e6177732e636f6d
+tg://proxy?server=185.232.205.41&port=443&secret=ee052ee3f6b397e9b15d5d46c6ea01096673332e616d617a6f6e6177732e636f6d
