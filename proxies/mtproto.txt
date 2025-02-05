@@ -48,7 +48,6 @@ tg://proxy?server=94.131.109.73&port=8443&secret=ee91119764c5ec93924e7e1277004b8
 tg://proxy?server=s5.proxytun.online&port=8443&secret=ee91119764c5ec93924e7e1277004b8b257a756c612e6972
 tg://proxy?server=37.156.46.105&port=23&secret=eea81a65f859260328489a451e9f15ef4f75742e61632e6972
 tg://proxy?server=37.156.46.211&port=5586&secret=ee4636b4d60b4649920e5278d6941ceab166616e617661722e636f
-tg://proxy?server=91.107.141.25&port=443&secret=ee4a5317f5ac7612fffd7c7eb1d70f949373332e616d617a6f6e6177732e636f6d
 tg://proxy?server=45.14.245.114&port=2083&secret=ee3d94938ea100dc10645af8a90a5e82f07a756c612e6972
 tg://proxy?server=77.91.72.19&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=my.direct.namava.aparat.s1.rayapp.top&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636f6d
