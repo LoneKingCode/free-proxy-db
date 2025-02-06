@@ -65,3 +65,5 @@ tg://proxy?server=irancell.ir-mci.ir-138.87.547.9-my.mci.appdiopyou.arsut.138.44
 tg://proxy?server=95.164.37.177&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
 tg://proxy?server=2.56.122.235&port=8443&secret=ee91119764c5ec93924e7e1277004b8b257a756c612e6972
 tg://proxy?server=188.119.113.155&port=2083&secret=ee3d94938ea100dc10645af8a90a5e82f07a756c612e6972
+tg://proxy?server=xn--t88ha.xn--57haaaa83581egjjaaaaa.xn--1ugaaa525fgk33eaaaaa159bbabb6v27bl2kaaaaaa227hcacc393aa.xn--h98haaaaaaaaaaaaa947k.xn--h4haaa62920dbabkaaaaaa9bccc6730aaa.xn--h4haa36548bbab5acc.xn--568h.fox-lonup.ip-ddns.com&port=443&secret=ee041b21cce470ec58db60b71d6d7795507777772e7673737765622e6e6574
+tg://proxy?server=xn--t88ha.xn--57haaaa83581egjjaaaaa.xn--1ugaaa525fgk33eaaaaa159bbabb6v27bl2kaaaaaa227hcacc393aa.xn--h98haaaaaaaaaaaaa947k.xn--h4haaa62920dbabkaaaaaa9bccc6730aaa.xn--h4haa36548bbab5acc.xn--9q8h.fox-lonup.ip-ddns.com&port=443&secret=ee56231dd1a7d9fd65374fbc30415466f47777772e7673737765622e6e6574
