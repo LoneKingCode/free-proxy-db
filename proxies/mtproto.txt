@@ -62,3 +62,6 @@ tg://proxy?server=185.232.205.41&port=443&secret=ee052ee3f6b397e9b15d5d46c6ea010
 tg://proxy?server=mr.mohammaderror.shop&port=8855&secret=ee92ec7873ab0d60130183fbabfb2c823273332e616d617a6f6e6177732e636f6d
 tg://proxy?server=51.195.111.38&port=2527&secret=ee4f97d36174bae7db568342c2d711a4cb73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=irancell.ir-mci.ir-138.87.547.9-my.mci.appdiopyou.arsut.138.44-207-58.ir.zardproxy.publicvm.com&port=443&secret=eef4336e95178de7181fcb338dec4f9fd773332e616d617a6f6e6177732e636f6d
+tg://proxy?server=95.164.37.177&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
+tg://proxy?server=2.56.122.235&port=8443&secret=ee91119764c5ec93924e7e1277004b8b257a756c612e6972
+tg://proxy?server=188.119.113.155&port=2083&secret=ee3d94938ea100dc10645af8a90a5e82f07a756c612e6972
