@@ -68,5 +68,4 @@ tg://proxy?server=188.119.113.155&port=2083&secret=ee3d94938ea100dc10645af8a90a5
 tg://proxy?server=xn--t88ha.xn--57haaaa83581egjjaaaaa.xn--1ugaaa525fgk33eaaaaa159bbabb6v27bl2kaaaaaa227hcacc393aa.xn--h98haaaaaaaaaaaaa947k.xn--h4haaa62920dbabkaaaaaa9bccc6730aaa.xn--h4haa36548bbab5acc.xn--568h.fox-lonup.ip-ddns.com&port=443&secret=ee041b21cce470ec58db60b71d6d7795507777772e7673737765622e6e6574
 tg://proxy?server=xn--t88ha.xn--57haaaa83581egjjaaaaa.xn--1ugaaa525fgk33eaaaaa159bbabb6v27bl2kaaaaaa227hcacc393aa.xn--h98haaaaaaaaaaaaa947k.xn--h4haaa62920dbabkaaaaaa9bccc6730aaa.xn--h4haa36548bbab5acc.xn--9q8h.fox-lonup.ip-ddns.com&port=443&secret=ee56231dd1a7d9fd65374fbc30415466f47777772e7673737765622e6e6574
 tg://proxy?server=141.11.103.64&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636f6d
-tg://proxy?server=37.27.33.157&port=443&secret=ee3be73025ca20ba13d766ef91606d5fc473332e616d617a6f6e6177732e636f6d
 tg://proxy?server=dl2.soft20.ir.harry-potter.top&port=9915&secret=eea0f48aaa3fa071373b4a5276e5acc58f7461726973676c6f62616c2e636f6d
