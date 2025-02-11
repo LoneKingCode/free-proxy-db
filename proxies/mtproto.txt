@@ -71,3 +71,5 @@ tg://proxy?server=141.11.103.64&port=443&secret=ee30c12e7035fca930279433c4f96dae
 tg://proxy?server=dl2.soft20.ir.harry-potter.top&port=9915&secret=eea0f48aaa3fa071373b4a5276e5acc58f7461726973676c6f62616c2e636f6d
 tg://proxy?server=internet.bro.to.google.internet.cloudflare.speed.test.net.fast.search.time.ir.mirzakochik.shop&port=2684&secret=eef77aa62807521d1cb8bcda18c47140987777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=213.21.245.40&port=443&secret=ee1392960b8cdc0aece680023d16b10b5873332e616d617a6f6e6177732e636f6d
+tg://proxy?server=45.12.134.129&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d
+tg://proxy?server=103.35.189.118&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d
