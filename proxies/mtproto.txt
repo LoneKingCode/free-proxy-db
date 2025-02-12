@@ -84,3 +84,4 @@ tg://proxy?server=6.vrem-noroi.pro&port=443&secret=ee6593ccec97b75f66dafa7ede1ec
 tg://proxy?server=5.vrem-noroi.pro&port=443&secret=eebf0909f59ec526bd45762be69c8310b373332e616d617a6f6e6177732e636f6d
 tg://proxy?server=9.vrem-noroi.pro&port=443&secret=ee22c07fb95cb3acbb87dfa831fadf0a1a73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=pr.sorena.top&port=8443&secret=eec7392cc021ae5c0e0ddfd6702cdc407373332e616d617a6f6e6177732e636f6d
+tg://proxy?server=91.107.170.217&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636f6d
