@@ -34,7 +34,6 @@ tg://proxy?server=s5.proxytun.store&port=2053&secret=ee164e8f8026cff531866f20f85
 tg://proxy?server=s6.proxytun.store&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=s1.proxytun.store&port=2087&secret=ee8318f151edb0da2dc254e67407b419777a756c612e6972
 tg://proxy?server=www.anten.film.garden2424.ir&port=80&secret=ee220280c1666f81ee2beea19317837d0a7777772e7a756c612e69722e616e74656e2e69722e66616e617661722e636f2e75742e61632e6972
-tg://proxy?server=dl2.soft20.ir.harry-potter.top&port=9945&secret=eea0f48aaa3fa071373b4a5276e5acc58f7461726973676c6f62616c2e636f6d
 tg://proxy?server=garden2424.ir&port=80&secret=ee220280c1666f81ee2beea19317837d0a7777772e7a756c612e69722e616e74656e2e69722e66616e617661722e636f2e75742e61632e6972
 tg://proxy?server=www.garden2424.ir&port=23&secret=eee483cdf29d58eb9c25ad1739371fd96e7777772e7a756c612e69722e616e74656e2e69722e66616e617661722e636f2e75742e61632e6972
 tg://proxy?server=www.zula.ir.garden2424.ir&port=23&secret=eee483cdf29d58eb9c25ad1739371fd96e7777772e7a756c612e69722e616e74656e2e69722e66616e617661722e636f2e75742e61632e6972
@@ -86,4 +85,4 @@ tg://proxy?server=9.vrem-noroi.pro&port=443&secret=ee22c07fb95cb3acbb87dfa831fad
 tg://proxy?server=pr.sorena.top&port=8443&secret=eec7392cc021ae5c0e0ddfd6702cdc407373332e616d617a6f6e6177732e636f6d
 tg://proxy?server=91.107.170.217&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636f6d
 tg://proxy?server=smpcith.special-mt-powerfull-connection-in-the-house.xyz&port=443&secret=ee3795f4787fc5f6f8622752febe34a76d6769746875622e636f6d
-tg://proxy?server=5.75.207.45&port=443&secret=ee5032c9d07a43eaac817227e7523cc12c706c61792e676f6f676c652e636f6d
+tg://proxy?server=65.109.192.170&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636c6f7564
