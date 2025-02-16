@@ -90,3 +90,4 @@ tg://proxy?server=f33.ghalikermaniz.info&port=443&secret=ee1c09c2550a2566343c1e0
 tg://proxy?server=gam.arxcloud-host.ir&port=90&secret=ee776d08e3c4f54895a7d2d8413a7523f97777772e7370656564746573742e6e6574
 tg://proxy?server=5.252.22.65&port=8443&secret=ee91119764c5ec93924e7e1277004b8b257a756c612e6972
 tg://proxy?server=files.ryteseo.com&port=443&secret=ee7deb27de1d955fc03656c3ea6e0da5e16d796b65742e6972
+tg://proxy?server=74.119.192.239&port=8443&secret=ee91119764c5ec93924e7e1277004b8b257a756c612e6972
