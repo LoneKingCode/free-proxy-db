@@ -57,7 +57,6 @@ tg://proxy?server=146.19.233.4&port=8443&secret=ee91119764c5ec93924e7e1277004b8b
 tg://proxy?server=65.109.201.209&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636f6d
 tg://proxy?server=events.dailyhorizon.info&port=443&secret=eec12e97d52ec61f8953aee14337271c957777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=liaghatnadashtim_www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.wm5.ir.bia2pardisan.ir&port=2292&secret=eed0d6e111bada5511fcce9584deadbeef73332e616d617a6f6e6177732e636f6d
-tg://proxy?server=185.232.205.41&port=443&secret=ee052ee3f6b397e9b15d5d46c6ea01096673332e616d617a6f6e6177732e636f6d
 tg://proxy?server=mr.mohammaderror.shop&port=8855&secret=ee92ec7873ab0d60130183fbabfb2c823273332e616d617a6f6e6177732e636f6d
 tg://proxy?server=irancell.ir-mci.ir-138.87.547.9-my.mci.appdiopyou.arsut.138.44-207-58.ir.zardproxy.publicvm.com&port=443&secret=eef4336e95178de7181fcb338dec4f9fd773332e616d617a6f6e6177732e636f6d
 tg://proxy?server=95.164.37.177&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
@@ -93,3 +92,4 @@ tg://proxy?server=74.119.192.239&port=8443&secret=ee91119764c5ec93924e7e1277004b
 tg://proxy?server=62.112.221.146&port=90&secret=ee776d08e3c4f54895a7d2d8413a7523f97777772e7370656564746573742e6e6574
 tg://proxy?server=135.125.232.233&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb76616e2e6e616a76612e636f6d
 tg://proxy?server=89.34.230.249&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb76616e2e6e616a76612e636f6d
+tg://proxy?server=213.108.20.239&port=9&secret=ee9a158f74da4d63d2cdfb4e09dbafffee
