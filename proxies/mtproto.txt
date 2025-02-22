@@ -82,7 +82,6 @@ tg://proxy?server=smpcith.special-mt-powerfull-connection-in-the-house.xyz&port=
 tg://proxy?server=65.109.192.170&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636c6f7564
 tg://proxy?server=91.107.167.216&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636f6d
 tg://proxy?server=f33.ghalikermaniz.info&port=443&secret=ee1c09c2550a2566343c1e066fac35cab5636c6f7564696e6172792e636f6d
-tg://proxy?server=gam.arxcloud-host.ir&port=90&secret=ee776d08e3c4f54895a7d2d8413a7523f97777772e7370656564746573742e6e6574
 tg://proxy?server=files.ryteseo.com&port=443&secret=ee7deb27de1d955fc03656c3ea6e0da5e16d796b65742e6972
 tg://proxy?server=135.125.232.233&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb76616e2e6e616a76612e636f6d
 tg://proxy?server=89.34.230.249&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb76616e2e6e616a76612e636f6d
@@ -105,3 +104,4 @@ tg://proxy?server=195.15.240.151&port=243&secret=ee97a1dc7b6a4c0721d2a24837644e9
 tg://proxy?server=65.109.218.24&port=8443&secret=eeea2ecadcdc4c57028d0c72a8f2b980ff73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=tuning.support.ahmadp206.sbs&port=8443&secret=ee3b41a1547735b4635b5500b7705dfb5b736e617070666f6f642e6972
 tg://proxy?server=37.156.46.76&port=243&secret=ee97a1dc7b6a4c0721d2a24837644e9521636c6f7564696e6172792e636f6d
+tg://proxy?server=one.tinkpad.ir&port=443&secret=ee41e6ae7deda3882138f929a7aefc8ff662617a61722e69722e62726974616e6e6963612e636f6d2e66616e617661722e636f2e66616e617661722e636f
