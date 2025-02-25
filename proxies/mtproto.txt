@@ -26,7 +26,6 @@ tg://proxy?server=holone.chriamastree.ir&port=6351&secret=ee248e3b409b7cafd3b070
 tg://proxy?server=engone.chriamastree.ir&port=2250&secret=ee7a414abb8dd2d853af1b22746087297b66616e617661722e636f2e616e74656e2e69722e6170617261742e636f6d2e676f6f676c652e636f6d
 tg://proxy?server=holtoo.chriamastree.ir&port=6351&secret=ee248e3b409b7cafd3b07031a021789b6f66616e617661722e636f2e616e74656e2e69722e6170617261742e636f6d2e676f6f676c652e636f6d
 tg://proxy?server=the.perfect.blend.of.tomatoes.spices.and.magic.that.brings.life.to.every.meal.and.makes.every.snack.delightful.easyfrance.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
-tg://proxy?server=134.209.90.136&port=443&secret=ee1a15f6e25405d9f2ded4200365fa3d8673332e616d617a6f6e6177732e636f6d
 tg://proxy?server=s2.proxytun.store&port=2083&secret=ee3d94938ea100dc10645af8a90a5e82f07a756c612e6972
 tg://proxy?server=s3.proxytun.store&port=8443&secret=ee91119764c5ec93924e7e1277004b8b257a756c612e6972
 tg://proxy?server=s4.proxytun.store&port=443&secret=ee3dd667aaec75459c7934d470dff106d77a756c612e6972
@@ -107,3 +106,4 @@ tg://proxy?server=clients.techsupporthub.info&port=443&secret=eec12e97d52ec61f89
 tg://proxy?server=64.226.111.75&port=443&secret=ee042db9ccd49486059b07143535611053666173742e636f6d
 tg://proxy?server=165.22.65.24&port=8445&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e1d0616c69626162612e6972
 tg://proxy?server=185.173.38.241&port=8887&secret=ee6b1b18b90cce8020ff7606d0e13ee7146769746875622e636f6d
+tg://proxy?server=185.204.171.178&port=443&secret=ee1cfcda2668ae1a8f7654505c4abcfce173332e616d617a6f6e6177732e636f6d
