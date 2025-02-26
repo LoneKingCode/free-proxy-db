@@ -77,7 +77,6 @@ tg://proxy?server=5.vrem-noroi.pro&port=443&secret=eebf0909f59ec526bd45762be69c8
 tg://proxy?server=9.vrem-noroi.pro&port=443&secret=ee22c07fb95cb3acbb87dfa831fadf0a1a73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=91.107.170.217&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636f6d
 tg://proxy?server=smpcith.special-mt-powerfull-connection-in-the-house.xyz&port=443&secret=ee3795f4787fc5f6f8622752febe34a76d6769746875622e636f6d
-tg://proxy?server=f33.ghalikermaniz.info&port=443&secret=ee1c09c2550a2566343c1e066fac35cab5636c6f7564696e6172792e636f6d
 tg://proxy?server=files.ryteseo.com&port=443&secret=ee7deb27de1d955fc03656c3ea6e0da5e16d796b65742e6972
 tg://proxy?server=135.125.232.233&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb76616e2e6e616a76612e636f6d
 tg://proxy?server=89.34.230.249&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb76616e2e6e616a76612e636f6d
@@ -97,7 +96,6 @@ tg://proxy?server=2.56.179.121&port=2053&secret=ee164e8f8026cff531866f20f85d5241
 tg://proxy?server=5.182.38.90&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=195.15.240.151&port=243&secret=ee97a1dc7b6a4c0721d2a24837644e9521636c6f7564696e6172792e636f6d
 tg://proxy?server=65.109.218.24&port=8443&secret=eeea2ecadcdc4c57028d0c72a8f2b980ff73332e616d617a6f6e6177732e636f6d
-tg://proxy?server=37.156.46.76&port=243&secret=ee97a1dc7b6a4c0721d2a24837644e9521636c6f7564696e6172792e636f6d
 tg://proxy?server=one.tinkpad.ir&port=443&secret=ee41e6ae7deda3882138f929a7aefc8ff662617a61722e69722e62726974616e6e6963612e636f6d2e66616e617661722e636f2e66616e617661722e636f
 tg://proxy?server=clients.techsupporthub.info&port=443&secret=eec12e97d52ec61f8953aee14337271c957777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=64.226.111.75&port=443&secret=ee042db9ccd49486059b07143535611053666173742e636f6d
