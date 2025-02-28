@@ -102,3 +102,7 @@ tg://proxy?server=213.159.72.30&port=2098&secret=ee95b881e1e7f3817d0873ca2865a94
 tg://proxy?server=voloom.voloomvip.top&port=443&secret=eeb5ceaf3e2cc8db8567b214f1be6936e26170617261742e636f6d
 tg://proxy?server=134.209.176.134&port=8443&secret=ee7aadf7d722083900c0683760166c19cc616c6578626572732e636f6d
 tg://proxy?server=proxy.funsexyi.myirancell.mci.rightel.liverpool.ahmadp206.sbs&port=23&secret=eedea6065370a7e4e3308218137e79aa717777772e7370656564746573742e6e6574
+tg://proxy?server=2.56.179.136&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
+tg://proxy?server=45.12.132.59&port=2087&secret=ee4fb2d03fd1cdadb8095fd3bceb67d2107a756c612e6972
+tg://proxy?server=iran.ir.aparat.ir.digikala.com.snapfood.ir.varzesh3.com.xn--ne-rv2cvta065cca7403eea3192d.cr-goveaccept-et01.com&port=18&secret=ee52c867dc75983faf4bb37f91d5164f092d
+tg://proxy?server=141.98.169.157&port=8433&secret=ee7b1d3d214c09cbffcc9d4b3c9a249c467a756c612e6972
