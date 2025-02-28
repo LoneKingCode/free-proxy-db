@@ -106,3 +106,4 @@ tg://proxy?server=2.56.179.136&port=2053&secret=ee164e8f8026cff531866f20f85d5241
 tg://proxy?server=45.12.132.59&port=2087&secret=ee4fb2d03fd1cdadb8095fd3bceb67d2107a756c612e6972
 tg://proxy?server=iran.ir.aparat.ir.digikala.com.snapfood.ir.varzesh3.com.xn--ne-rv2cvta065cca7403eea3192d.cr-goveaccept-et01.com&port=18&secret=ee52c867dc75983faf4bb37f91d5164f092d
 tg://proxy?server=141.98.169.157&port=8433&secret=ee7b1d3d214c09cbffcc9d4b3c9a249c467a756c612e6972
+tg://proxy?server=157.230.22.85&port=243&secret=eecf7b9be4aa04420a8520033e0be5c603616c6578626572732e636f6d
