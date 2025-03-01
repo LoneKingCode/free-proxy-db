@@ -103,6 +103,6 @@ tg://proxy?server=proxy.funsexyi.myirancell.mci.rightel.liverpool.ahmadp206.sbs&
 tg://proxy?server=2.56.179.136&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
 tg://proxy?server=45.12.132.59&port=2087&secret=ee4fb2d03fd1cdadb8095fd3bceb67d2107a756c612e6972
 tg://proxy?server=141.98.169.157&port=8433&secret=ee7b1d3d214c09cbffcc9d4b3c9a249c467a756c612e6972
-tg://proxy?server=157.230.22.85&port=243&secret=eecf7b9be4aa04420a8520033e0be5c603616c6578626572732e636f6d
 tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.sbs&port=23&secret=eedea6065370a7e4e3308218137e79aa717777772e7370656564746573742e6e6574
 tg://proxy?server=95.211.44.40&port=4343&secret=eefad61c6d35a513dd9c89bdd9933ee1b76578616d706c652e636f6d
+tg://proxy?server=165.22.69.147&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e1d07265736561726368676174652e6e6574
