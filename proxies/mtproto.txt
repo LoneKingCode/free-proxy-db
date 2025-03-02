@@ -74,7 +74,6 @@ tg://proxy?server=5.vrem-noroi.pro&port=443&secret=eebf0909f59ec526bd45762be69c8
 tg://proxy?server=9.vrem-noroi.pro&port=443&secret=ee22c07fb95cb3acbb87dfa831fadf0a1a73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=smpcith.special-mt-powerfull-connection-in-the-house.xyz&port=443&secret=ee3795f4787fc5f6f8622752febe34a76d6769746875622e636f6d
 tg://proxy?server=files.ryteseo.com&port=443&secret=ee7deb27de1d955fc03656c3ea6e0da5e16d796b65742e6972
-tg://proxy?server=135.125.232.233&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb76616e2e6e616a76612e636f6d
 tg://proxy?server=89.34.230.249&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb76616e2e6e616a76612e636f6d
 tg://proxy?server=213.108.20.239&port=9&secret=ee9a158f74da4d63d2cdfb4e09dbafffee
 tg://proxy?server=45.12.132.39&port=2087&secret=ee4fb2d03fd1cdadb8095fd3bceb67d2107a756c612e6972
