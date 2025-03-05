@@ -98,7 +98,6 @@ tg://proxy?server=proxy.funsexyi.myirancell.mci.rightel.liverpool.ahmadp206.sbs&
 tg://proxy?server=2.56.179.136&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
 tg://proxy?server=45.12.132.59&port=2087&secret=ee4fb2d03fd1cdadb8095fd3bceb67d2107a756c612e6972
 tg://proxy?server=141.98.169.157&port=8433&secret=ee7b1d3d214c09cbffcc9d4b3c9a249c467a756c612e6972
-tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.sbs&port=23&secret=eedea6065370a7e4e3308218137e79aa717777772e7370656564746573742e6e6574
 tg://proxy?server=165.22.69.147&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e1d07265736561726368676174652e6e6574
 tg://proxy?server=185.204.170.35&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb76616e2e6e616a76612e636f6d
 tg://proxy?server=dl2.download.par30gamedownload.com&port=9915&secret=eea0f48aaa3fa071373b4a5276e5acc58f7461726973676c6f62616c2e636f6d
