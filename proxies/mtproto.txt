@@ -95,3 +95,4 @@ tg://proxy?server=apple.slumbo.com&port=9120&secret=eeeb9baf94c9cafa2f4c377b239e
 tg://proxy?server=www.githab.www.google.wwwbasalam.www.farshekashani.ir&port=5001&secret=ee49c808d759cdf1df409ce4601ce40f737777772e676f6f676c652e636f6d
 tg://proxy?server=89.34.230.51&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb76616e2e6e616a76612e636f6d
 tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.sbs&port=70&secret=ee583d7d7bcd6a0b8f8b2314d75d993eec7777772e7370656564746573742e6e6574
+tg://proxy?server=45.67.229.238&port=7878&secret=eedb09c6abaa7131a8a53260ab4845aade6f79756e7369746573692e636f6d
