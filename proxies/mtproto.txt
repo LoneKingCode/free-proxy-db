@@ -46,7 +46,6 @@ tg://proxy?server=s5.proxytun.online&port=8443&secret=ee91119764c5ec93924e7e1277
 tg://proxy?server=77.91.72.19&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=my.direct.namava.aparat.s1.rayapp.top&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636f6d
 tg://proxy?server=events.dailyhorizon.info&port=443&secret=eec12e97d52ec61f8953aee14337271c957777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=liaghatnadashtim_www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.wm5.ir.bia2pardisan.ir&port=2292&secret=eed0d6e111bada5511fcce9584deadbeef73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=95.164.37.177&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
 tg://proxy?server=xn--t88ha.xn--57haaaa83581egjjaaaaa.xn--1ugaaa525fgk33eaaaaa159bbabb6v27bl2kaaaaaa227hcacc393aa.xn--h98haaaaaaaaaaaaa947k.xn--h4haaa62920dbabkaaaaaa9bccc6730aaa.xn--h4haa36548bbab5acc.xn--568h.fox-lonup.ip-ddns.com&port=443&secret=ee041b21cce470ec58db60b71d6d7795507777772e7673737765622e6e6574
 tg://proxy?server=xn--t88ha.xn--57haaaa83581egjjaaaaa.xn--1ugaaa525fgk33eaaaaa159bbabb6v27bl2kaaaaaa227hcacc393aa.xn--h98haaaaaaaaaaaaa947k.xn--h4haaa62920dbabkaaaaaa9bccc6730aaa.xn--h4haa36548bbab5acc.xn--9q8h.fox-lonup.ip-ddns.com&port=443&secret=ee56231dd1a7d9fd65374fbc30415466f47777772e7673737765622e6e6574
@@ -78,7 +77,6 @@ tg://proxy?server=2.56.179.121&port=2053&secret=ee164e8f8026cff531866f20f85d5241
 tg://proxy?server=5.182.38.90&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=one.tinkpad.ir&port=443&secret=ee41e6ae7deda3882138f929a7aefc8ff662617a61722e69722e62726974616e6e6963612e636f6d2e66616e617661722e636f2e66616e617661722e636f
 tg://proxy?server=clients.techsupporthub.info&port=443&secret=eec12e97d52ec61f8953aee14337271c957777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=185.173.38.241&port=8887&secret=ee6b1b18b90cce8020ff7606d0e13ee7146769746875622e636f6d
 tg://proxy?server=185.204.171.178&port=443&secret=ee1cfcda2668ae1a8f7654505c4abcfce173332e616d617a6f6e6177732e636f6d
 tg://proxy?server=213.159.72.30&port=2098&secret=ee95b881e1e7f3817d0873ca2865a94f1c7a756c612e6972
 tg://proxy?server=voloom.voloomvip.top&port=443&secret=eeb5ceaf3e2cc8db8567b214f1be6936e26170617261742e636f6d
