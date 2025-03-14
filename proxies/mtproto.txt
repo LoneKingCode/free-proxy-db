@@ -41,7 +41,6 @@ tg://proxy?server=100.120.130echolicense.sacony.com.just-do-it-unless-it-involve
 tg://proxy?server=185.212.44.187&port=7878&secret=ee85848b9caff8374e97f4c5a7d5ebaea16769746875622e636f6d
 tg://proxy?server=192.168.1.1.apt-kernel.org.vayasaze.ir&port=443&secret=ee195a48185c0234c1bd974f6fc950f56c726566657273696f6e2e636f6d
 tg://proxy?server=85.9.97.22&port=2053&secret=eed7888dc86d09166335db50991d609aa973332e616d617a6f6e6177732e636f6d
-tg://proxy?server=94.131.109.73&port=8443&secret=ee91119764c5ec93924e7e1277004b8b257a756c612e6972
 tg://proxy?server=77.91.72.19&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=events.dailyhorizon.info&port=443&secret=eec12e97d52ec61f8953aee14337271c957777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=95.164.37.177&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
