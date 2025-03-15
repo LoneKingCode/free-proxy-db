@@ -83,3 +83,4 @@ tg://proxy?server=proxy.funsexyi.myirancell.mci.rightel.liverpool.ahmadp206.sbs&
 tg://proxy?server=103.249.133.192&port=8443&secret=ee3c0ae83a9ff4ec7acdd00bc1822be1177777772e6170617261742e636f6d
 tg://proxy?server=77.91.72.252&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=77.90.135.133&port=8882&secret=eed700433aba3557d5e83d82beb4ab73586769746875622e636f6d
+tg://proxy?server=5.75.192.52&port=4600&secret=ee50ea9272aa164be4f074c3876ee498f073332e616d617a6f6e6177732e636f6d
