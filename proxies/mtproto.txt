@@ -80,7 +80,6 @@ tg://proxy?server=apple.slumbo.com&port=9120&secret=eeeb9baf94c9cafa2f4c377b239e
 tg://proxy?server=www.githab.www.google.wwwbasalam.www.farshekashani.ir&port=5001&secret=ee49c808d759cdf1df409ce4601ce40f737777772e676f6f676c652e636f6d
 tg://proxy?server=45.67.229.238&port=7878&secret=eedb09c6abaa7131a8a53260ab4845aade6f79756e7369746573692e636f6d
 tg://proxy?server=proxy.funsexyi.myirancell.mci.rightel.liverpool.ahmadp206.sbs&port=70&secret=ee16f1e58b6db8d631bc1cae9a30838ea07777772e646967696b616c612e636f6d
-tg://proxy?server=62.60.248.239&port=8443&secret=ee3c0ae83a9ff4ec7acdd00bc1822be1177777772e6170617261742e636f6d
 tg://proxy?server=103.249.133.192&port=8443&secret=ee3c0ae83a9ff4ec7acdd00bc1822be1177777772e6170617261742e636f6d
 tg://proxy?server=77.91.72.252&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=77.90.135.133&port=8882&secret=eed700433aba3557d5e83d82beb4ab73586769746875622e636f6d
