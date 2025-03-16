@@ -83,3 +83,5 @@ tg://proxy?server=103.249.133.192&port=8443&secret=ee3c0ae83a9ff4ec7acdd00bc1822
 tg://proxy?server=77.91.72.252&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=77.90.135.133&port=8882&secret=eed700433aba3557d5e83d82beb4ab73586769746875622e636f6d
 tg://proxy?server=5.75.192.52&port=4600&secret=ee50ea9272aa164be4f074c3876ee498f073332e616d617a6f6e6177732e636f6d
+tg://proxy?server=54.37.90.206&port=4620&secret=ee9e350fd658b934ea8d77a0e53500e6fd7661727a657368332e636f6d
+tg://proxy?server=prnim.kipa2.ir&port=8246&secret=eeea578b869b9cfe7bee891ef262510972636c6f7564666c6172652e636f6d
