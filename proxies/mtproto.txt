@@ -74,14 +74,12 @@ tg://proxy?server=clients.techsupporthub.info&port=443&secret=eec12e97d52ec61f89
 tg://proxy?server=185.204.171.178&port=443&secret=ee1cfcda2668ae1a8f7654505c4abcfce173332e616d617a6f6e6177732e636f6d
 tg://proxy?server=voloom.voloomvip.top&port=443&secret=eeb5ceaf3e2cc8db8567b214f1be6936e26170617261742e636f6d
 tg://proxy?server=165.22.69.147&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e1d07265736561726368676174652e6e6574
-tg://proxy?server=185.204.170.35&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb76616e2e6e616a76612e636f6d
 tg://proxy?server=apple.slumbo.com&port=9120&secret=eeeb9baf94c9cafa2f4c377b239e79e9e57777772e7673737765622e6e6574
 tg://proxy?server=www.githab.www.google.wwwbasalam.www.farshekashani.ir&port=5001&secret=ee49c808d759cdf1df409ce4601ce40f737777772e676f6f676c652e636f6d
 tg://proxy?server=45.67.229.238&port=7878&secret=eedb09c6abaa7131a8a53260ab4845aade6f79756e7369746573692e636f6d
 tg://proxy?server=proxy.funsexyi.myirancell.mci.rightel.liverpool.ahmadp206.sbs&port=70&secret=ee16f1e58b6db8d631bc1cae9a30838ea07777772e646967696b616c612e636f6d
 tg://proxy?server=103.249.133.192&port=8443&secret=ee3c0ae83a9ff4ec7acdd00bc1822be1177777772e6170617261742e636f6d
 tg://proxy?server=77.91.72.252&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
-tg://proxy?server=77.90.135.133&port=8882&secret=eed700433aba3557d5e83d82beb4ab73586769746875622e636f6d
 tg://proxy?server=5.75.192.52&port=4600&secret=ee50ea9272aa164be4f074c3876ee498f073332e616d617a6f6e6177732e636f6d
 tg://proxy?server=54.37.90.206&port=4620&secret=ee9e350fd658b934ea8d77a0e53500e6fd7661727a657368332e636f6d
 tg://proxy?server=prnim.kipa2.ir&port=8246&secret=eeea578b869b9cfe7bee891ef262510972636c6f7564666c6172652e636f6d
