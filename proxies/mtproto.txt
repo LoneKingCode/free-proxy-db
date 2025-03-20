@@ -76,3 +76,4 @@ tg://proxy?server=prnim.kipa2.ir&port=8246&secret=eeea578b869b9cfe7bee891ef26251
 tg://proxy?server=birdaneh.hamisheluxbemon.tech&port=443&secret=eed6c7db692493db3facdf11754d12bfb37777772e7472756570656f706c657365617263682e636f6d
 tg://proxy?server=aaaaaaaa.aaaaaaaaaaaaaaaa.faridam.com.tr&port=1212&secret=ee98e481d85586a7f86b6327d96f77071e7777772e676f6f676c652e636f6d
 tg://proxy?server=proxy.myirancell.digikala.fastfood.snapp.sheypoor.pers.est.aria.ahmadp206.sbs&port=443&secret=ee591c23895b2084bf86cfcb0bc478c3ec7777772e7370656564746573742e6e6574
+tg://proxy?server=207.154.224.68&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e1d07265736561726368676174652e6e6574
