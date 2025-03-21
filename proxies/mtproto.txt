@@ -23,8 +23,6 @@ tg://proxy?server=s4.proxytun.store&port=443&secret=ee3dd667aaec75459c7934d470df
 tg://proxy?server=s5.proxytun.store&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
 tg://proxy?server=s6.proxytun.store&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=s1.proxytun.store&port=2087&secret=ee8318f151edb0da2dc254e67407b419777a756c612e6972
-tg://proxy?server=www.anten.film.garden2424.ir&port=80&secret=ee220280c1666f81ee2beea19317837d0a7777772e7a756c612e69722e616e74656e2e69722e66616e617661722e636f2e75742e61632e6972
-tg://proxy?server=garden2424.ir&port=80&secret=ee220280c1666f81ee2beea19317837d0a7777772e7a756c612e69722e616e74656e2e69722e66616e617661722e636f2e75742e61632e6972
 tg://proxy?server=xn--uh8h.xn--57ha.xn--47haa.xn--5s9haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--o1aaaaaaaaaaaaa.ip-ddns.com&port=443&secret=ee1690010333018701fc030386e88c9bdd7777772e7673737765622e6e6574
 tg://proxy?server=100.120.130echolicense.sacony.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental-from.vayasaze.ir&port=443&secret=ee195a48185c0234c1bd974f6fc950f56c726566657273696f6e2e636f6d
 tg://proxy?server=185.212.44.187&port=7878&secret=ee85848b9caff8374e97f4c5a7d5ebaea16769746875622e636f6d
