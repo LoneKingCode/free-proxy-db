@@ -22,7 +22,6 @@ tg://proxy?server=s3.proxytun.store&port=8443&secret=ee91119764c5ec93924e7e12770
 tg://proxy?server=s4.proxytun.store&port=443&secret=ee3dd667aaec75459c7934d470dff106d77a756c612e6972
 tg://proxy?server=s5.proxytun.store&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
 tg://proxy?server=s6.proxytun.store&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
-tg://proxy?server=s1.proxytun.store&port=2087&secret=ee8318f151edb0da2dc254e67407b419777a756c612e6972
 tg://proxy?server=xn--uh8h.xn--57ha.xn--47haa.xn--5s9haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--o1aaaaaaaaaaaaa.ip-ddns.com&port=443&secret=ee1690010333018701fc030386e88c9bdd7777772e7673737765622e6e6574
 tg://proxy?server=100.120.130echolicense.sacony.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental-from.vayasaze.ir&port=443&secret=ee195a48185c0234c1bd974f6fc950f56c726566657273696f6e2e636f6d
 tg://proxy?server=185.212.44.187&port=7878&secret=ee85848b9caff8374e97f4c5a7d5ebaea16769746875622e636f6d
@@ -51,9 +50,6 @@ tg://proxy?server=45.120.177.92&port=2098&secret=ee95b881e1e7f3817d0873ca2865a94
 tg://proxy?server=5.181.20.195&port=8433&secret=ee7b1d3d214c09cbffcc9d4b3c9a249c467a756c612e6972
 tg://proxy?server=45.12.132.166&port=2087&secret=ee4fb2d03fd1cdadb8095fd3bceb67d2107a756c612e6972
 tg://proxy?server=45.120.177.109&port=2098&secret=ee95b881e1e7f3817d0873ca2865a94f1c7a756c612e6972
-tg://proxy?server=45.12.132.217&port=2087&secret=ee4fb2d03fd1cdadb8095fd3bceb67d2107a756c612e6972
-tg://proxy?server=45.12.146.218&port=8433&secret=ee7b1d3d214c09cbffcc9d4b3c9a249c467a756c612e6972
-tg://proxy?server=2.56.179.121&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
 tg://proxy?server=5.182.38.90&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=one.tinkpad.ir&port=443&secret=ee41e6ae7deda3882138f929a7aefc8ff662617a61722e69722e62726974616e6e6963612e636f6d2e66616e617661722e636f2e66616e617661722e636f
 tg://proxy?server=clients.techsupporthub.info&port=443&secret=eec12e97d52ec61f8953aee14337271c957777772e636c6f7564666c6172652e636f6d
