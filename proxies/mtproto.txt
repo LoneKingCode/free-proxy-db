@@ -17,7 +17,6 @@ tg://proxy?server=sar.dar.gom.bodam.hame.omr.hiva.parnianshop.co.uk&port=8080&se
 tg://proxy?server=googleamazondigikalaalibabasahibindenay.capitalpulse.me&port=15&secret=ee1bb5b4bc5681ed6b31820f2f22c772da696e7465726e657468616265722e636f6d
 tg://proxy?server=46.101.177.218&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e1d07265736561726368676174652e6e6574
 tg://proxy?server=the.perfect.blend.of.tomatoes.spices.and.magic.that.brings.life.to.every.meal.and.makes.every.snack.delightful.easyfrance.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
-tg://proxy?server=s2.proxytun.store&port=2083&secret=ee3d94938ea100dc10645af8a90a5e82f07a756c612e6972
 tg://proxy?server=s3.proxytun.store&port=8443&secret=ee91119764c5ec93924e7e1277004b8b257a756c612e6972
 tg://proxy?server=s4.proxytun.store&port=443&secret=ee3dd667aaec75459c7934d470dff106d77a756c612e6972
 tg://proxy?server=s5.proxytun.store&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
