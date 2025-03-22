@@ -21,9 +21,7 @@ tg://proxy?server=s4.proxytun.store&port=443&secret=ee3dd667aaec75459c7934d470df
 tg://proxy?server=s5.proxytun.store&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
 tg://proxy?server=s6.proxytun.store&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=xn--uh8h.xn--57ha.xn--47haa.xn--5s9haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--o1aaaaaaaaaaaaa.ip-ddns.com&port=443&secret=ee1690010333018701fc030386e88c9bdd7777772e7673737765622e6e6574
-tg://proxy?server=100.120.130echolicense.sacony.com.just-do-it-unless-it-involves-exercise.adidas.com.impossible-is-nothing-except-getting-my-kids-to-eat-vegetables.underarmour.com.protecting-myself-from-the-elements-and-the-judgmental-from.vayasaze.ir&port=443&secret=ee195a48185c0234c1bd974f6fc950f56c726566657273696f6e2e636f6d
 tg://proxy?server=185.212.44.187&port=7878&secret=ee85848b9caff8374e97f4c5a7d5ebaea16769746875622e636f6d
-tg://proxy?server=192.168.1.1.apt-kernel.org.vayasaze.ir&port=443&secret=ee195a48185c0234c1bd974f6fc950f56c726566657273696f6e2e636f6d
 tg://proxy?server=85.9.97.22&port=2053&secret=eed7888dc86d09166335db50991d609aa973332e616d617a6f6e6177732e636f6d
 tg://proxy?server=77.91.72.19&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=events.dailyhorizon.info&port=443&secret=eec12e97d52ec61f8953aee14337271c957777772e636c6f7564666c6172652e636f6d
@@ -44,7 +42,6 @@ tg://proxy?server=files.ryteseo.com&port=443&secret=ee7deb27de1d955fc03656c3ea6e
 tg://proxy?server=213.108.20.239&port=9&secret=ee9a158f74da4d63d2cdfb4e09dbafffee
 tg://proxy?server=45.12.132.39&port=2087&secret=ee4fb2d03fd1cdadb8095fd3bceb67d2107a756c612e6972
 tg://proxy?server=45.12.135.251&port=8433&secret=ee7b1d3d214c09cbffcc9d4b3c9a249c467a756c612e6972
-tg://proxy?server=45.120.177.92&port=2098&secret=ee95b881e1e7f3817d0873ca2865a94f1c7a756c612e6972
 tg://proxy?server=5.181.20.195&port=8433&secret=ee7b1d3d214c09cbffcc9d4b3c9a249c467a756c612e6972
 tg://proxy?server=45.12.132.166&port=2087&secret=ee4fb2d03fd1cdadb8095fd3bceb67d2107a756c612e6972
 tg://proxy?server=5.182.38.90&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
@@ -63,3 +60,5 @@ tg://proxy?server=prnim.kipa2.ir&port=8246&secret=eeea578b869b9cfe7bee891ef26251
 tg://proxy?server=birdaneh.hamisheluxbemon.tech&port=443&secret=eed6c7db692493db3facdf11754d12bfb37777772e7472756570656f706c657365617263682e636f6d
 tg://proxy?server=proxy.myirancell.digikala.fastfood.snapp.sheypoor.pers.est.aria.ahmadp206.sbs&port=443&secret=ee591c23895b2084bf86cfcb0bc478c3ec7777772e7370656564746573742e6e6574
 tg://proxy?server=207.154.224.68&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e1d07265736561726368676174652e6e6574
+tg://proxy?server=159.69.114.128&port=443&secret=eee1978e5fc01fa2b01bb1e0093b0fccd76d6567612e696f
+tg://proxy?server=accelerate2.getmalus.app&port=443&secret=eee5d07f1996f309fbf70952423042f575672e616c6963646e2e636f6d
