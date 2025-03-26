@@ -14,7 +14,6 @@ tg://proxy?server=www.abccloud.ir&port=443&secret=eedddddddddddddddddddddddddddd
 tg://proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.ttl_internet.ufw-dns.co.uk&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
 tg://proxy?server=be.sorat.vasl.sho.hiva.parnianshop.co.uk&port=8080&secret=ee9def57ce0381815c3e7d6f84f7ad0df4
 tg://proxy?server=sar.dar.gom.bodam.hame.omr.hiva.parnianshop.co.uk&port=8080&secret=ee9def57ce0381815c3e7d6f84f7ad0df4
-tg://proxy?server=googleamazondigikalaalibabasahibindenay.capitalpulse.me&port=15&secret=ee1bb5b4bc5681ed6b31820f2f22c772da696e7465726e657468616265722e636f6d
 tg://proxy?server=46.101.177.218&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e1d07265736561726368676174652e6e6574
 tg://proxy?server=the.perfect.blend.of.tomatoes.spices.and.magic.that.brings.life.to.every.meal.and.makes.every.snack.delightful.easyfrance.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 tg://proxy?server=s5.proxytun.store&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
@@ -39,8 +38,6 @@ tg://proxy?server=5.vrem-noroi.pro&port=443&secret=eebf0909f59ec526bd45762be69c8
 tg://proxy?server=9.vrem-noroi.pro&port=443&secret=ee22c07fb95cb3acbb87dfa831fadf0a1a73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=files.ryteseo.com&port=443&secret=ee7deb27de1d955fc03656c3ea6e0da5e16d796b65742e6972
 tg://proxy?server=213.108.20.239&port=9&secret=ee9a158f74da4d63d2cdfb4e09dbafffee
-tg://proxy?server=45.12.132.39&port=2087&secret=ee4fb2d03fd1cdadb8095fd3bceb67d2107a756c612e6972
-tg://proxy?server=45.12.135.251&port=8433&secret=ee7b1d3d214c09cbffcc9d4b3c9a249c467a756c612e6972
 tg://proxy?server=5.182.38.90&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
 tg://proxy?server=one.tinkpad.ir&port=443&secret=ee41e6ae7deda3882138f929a7aefc8ff662617a61722e69722e62726974616e6e6963612e636f6d2e66616e617661722e636f2e66616e617661722e636f
 tg://proxy?server=clients.techsupporthub.info&port=443&secret=eec12e97d52ec61f8953aee14337271c957777772e636c6f7564666c6172652e636f6d
@@ -50,7 +47,6 @@ tg://proxy?server=165.22.69.147&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e
 tg://proxy?server=apple.slumbo.com&port=9120&secret=eeeb9baf94c9cafa2f4c377b239e79e9e57777772e7673737765622e6e6574
 tg://proxy?server=www.githab.www.google.wwwbasalam.www.farshekashani.ir&port=5001&secret=ee49c808d759cdf1df409ce4601ce40f737777772e676f6f676c652e636f6d
 tg://proxy?server=45.67.229.238&port=7878&secret=eedb09c6abaa7131a8a53260ab4845aade6f79756e7369746573692e636f6d
-tg://proxy?server=proxy.funsexyi.myirancell.mci.rightel.liverpool.ahmadp206.sbs&port=70&secret=ee16f1e58b6db8d631bc1cae9a30838ea07777772e646967696b616c612e636f6d
 tg://proxy?server=103.249.133.192&port=8443&secret=ee3c0ae83a9ff4ec7acdd00bc1822be1177777772e6170617261742e636f6d
 tg://proxy?server=5.75.192.52&port=4600&secret=ee50ea9272aa164be4f074c3876ee498f073332e616d617a6f6e6177732e636f6d
 tg://proxy?server=prnim.kipa2.ir&port=8246&secret=eeea578b869b9cfe7bee891ef262510972636c6f7564666c6172652e636f6d
@@ -60,3 +56,5 @@ tg://proxy?server=207.154.224.68&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2
 tg://proxy?server=159.69.114.128&port=443&secret=eee1978e5fc01fa2b01bb1e0093b0fccd76d6567612e696f
 tg://proxy?server=46.249.101.253&port=4601&secret=ee811ebf1726392816aa18c2b070b2444f73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=51.15.120.117&port=8443&secret=eea243325928d4512f2430e973efb2be55636c6f7564666c6172652e636f6d
+tg://proxy?server=188.245.53.109&port=343&secret=ee735f4f4dbf418db88c1035376606e7eb726566657273696f6e2e636f6d
+tg://proxy?server=divar.shadischool.com&port=2113&secret=ee66c9ebc2d8483f523a81ca072d57df287777772e6769746875622e636f6d
