@@ -18,7 +18,6 @@ tg://proxy?server=46.101.177.218&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2
 tg://proxy?server=the.perfect.blend.of.tomatoes.spices.and.magic.that.brings.life.to.every.meal.and.makes.every.snack.delightful.easyfrance.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 tg://proxy?server=s5.proxytun.store&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
 tg://proxy?server=s6.proxytun.store&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
-tg://proxy?server=xn--uh8h.xn--57ha.xn--47haa.xn--5s9haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--o1aaaaaaaaaaaaa.ip-ddns.com&port=443&secret=ee1690010333018701fc030386e88c9bdd7777772e7673737765622e6e6574
 tg://proxy?server=185.212.44.187&port=7878&secret=ee85848b9caff8374e97f4c5a7d5ebaea16769746875622e636f6d
 tg://proxy?server=85.9.97.22&port=2053&secret=eed7888dc86d09166335db50991d609aa973332e616d617a6f6e6177732e636f6d
 tg://proxy?server=77.91.72.19&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
@@ -59,3 +58,4 @@ tg://proxy?server=209.38.249.95&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e
 tg://proxy?server=parya.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
 tg://proxy?server=gerto.mumntum.ir&port=443&secret=eefa5ae303b64b0da6a668419e17b623d0766973612e636f6d
 tg://proxy?server=gertre.mumntum.ir&port=2083&secret=eea4836ac8024281cb9da4d4e4ffbdd9fb7777772e77617070616c797a65722e636f6d
+tg://proxy?server=188.213.130.11&port=443&secret=ee5b77fde212e451b66ab7f98287c27de87a756c612e6972
