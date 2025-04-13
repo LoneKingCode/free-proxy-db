@@ -56,5 +56,4 @@ tg://proxy?server=parya.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37ae
 tg://proxy?server=gerto.mumntum.ir&port=443&secret=eefa5ae303b64b0da6a668419e17b623d0766973612e636f6d
 tg://proxy?server=gertre.mumntum.ir&port=2083&secret=eea4836ac8024281cb9da4d4e4ffbdd9fb7777772e77617070616c797a65722e636f6d
 tg://proxy?server=159.69.109.134&port=77&secret=ee083428c8984d53b9a0a4085a7dcd807d73332e616d617a6f6e6177732e636f6d
-tg://proxy?server=159.65.194.208&port=443&secret=eef1f1f1f1f1f1f1f1f1f1f1f1f1f1f1f173332e616d617a6f6e6177732e636f6d
 tg://proxy?server=parya1.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
