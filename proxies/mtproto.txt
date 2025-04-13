@@ -51,7 +51,6 @@ tg://proxy?server=divar.shadischool.com&port=2113&secret=ee66c9ebc2d8483f523a81c
 tg://proxy?server=45.136.5.187&port=11111&secret=eee4eff605d53e965d8dbb52b0b11580bc73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=109.107.181.150&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
 tg://proxy?server=w.10.y.mtproto.ru&port=443&secret=ee211122223333444455556666777788886d6170732e676f6f676c652e636f6d
-tg://proxy?server=64.227.68.254&port=443&secret=ee042db9ccd49486059b07143535611053666173742e636f6d
 tg://proxy?server=209.38.249.95&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e1d07265736561726368676174652e6e6574
 tg://proxy?server=parya.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
 tg://proxy?server=gerto.mumntum.ir&port=443&secret=eefa5ae303b64b0da6a668419e17b623d0766973612e636f6d
