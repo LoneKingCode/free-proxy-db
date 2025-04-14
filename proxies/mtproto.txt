@@ -61,3 +61,4 @@ tg://proxy?server=mihanyas.ir.www.zula.ir.haydayshop.ir&port=243&secret=ee87c527
 tg://proxy?server=sajad1.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
 tg://proxy?server=a.abccloudd.ir&port=2087&secret=eedddddddddddddddddddddddddddddddd7370656564746573742e6e6574
 tg://proxy?server=45.142.122.192&port=2087&secret=eedddddddddddddddddddddddddddddddd7370656564746573742e6e6574
+tg://proxy?server=145.223.98.215&port=15&secret=ee3d95771a58f99d72afb70826c413d2b673332e68616265727369746573692e636f6d
