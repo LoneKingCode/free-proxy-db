@@ -12,7 +12,6 @@ tg://proxy?server=us.skrsteam.click&port=2021&secret=ee2f67d558cda75d096636c292c
 tg://proxy?server=www.alibaba.farshekashani.ir&port=5001&secret=ee93249483cd15284e8d5ebd948dd7ce746769746875622e636f6d
 tg://proxy?server=www.abccloud.ir&port=443&secret=eedddddddddddddddddddddddddddddddd7370656564746573742e6e6574
 tg://proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.ttl_internet.ufw-dns.co.uk&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
-tg://proxy?server=sar.dar.gom.bodam.hame.omr.hiva.parnianshop.co.uk&port=8080&secret=ee9def57ce0381815c3e7d6f84f7ad0df4
 tg://proxy?server=46.101.177.218&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e1d07265736561726368676174652e6e6574
 tg://proxy?server=the.perfect.blend.of.tomatoes.spices.and.magic.that.brings.life.to.every.meal.and.makes.every.snack.delightful.easyfrance.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972
 tg://proxy?server=s5.proxytun.store&port=2053&secret=ee164e8f8026cff531866f20f85d5241de7a756c612e6972
@@ -57,4 +56,3 @@ tg://proxy?server=mihanyas.ir.www.zula.ir.haydayshop.ir&port=243&secret=ee87c527
 tg://proxy?server=sajad1.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
 tg://proxy?server=45.12.143.50&port=8443&secret=eed0d4548b761e0a09c5a384c56bb7b2b773332e616d617a6f6e6177732e636f6d
 tg://proxy?server=5.75.212.12&port=443&secret=eee2f46c797e529bdef910746660a5d2b373332e616d617a6f6e6177732e636f6d
-tg://proxy?server=62.60.153.76&port=443&secret=ee66881e6e1e7d1ff6647913616d36aeae676f6f676c652e636f6d
