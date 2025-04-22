@@ -34,7 +34,6 @@ tg://proxy?server=5.vrem-noroi.pro&port=443&secret=eebf0909f59ec526bd45762be69c8
 tg://proxy?server=9.vrem-noroi.pro&port=443&secret=ee22c07fb95cb3acbb87dfa831fadf0a1a73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=files.ryteseo.com&port=443&secret=ee7deb27de1d955fc03656c3ea6e0da5e16d796b65742e6972
 tg://proxy?server=213.108.20.239&port=9&secret=ee9a158f74da4d63d2cdfb4e09dbafffee
-tg://proxy?server=one.tinkpad.ir&port=443&secret=ee41e6ae7deda3882138f929a7aefc8ff662617a61722e69722e62726974616e6e6963612e636f6d2e66616e617661722e636f2e66616e617661722e636f
 tg://proxy?server=185.204.171.178&port=443&secret=ee1cfcda2668ae1a8f7654505c4abcfce173332e616d617a6f6e6177732e636f6d
 tg://proxy?server=voloom.voloomvip.top&port=443&secret=eeb5ceaf3e2cc8db8567b214f1be6936e26170617261742e636f6d
 tg://proxy?server=apple.slumbo.com&port=9120&secret=eeeb9baf94c9cafa2f4c377b239e79e9e57777772e7673737765622e6e6574
