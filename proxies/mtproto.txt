@@ -19,7 +19,6 @@ tg://proxy?server=s6.proxytun.store&port=2096&secret=ee3e41876cb4a9df34e588afdd3
 tg://proxy?server=185.212.44.187&port=7878&secret=ee85848b9caff8374e97f4c5a7d5ebaea16769746875622e636f6d
 tg://proxy?server=85.9.97.22&port=2053&secret=eed7888dc86d09166335db50991d609aa973332e616d617a6f6e6177732e636f6d
 tg://proxy?server=77.91.72.19&port=2096&secret=ee3e41876cb4a9df34e588afdd3797f7bc7a756c612e6972
-tg://proxy?server=events.dailyhorizon.info&port=443&secret=eec12e97d52ec61f8953aee14337271c957777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=45.12.134.129&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d
 tg://proxy?server=103.35.189.118&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d
 tg://proxy?server=3.vrem-noroi.pro&port=443&secret=ee56ef086cf68363986249a71460a7ef2473332e616d617a6f6e6177732e636f6d
