@@ -33,7 +33,6 @@ tg://proxy?server=voloom.voloomvip.top&port=443&secret=eeb5ceaf3e2cc8db8567b214f
 tg://proxy?server=apple.slumbo.com&port=9120&secret=eeeb9baf94c9cafa2f4c377b239e79e9e57777772e7673737765622e6e6574
 tg://proxy?server=www.githab.www.google.wwwbasalam.www.farshekashani.ir&port=5001&secret=ee49c808d759cdf1df409ce4601ce40f737777772e676f6f676c652e636f6d
 tg://proxy?server=45.67.229.238&port=7878&secret=eedb09c6abaa7131a8a53260ab4845aade6f79756e7369746573692e636f6d
-tg://proxy?server=prnim.kipa2.ir&port=8246&secret=eeea578b869b9cfe7bee891ef262510972636c6f7564666c6172652e636f6d
 tg://proxy?server=birdaneh.hamisheluxbemon.tech&port=443&secret=eed6c7db692493db3facdf11754d12bfb37777772e7472756570656f706c657365617263682e636f6d
 tg://proxy?server=divar.shadischool.com&port=2113&secret=ee66c9ebc2d8483f523a81ca072d57df287777772e6769746875622e636f6d
 tg://proxy?server=w.10.y.mtproto.ru&port=443&secret=ee211122223333444455556666777788886d6170732e676f6f676c652e636f6d
