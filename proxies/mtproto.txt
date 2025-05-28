@@ -4,7 +4,6 @@ tg://proxy?server=193.93.153.119&port=443&secret=ee6ea63f16082c83dae885959594989
 tg://proxy?server=188.34.166.237&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
 tg://proxy?server=5.255.121.99&port=443&secret=ee6ea63f16082c83dae885959594989704676f6f676c652e636f6d
 tg://proxy?server=78.46.135.59&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
-tg://proxy?server=hami.lovethosetrains.com&port=1053&secret=eea7f0d1bb32369e1013e5aae6136831c573332e616d617a6f6e6177732e636f6d
 tg://proxy?server=www.abccloud.ir&port=443&secret=eedddddddddddddddddddddddddddddddd7370656564746573742e6e6574
 tg://proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.ttl_internet.ufw-dns.co.uk&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
 tg://proxy?server=45.12.134.129&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d
