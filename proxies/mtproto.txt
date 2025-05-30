@@ -34,7 +34,6 @@ tg://proxy?server=parya1.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37a
 tg://proxy?server=client.volumemovie.ir&port=443&secret=ee4ac8ad1c5f8c29be7e2dbbaf669d98767777772e7370656564746573742e6e6574
 tg://proxy?server=sajad1.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
 tg://proxy?server=45.12.143.50&port=8443&secret=eed0d4548b761e0a09c5a384c56bb7b2b773332e616d617a6f6e6177732e636f6d
-tg://proxy?server=5.75.212.12&port=443&secret=eee2f46c797e529bdef910746660a5d2b373332e616d617a6f6e6177732e636f6d
 tg://proxy?server=165.232.46.202&port=443&secret=ee01b0c24142b6abeb900ee2d80d128ba46769746875622e636f6d
 tg://proxy?server=149.28.53.43&port=443&secret=eef3e8bb41c53cfed143148c979acb26c76769746875622e636f6d
 tg://proxy?server=dl2.mp3.par30musicdownload.org&port=9915&secret=eea0f48aaa3fa071373b4a5276e5acc58f7461726973676c6f62616c2e636f6d
