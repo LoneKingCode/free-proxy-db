@@ -180,7 +180,6 @@ tg://proxy?server=78.46.240.236&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=89.221.203.150&port=37&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=91.235.234.124&port=9090&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=92.246.87.70&port=777&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=89.208.84.88&port=443&secret=dd0e8fb949be3cb892e43e7128c77c47c3
 tg://proxy?server=89.110.89.9&port=4443&secret=79ea54d21249bd7ac519CQ
 tg://proxy?server=91.107.172.32&port=6968&secret=adf40f46d165230637065edeeac211a9
 tg://proxy?server=91.219.23.153&port=37&secret=dd79e344818749bd7ac519130220c25d09
