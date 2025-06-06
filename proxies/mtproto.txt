@@ -309,3 +309,5 @@ tg://proxy?server=yozar.abarwitch.info&port=443&secret=1603010200010001fc030386e
 tg://proxy?server=varzesh3.com_irib3.ir_ahrefs.com_en.wikipedia.org_microsoft.com.iceburger.ir&port=5672&secret=3d3d3d3d3d3d3d3d3d3d3d0=
 tg://proxy?server=wallex.ir_nobitex.ir_zula.ir_tamin.ir_bimeh.com_downloadha.ir_linkirani.com_mihandownload.ir_varzesh3.com.iceburger.ir&port=5672&secret=3d3d3d3d3d3d3d3d3d3d3d0=
 tg://proxy?server=value.sheshko.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=11.masi.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=21.dfff.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.zban-df.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
