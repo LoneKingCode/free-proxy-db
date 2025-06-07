@@ -10,13 +10,10 @@ tg://proxy?server=45.12.134.129&port=8888&secret=eed0d6e111bada5511fcce9584deadb
 tg://proxy?server=103.35.189.118&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d
 tg://proxy?server=3.vrem-noroi.pro&port=443&secret=ee56ef086cf68363986249a71460a7ef2473332e616d617a6f6e6177732e636f6d
 tg://proxy?server=2.vrem-noroi.pro&port=443&secret=ee8f6b1c675b5f0ad69a5d21db3966382e73332e616d617a6f6e6177732e636f6d
-tg://proxy?server=4.vrem-noroi.pro&port=443&secret=eec6dc7403533496fed7f7f04ef525862c73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=1.vrem-noroi.pro&port=443&secret=ee973da79e91f1ec8069bfbdefa7d8b63f73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=7.vrem-noroi.pro&port=443&secret=eeb33db775b107a1d4d27ba64cf062d72673332e616d617a6f6e6177732e636f6d
 tg://proxy?server=8.vrem-noroi.pro&port=443&secret=ee3cb171462e7ccec286446a1037da236473332e616d617a6f6e6177732e636f6d
 tg://proxy?server=10.vrem-noroi.pro&port=443&secret=ee9ebabd4ad73c5efea784d124a92aee5273332e616d617a6f6e6177732e636f6d
-tg://proxy?server=6.vrem-noroi.pro&port=443&secret=ee6593ccec97b75f66dafa7ede1ec55bb173332e616d617a6f6e6177732e636f6d
-tg://proxy?server=5.vrem-noroi.pro&port=443&secret=eebf0909f59ec526bd45762be69c8310b373332e616d617a6f6e6177732e636f6d
 tg://proxy?server=9.vrem-noroi.pro&port=443&secret=ee22c07fb95cb3acbb87dfa831fadf0a1a73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=files.ryteseo.com&port=443&secret=ee7deb27de1d955fc03656c3ea6e0da5e16d796b65742e6972
 tg://proxy?server=213.108.20.239&port=9&secret=ee9a158f74da4d63d2cdfb4e09dbafffee
@@ -318,3 +315,4 @@ tg://proxy?server=77.206.62.172-moharam.ir&port=3443&secret=FgMBAgABAAH8AwOG4kw6
 tg://proxy?server=l65.l210.l75-l471.ir&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=91.84.99.92&port=321&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=116.203.145.137&port=888&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=88.363.172-63.ir&port=443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
