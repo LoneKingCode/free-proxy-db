@@ -8,10 +8,6 @@ tg://proxy?server=www.abccloud.ir&port=443&secret=eedddddddddddddddddddddddddddd
 tg://proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.ttl_internet.ufw-dns.co.uk&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
 tg://proxy?server=45.12.134.129&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d
 tg://proxy?server=103.35.189.118&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d
-tg://proxy?server=2.vrem-noroi.pro&port=443&secret=ee8f6b1c675b5f0ad69a5d21db3966382e73332e616d617a6f6e6177732e636f6d
-tg://proxy?server=1.vrem-noroi.pro&port=443&secret=ee973da79e91f1ec8069bfbdefa7d8b63f73332e616d617a6f6e6177732e636f6d
-tg://proxy?server=7.vrem-noroi.pro&port=443&secret=eeb33db775b107a1d4d27ba64cf062d72673332e616d617a6f6e6177732e636f6d
-tg://proxy?server=8.vrem-noroi.pro&port=443&secret=ee3cb171462e7ccec286446a1037da236473332e616d617a6f6e6177732e636f6d
 tg://proxy?server=files.ryteseo.com&port=443&secret=ee7deb27de1d955fc03656c3ea6e0da5e16d796b65742e6972
 tg://proxy?server=213.108.20.239&port=9&secret=ee9a158f74da4d63d2cdfb4e09dbafffee
 tg://proxy?server=185.204.171.178&port=443&secret=ee1cfcda2668ae1a8f7654505c4abcfce173332e616d617a6f6e6177732e636f6d
