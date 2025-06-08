@@ -319,3 +319,4 @@ tg://proxy?server=loveprox.18not.com&port=443&secret=fd0068d5babf83266dadc790a20
 tg://proxy?server=91.99.133.160&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=188.245.158.87&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=138.201.118.67&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=91.99.80.236&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
