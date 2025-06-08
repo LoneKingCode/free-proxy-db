@@ -320,3 +320,5 @@ tg://proxy?server=91.99.133.160&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=188.245.158.87&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=138.201.118.67&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=91.99.80.236&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=49.12.112.27&port=443&secret=DDBighLLvXrFGRMCBVJdFQ
+tg://proxy?server=116.202.3.187&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
