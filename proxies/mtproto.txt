@@ -316,3 +316,4 @@ tg://proxy?server=88.363.172-63.ir&port=443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueW
 tg://proxy?server=65.109.201.115&port=443&secret=cae769d452664ae83320add1025e7534
 tg://proxy?server=95.217.236.239&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=91.142.78.19&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=taher.cpiu.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
