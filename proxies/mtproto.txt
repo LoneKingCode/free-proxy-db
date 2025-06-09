@@ -329,3 +329,4 @@ tg://proxy?server=4.e7777.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_wit
 tg://proxy?server=2.e7777.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.zban-mas.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=1.e7777.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.zban-mas.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=a.10.mtproto.ru&port=443&secret=ee211122223333444455556666777788887765622e736e6170636861742e636f6d
+tg://proxy?server=94.130.70.101&port=443&secret=EERighJJvXrFGRMCIMJdCQ
