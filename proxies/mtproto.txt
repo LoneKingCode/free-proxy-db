@@ -186,7 +186,6 @@ tg://proxy?server=ir.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=warzonecall2025.co.uk&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=ir.brobalair.store&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=vmwarecenter.co.uk&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
-tg://proxy?server=83.166.239.244&port=443&secret=dd0e8fb949be3cb892e43e7128c77c47c3
 tg://proxy?server=116.202.30.140&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=5.255.122.83&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=49.13.119.147&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
