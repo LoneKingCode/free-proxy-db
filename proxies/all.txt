@@ -3542,3 +3542,5 @@ socks5://185.93.89.152:5602
 socks5://185.93.89.151:4434
 http://115.72.0.62:10028
 tg://proxy?server=78.47.198.31&port=443&secret=DDBighLLvXrFGRMCBVJdFQ
+socks4://13.38.96.219:1080
+socks4://64.176.59.189:1080
