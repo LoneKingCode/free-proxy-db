@@ -340,3 +340,5 @@ tg://proxy?server=77.105.136.11&port=519&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFu
 tg://proxy?server=46.8.69.30&port=443&secret=dd482ed2b302781532a9a423abbe49406e
 tg://proxy?server=141.11.26.251&port=155&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=141.11.26.250&port=155&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=45.84.0.164&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb
+tg://proxy?server=bic.xr66.ir&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb
