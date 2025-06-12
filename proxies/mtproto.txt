@@ -342,3 +342,4 @@ tg://proxy?server=141.11.26.251&port=155&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=141.11.26.250&port=155&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=45.84.0.164&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb
 tg://proxy?server=bic.xr66.ir&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb
+tg://proxy?server=p1.telepp.site&port=6968&secret=adf40f46d165230637065edeeac211a9
