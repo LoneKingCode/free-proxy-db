@@ -235,7 +235,6 @@ tg://proxy?server=78.385.01-62.ir&port=166&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=180.66-48-204.ir&port=4443&secret=FgMBAgABAAH8AwOG4kw63QAAAAAAAA==
 tg://proxy?server=65.52-207-95.ir&port=20259&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localwest.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.avadox-zhoan.info&port=1201&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=persian-gulf.ai-sib-backup.ir&port=8443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=institute.sateh.info&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=e7.brobalair.store&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=biskotard.sheshko.info&port=443&secret=1603010200010001fc030386e24c3add
@@ -282,12 +281,10 @@ tg://proxy?server=pinkblu.ir&port=243&secret=ee4270799104bc286ec0653521aedb6b086
 tg://proxy?server=95.128.172-63.ir&port=443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=aparat.com_digikala.com_donya-e-eqtesad.com_rokna.net_shaparak.ir_setmc.com_sabteahval.ir.iceburger.ir&port=5672&secret=3d3d3d3d3d3d3d3d3d3d3d0=
 tg://proxy?server=b2.haydayshop.ir&port=243&secret=ee4270799104bc286ec0653521aedb6b08616d617a6f6e2e636f6d2e6175
-tg://proxy?server=enjoy-it.ai-i-trend.ir&port=8443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=hcogcoyd.co.uk&port=9090&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=shampo.cinere.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=abrig.abarwitch.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=boikai.aivalai.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
-tg://proxy?server=empire-persia.ex-ir-backup.ir&port=8443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=tools.mygrade.ir&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=www.bazi-parvaneh.ir&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=welcome.sayaair.ir&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
@@ -346,3 +343,4 @@ tg://proxy?server=bic2.xr66.ir&port=6968&secret=c918f8593a6b9a7d003393558b4d3d59
 tg://proxy?server=142.132.199.239&port=8443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=91.99.126.145&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=mojnetwork.protectmyemail.xyz&port=443&secret=ddbdb7983d4a7080ced4f66f2513e46dbf
+tg://proxy?server=cvhudidisiiaisiaisijdjhrbrbr.endbot.top&port=1122&secret=d3dc6819743ceae6a8871ce5cb04ca33
