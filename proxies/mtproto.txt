@@ -359,3 +359,4 @@ tg://proxy?server=88.99.251.22&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=88.99.248.184&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=app.abrarvan.io&port=9870&secret=eeb859becfc10223bd7dd89250836db4af73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=ekh7.zban-df.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=216.9.224.104&port=443&secret=469fe09b277920a8ae91ddefa736056b
