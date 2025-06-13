@@ -267,7 +267,6 @@ tg://proxy?server=heavisuy.sheshko.info&port=443&secret=1603010200010001fc030386
 tg://proxy?server=panel.snapkalaa.com&port=69&secret=ee9559dd5b4bfd6bb2e3d29e47e65346507777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=jenab-khan.aaaofjosdfh-xy1xutsdg-1tk.info&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=here.aivalai.info&port=443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=the-moon.mydata-recovery.ir&port=8443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=mail.bazi-parvaneh.ir&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=link.shop-parvaneh.ir&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=daemi1.fanar.info&port=443&secret=1603010200010001fc030386e24c3add
@@ -346,3 +345,4 @@ tg://proxy?server=185.225.201.64&port=1312&secret=dd469fe09b277900a8ae91dcefa736
 tg://proxy?server=bic2.xr66.ir&port=6968&secret=c918f8593a6b9a7d003393558b4d3d59
 tg://proxy?server=142.132.199.239&port=8443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=91.99.126.145&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=mojnetwork.protectmyemail.xyz&port=443&secret=ddbdb7983d4a7080ced4f66f2513e46dbf
