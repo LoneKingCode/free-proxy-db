@@ -337,7 +337,6 @@ tg://proxy?server=141.11.26.250&port=155&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=45.84.0.164&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb
 tg://proxy?server=bic.xr66.ir&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb
 tg://proxy?server=p1.telepp.site&port=6968&secret=adf40f46d165230637065edeeac211a9
-tg://proxy?server=185.225.201.64&port=1312&secret=dd469fe09b277900a8ae91dcefa736056b
 tg://proxy?server=bic2.xr66.ir&port=6968&secret=c918f8593a6b9a7d003393558b4d3d59
 tg://proxy?server=142.132.199.239&port=8443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=91.99.126.145&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
@@ -381,3 +380,9 @@ tg://proxy?server=78.46.141.90&port=155&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=192.168.1.1.apt-kernel.org.copan-moban.info.405bazi.ir&port=2040&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=94.130.48.80&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=fastfod.ars.ir.arship.shop.138.66.56-78.ir&port=443&secret=iORid5lJ237IiBMGYMQMdw==
+tg://proxy?server=65.109.170.104&port=100&secret=c862057ba49a7ecdf0ad4eb44cd5bb11
+tg://proxy?server=65.21.177.171&port=100&secret=c862057ba49a7ecdf0ad4eb44cd5bb11
+tg://proxy?server=139.180.158.124&port=9443&secret=2adab36179e7a39026adf74034615248
+tg://proxy?server=45.32.10.186&port=9443&secret=2adab36179e7a39026adf74034615248
+tg://proxy?server=103.161.34.195&port=155&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=158.247.234.65&port=9443&secret=2adab36179e7a39026adf74034615248
