@@ -338,7 +338,6 @@ tg://proxy?server=bic.xr66.ir&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb
 tg://proxy?server=p1.telepp.site&port=6968&secret=adf40f46d165230637065edeeac211a9
 tg://proxy?server=bic2.xr66.ir&port=6968&secret=c918f8593a6b9a7d003393558b4d3d59
 tg://proxy?server=142.132.199.239&port=8443&secret=DDBighLLvXrFGRMCBVJdFQ==
-tg://proxy?server=91.99.126.145&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=mojnetwork.protectmyemail.xyz&port=443&secret=ddbdb7983d4a7080ced4f66f2513e46dbf
 tg://proxy?server=cvhudidisiiaisiaisijdjhrbrbr.endbot.top&port=1122&secret=d3dc6819743ceae6a8871ce5cb04ca33
 tg://proxy?server=94.130.218.244&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
@@ -385,3 +384,4 @@ tg://proxy?server=139.180.158.124&port=9443&secret=2adab36179e7a39026adf74034615
 tg://proxy?server=45.32.10.186&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=103.161.34.195&port=155&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=158.247.234.65&port=9443&secret=2adab36179e7a39026adf74034615248
+tg://proxy?server=51.210.19.140&port=443&secret=ee572939a2fd077bb291cc17c8ec12e06b73332e616d617a6f6e6177732e636f6d
