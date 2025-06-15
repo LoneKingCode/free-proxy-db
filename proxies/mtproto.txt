@@ -393,3 +393,5 @@ tg://proxy?server=df.a27dh1.sbs&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=viper.psina228.club&port=3128&secret=b9d7659cf00e62be1ec9f24238c54717
 tg://proxy?server=e7.a27dh1.sbs&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=mas.a27dh1.sbs&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=157.180.46.75&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=157.180.113.25&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
