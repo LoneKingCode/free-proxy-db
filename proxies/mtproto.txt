@@ -413,3 +413,4 @@ tg://proxy?server=159.223.1.102&port=85&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=134.122.57.185&port=85&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=174.138.6.163&port=85&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=188.166.101.248&port=85&secret=DDBighLLvXrFGRMCBVJdFQ==
+tg://proxy?server=tab.a27dh1.sbs&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
