@@ -352,7 +352,6 @@ tg://proxy?server=158.247.217.211&port=9443&secret=2adab36179e7a39026adf74034615
 tg://proxy?server=176.9.50.109&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=88.99.251.22&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=88.99.248.184&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
-tg://proxy?server=app.abrarvan.io&port=9870&secret=eeb859becfc10223bd7dd89250836db4af73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=ekh7.zban-df.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=216.9.224.104&port=443&secret=469fe09b277920a8ae91ddefa736056b
 tg://proxy?server=10.e7777.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.zban-mas.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
@@ -395,3 +394,5 @@ tg://proxy?server=e7.a27dh1.sbs&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=mas.a27dh1.sbs&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=157.180.46.75&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=157.180.113.25&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=176.65.128.51&port=155&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=176.65.128.76&port=155&secret=7HQighJPBNMYVRNB6tdkVw==
