@@ -6886,5 +6886,29 @@
         "password": "",
         "last_checked": "2025-06-17 06:06:37",
         "created_at": "2025-06-17 06:06:37"
+    },
+    {
+        "id": 89435,
+        "ip": "45.32.117.22",
+        "asn": "20473 AS-VULTR",
+        "speed": 3.755,
+        "port": 1080,
+        "protocol": "socks4",
+        "anonymity": "elite",
+        "is_valid": 1,
+        "https": 1,
+        "check_success_count": 1,
+        "check_error_count": 0,
+        "country": "SG",
+        "city": "Singapore",
+        "connect_string": "socks4://45.32.117.22:1080",
+        "available_site_info": null,
+        "site_protocol": "socks4",
+        "secret": "",
+        "source": null,
+        "username": "",
+        "password": "",
+        "last_checked": "2025-06-18 00:34:54",
+        "created_at": "2025-06-18 00:34:54"
     }
 ]
