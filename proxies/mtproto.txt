@@ -302,7 +302,6 @@ tg://proxy?server=116.203.145.137&port=888&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWV
 tg://proxy?server=88.363.172-63.ir&port=443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=65.109.201.115&port=443&secret=cae769d452664ae83320add1025e7534
 tg://proxy?server=95.217.236.239&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=91.142.78.19&port=443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=taher.cpiu.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
 tg://proxy?server=loveprox.18not.com&port=443&secret=fd0068d5babf83266dadc790a20f6617
 tg://proxy?server=91.99.133.160&port=443&secret=1603010200010001fc030386e24c3add
@@ -414,3 +413,5 @@ tg://proxy?server=174.138.6.163&port=85&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=188.166.101.248&port=85&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=tab.a27dh1.sbs&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=167.99.40.13&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
+tg://proxy?server=157.180.127.223&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=157.180.126.9&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
