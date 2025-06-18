@@ -6838,5 +6838,29 @@
         "password": "",
         "last_checked": "2025-06-18 20:53:59",
         "created_at": "2025-06-18 20:53:59"
+    },
+    {
+        "id": 89678,
+        "ip": "139.155.243.8",
+        "asn": "45090 Shenzhen Tencent Computer Systems Company Limited",
+        "speed": 23.18,
+        "port": 4700,
+        "protocol": "socks4",
+        "anonymity": "elite",
+        "is_valid": 1,
+        "https": 1,
+        "check_success_count": 1,
+        "check_error_count": 0,
+        "country": "CN",
+        "city": "Chengdu",
+        "connect_string": "socks4://139.155.243.8:4700",
+        "available_site_info": null,
+        "site_protocol": "socks4",
+        "secret": "",
+        "source": null,
+        "username": "",
+        "password": "",
+        "last_checked": "2025-06-19 03:18:55",
+        "created_at": "2025-06-19 03:18:55"
     }
 ]
