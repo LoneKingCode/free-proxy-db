@@ -327,7 +327,6 @@ tg://proxy?server=77.246.111.217&port=777&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=162.55.103.165&port=1460&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=88.99.199.95&port=1460&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=116.202.8.252&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=77.105.136.11&port=519&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=46.8.69.30&port=443&secret=dd482ed2b302781532a9a423abbe49406e
 tg://proxy?server=45.84.0.164&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb
 tg://proxy?server=bic.xr66.ir&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb
@@ -377,7 +376,6 @@ tg://proxy?server=158.247.234.65&port=9443&secret=2adab36179e7a39026adf740346152
 tg://proxy?server=51.210.19.140&port=443&secret=ee572939a2fd077bb291cc17c8ec12e06b73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=76.masiii.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.zban-mas.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=49.12.204.133&port=8888&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=151.80.199.88&port=443&secret=05e9973d00168e1dc7e09f368ee94545
 tg://proxy?server=ram.cdnproxy.ir.shorueatash.cyou&port=155&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=df.a27dh1.sbs&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=viper.psina228.club&port=3128&secret=b9d7659cf00e62be1ec9f24238c54717
@@ -409,3 +407,6 @@ tg://proxy?server=tab.a27dh1.sbs&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=167.99.40.13&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=157.180.127.223&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=157.180.126.9&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=2.189.117.68&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
+tg://proxy?server=2.189.117.69&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
+tg://proxy?server=2.189.117.67&port=443&secret=dd104462821249bd7ac519130220c25d09
