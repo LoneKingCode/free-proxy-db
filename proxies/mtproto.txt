@@ -139,7 +139,6 @@ tg://proxy?server=45.129.199.170&port=9090&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=5.255.101.223&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=5.255.108.235&port=443&secret=dd1603010200010001fc030386e24c3add
 tg://proxy?server=49.12.115.198&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
-tg://proxy?server=62.60.156.11&port=1312&secret=dd469fe09b277900a8ae91dcefa736056b
 tg://proxy?server=77.232.42.183&port=4770&secret=DDBighLLvXrFGRMCBVJdFQ
 tg://proxy?server=77.232.37.177&port=443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=77.232.36.195&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ
