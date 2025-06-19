@@ -258,7 +258,6 @@ tg://proxy?server=otp.shop-parvaneh.ir&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=dynamic-------proxy------ir.aa42hgujoiah-xy1xutr005-2tk.info&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=client123.volumemovie.ir&port=443&secret=ddb6680042bdaa333d47b25ff82402deb5
 tg://proxy?server=heavisuy.sheshko.info&port=443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=panel.snapkalaa.com&port=69&secret=ee9559dd5b4bfd6bb2e3d29e47e65346507777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=jenab-khan.aaaofjosdfh-xy1xutsdg-1tk.info&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=here.aivalai.info&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=mail.bazi-parvaneh.ir&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
@@ -382,3 +381,5 @@ tg://proxy?server=2.189.117.68&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=2.189.117.69&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=2.189.117.67&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=free.bale.cyou&port=80&secret=fbaa15d5abfbf8a2ac89e9f4ae906375
+tg://proxy?server=91.99.13.80&port=443&secret=dd4fda00f5077c265b638d79688aab786d
+tg://proxy?server=net.majicweb.ir&port=443&secret=eefbdb48c469f253ff9cd6e8fa1a5fd5d56d796b65742e6972
