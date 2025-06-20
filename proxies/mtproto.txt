@@ -379,7 +379,6 @@ tg://proxy?server=157.180.127.223&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=157.180.126.9&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=2.189.117.68&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=2.189.117.69&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
-tg://proxy?server=2.189.117.67&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=free.bale.cyou&port=80&secret=fbaa15d5abfbf8a2ac89e9f4ae906375
 tg://proxy?server=91.99.13.80&port=443&secret=dd4fda00f5077c265b638d79688aab786d
 tg://proxy?server=net.majicweb.ir&port=443&secret=eefbdb48c469f253ff9cd6e8fa1a5fd5d56d796b65742e6972
