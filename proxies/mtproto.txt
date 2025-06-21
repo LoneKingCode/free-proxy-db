@@ -380,3 +380,4 @@ tg://proxy?server=91.99.13.80&port=443&secret=dd4fda00f5077c265b638d79688aab786d
 tg://proxy?server=net.majicweb.ir&port=443&secret=eefbdb48c469f253ff9cd6e8fa1a5fd5d56d796b65742e6972
 tg://proxy?server=s1.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b
 tg://proxy?server=167.235.21.17&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
+tg://proxy?server=s2.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b
