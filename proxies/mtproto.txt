@@ -295,9 +295,7 @@ tg://proxy?server=91.84.99.92&port=321&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZX
 tg://proxy?server=88.363.172-63.ir&port=443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=65.109.201.115&port=443&secret=cae769d452664ae83320add1025e7534
 tg://proxy?server=95.217.236.239&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=taher.cpiu.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
 tg://proxy?server=loveprox.18not.com&port=443&secret=fd0068d5babf83266dadc790a20f6617
-tg://proxy?server=91.99.133.160&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=188.245.158.87&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=138.201.118.67&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=49.12.112.27&port=443&secret=DDBighLLvXrFGRMCBVJdFQ
@@ -341,7 +339,6 @@ tg://proxy?server=ekh7.zban-df.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=10.e7777.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.zban-mas.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=67.dfff.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.zban-df.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=69.masi.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=65.109.4.193&port=100&secret=c862057ba49a7ecdf0ad4eb44cd5bb11
 tg://proxy?server=94.103.90.184&port=44443&secret=79ea54d21249bd7ac519CQ
 tg://proxy?server=5.75.145.71&port=100&secret=c862057ba49a7ecdf0ad4eb44cd5bb11
 tg://proxy?server=3999.masiii.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.zban-mas.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
