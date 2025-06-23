@@ -172,7 +172,6 @@ tg://proxy?server=49.13.119.147&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=167.235.147.66&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=45.32.154.25&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=195.201.234.42&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=188.245.229.225&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=128.140.104.19&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=157.90.162.107&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=45.76.184.13&port=9443&secret=2adab36179e7a39026adf74034615248
@@ -205,7 +204,6 @@ tg://proxy?server=5.dfff.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with
 tg://proxy?server=128.99.01-62.ir&port=166&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=33.125.157.136.serverfy.ir&port=443&secret=dd4fda00f5077c265b638d79688aab786d
 tg://proxy?server=2.dfff.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.zban-df.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=135.181.152.220&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=78.385.01-62.ir&port=166&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=180.66-48-204.ir&port=4443&secret=FgMBAgABAAH8AwOG4kw63QAAAAAAAA==
 tg://proxy?server=65.52-207-95.ir&port=20259&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
