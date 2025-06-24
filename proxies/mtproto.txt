@@ -109,7 +109,6 @@ tg://proxy?server=37.27.25.45&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=5.255.118.174&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=5.255.120.42&port=443&secret=dd1603010200010001fc030386e24c3add
 tg://proxy?server=5.255.123.23&port=443&secret=dd1603010200010001fc030386e24c3add
-tg://proxy?server=45.129.199.239&port=9090&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=2.masi.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=4.df.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.brobalair.store&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=3.df.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.brobalair.store&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
@@ -346,7 +345,6 @@ tg://proxy?server=62.60.177.60&port=343&secret=FgMBAgABAAfwAwOG4kw63QAAAAAAAAAAA
 tg://proxy?server=62.60.177.113&port=343&secret=FgMBAgABAAfwAwOG4kw63QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=iran.memtp.top&port=6057&secret=ee3a43bb2926c57450896d9885b1ac53947777772e676f6f
 tg://proxy?server=62.60.177.20&port=343&secret=FgMBAgABAAfwAwOG4kw63QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=62.60.176.210&port=343&secret=FgMBAgABAAfwAwOG4kw63QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=62.60.177.117&port=343&secret=FgMBAgABAAfwAwOG4kw63QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=62.60.178.115&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=62.60.176.141&port=343&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -365,3 +363,5 @@ tg://proxy?server=5.255.97.157&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=5.255.114.54&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=mt.vip-server.ir&port=1102&secret=eeb85514a4f3c91ea2b1f0fce5bfbdbfed7376312e646967696b616c612e636f6d
 tg://proxy?server=91.220.113.78&port=65531&secret=dda4669a2bc220c8898111725adf3833e2
+tg://proxy?server=116.203.189.199&port=8888&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=77.110.116.248&port=1312&secret=dd469fe09b277900a8ae91dcefa736056b
