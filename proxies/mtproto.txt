@@ -333,8 +333,6 @@ tg://proxy?server=62.60.177.66&port=343&secret=FgMBAgABAAfwAwOG4kw63QAAAAAAAAAAA
 tg://proxy?server=109.120.186.96&port=155&secret=dd1603010200010001fc030386e24c3add
 tg://proxy?server=5.255.97.157&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=5.255.114.54&port=443&secret=15115115115115115115115115115115
-tg://proxy?server=mt.vip-server.ir&port=1102&secret=eeb85514a4f3c91ea2b1f0fce5bfbdbfed7376312e646967696b616c612e636f6d
-tg://proxy?server=91.220.113.78&port=65531&secret=dda4669a2bc220c8898111725adf3833e2
 tg://proxy?server=116.203.189.199&port=8888&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=77.110.116.248&port=1312&secret=dd469fe09b277900a8ae91dcefa736056b
 tg://proxy?server=62.60.179.160&port=343&secret=FgMBAgABAAfwAwOG4kw63QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
