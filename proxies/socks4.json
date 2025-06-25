@@ -6842,7 +6842,7 @@
     {
         "id": 91329,
         "ip": "47.237.113.119",
-        "asn": "45102 Alibaba US Technology Co., Ltd.",
+        "asn": "45102",
         "speed": 7.51,
         "port": 18081,
         "protocol": "socks4",
@@ -6852,7 +6852,7 @@
         "check_success_count": 1,
         "check_error_count": 7,
         "country": "SG",
-        "city": "",
+        "city": "Singapore",
         "connect_string": "socks4://47.237.113.119:18081",
         "available_site_info": null,
         "site_protocol": "socks4",
