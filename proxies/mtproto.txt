@@ -331,3 +331,4 @@ tg://proxy?server=62.60.179.160&port=343&secret=FgMBAgABAAfwAwOG4kw63QAAAAAAAAAA
 tg://proxy?server=84.234.31.218&port=8888&secret=98b806fa5e806ff9b134970090bb72c6
 tg://proxy?server=62.84.96.27&port=2387&secret=L07EqoS6bMCt6Ei0LJzjyQ
 tg://proxy?server=150.241.67.2&port=85&secret=dd4b177df68c801667ed90dfd9768b0314
+tg://proxy?server=204.76.203.52&port=443&secret=15115115115115115115115115115115
