@@ -128,7 +128,6 @@ tg://proxy?server=91.107.172.32&port=6968&secret=adf40f46d165230637065edeeac211a
 tg://proxy?server=91.219.23.153&port=37&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=95.181.173.143&port=9&secret=dd9a158f74da4d63d2cdfb4e09dbafffee
 tg://proxy?server=94.130.44.126&port=7443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=calloff400.co.uk&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=darknamikonina.beramaqhyou.cyou&port=443&secret=5mB7kIicxgcZ0hcMsoUZYgAAAAAAAAAAAAAAAAAAAAkIicxgcZ0hcMsAAAA0hcMsAAAA
 tg://proxy?server=mas.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=activtionorg.co.uk&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
