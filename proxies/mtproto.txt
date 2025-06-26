@@ -194,7 +194,6 @@ tg://proxy?server=barname-darsi.aivalai.info&port=443&secret=1603010200010001fc0
 tg://proxy?server=tiota.fanlpmw.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=otp.shop-parvaneh.ir&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=dynamic-------proxy------ir.aa42hgujoiah-xy1xutr005-2tk.info&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=client123.volumemovie.ir&port=443&secret=ddb6680042bdaa333d47b25ff82402deb5
 tg://proxy?server=heavisuy.sheshko.info&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=jenab-khan.aaaofjosdfh-xy1xutsdg-1tk.info&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=here.aivalai.info&port=443&secret=1603010200010001fc030386e24c3add
@@ -210,7 +209,6 @@ tg://proxy?server=castle.ultrasam.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=canisall.bmcdr.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=hisenselg.cinere.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=pinkblu.ir&port=243&secret=ee4270799104bc286ec0653521aedb6b08616d617a6f6e2e636f6d2e6175
-tg://proxy?server=95.128.172-63.ir&port=443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=b2.haydayshop.ir&port=243&secret=ee4270799104bc286ec0653521aedb6b08616d617a6f6e2e636f6d2e6175
 tg://proxy?server=shampo.cinere.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=abrig.abarwitch.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
@@ -328,3 +326,9 @@ tg://proxy?server=62.60.239.224&port=343&secret=dd2a59adde6ff091d0c0b5255255f0cb
 tg://proxy?server=5.223.58.187&port=155&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=5.223.57.30&port=155&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=65.109.185.178&port=888&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=188.245.223.71&port=155&secret=ddec742282124f04d318551341ead76457
+tg://proxy?server=128.140.11.183&port=155&secret=ddec742282124f04d318551341ead76457
+tg://proxy?server=217.60.39.189&port=5090&secret=ffff4444aaaa01015555666601019999
+tg://proxy?server=91.99.192.115&port=155&secret=7HQighJPBNMYVRNB6tdkVw==
+tg://proxy?server=91.99.100.55&port=155&secret=ddec742282124f04d318551341ead76457
+tg://proxy?server=23.88.96.144&port=155&secret=7HQighJPBNMYVRNB6tdkVw==
