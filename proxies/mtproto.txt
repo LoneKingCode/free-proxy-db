@@ -49,7 +49,6 @@ tg://proxy?server=138.201.80.254&port=7443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdG
 tg://proxy?server=108.181.121.220&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=157.90.172.24&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=14.102.10.51&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=176.65.128.77&port=155&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=14.102.10.50&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=167.235.65.93&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=146.19.143.158&port=9090&secret=FgMBAgABAAH8AwOG4kw63Q
