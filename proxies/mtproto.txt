@@ -51,8 +51,6 @@ tg://proxy?server=157.90.172.24&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=14.102.10.51&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=14.102.10.50&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=167.235.65.93&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=146.19.143.158&port=9090&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=148.251.11.99&port=7443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=168.119.163.81&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=168.119.48.176&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=176.124.32.112&port=9090&secret=FgMBAgABAAH8AwOG4kw63Q
@@ -310,8 +308,6 @@ tg://proxy?server=150.241.67.2&port=85&secret=dd4b177df68c801667ed90dfd9768b0314
 tg://proxy?server=204.76.203.52&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=148.251.155.83&port=155&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=62.60.239.224&port=343&secret=dd2a59adde6ff091d0c0b5255255f0cbb7
-tg://proxy?server=5.223.58.187&port=155&secret=7HQighJPBNMYVRNB6tdkVw==
-tg://proxy?server=5.223.57.30&port=155&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=65.109.185.178&port=888&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=188.245.223.71&port=155&secret=ddec742282124f04d318551341ead76457
 tg://proxy?server=128.140.11.183&port=155&secret=ddec742282124f04d318551341ead76457
