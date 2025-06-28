@@ -309,3 +309,4 @@ tg://proxy?server=77.239.114.253&port=888&secret=9a158f74da4d63d2cdfb4e09dbafffe
 tg://proxy?server=136.243.125.3&port=444&secret=9a5e3ea28c2e999cf0735bf378a70e4d
 tg://proxy?server=83.172.153.226&port=85&secret=dd306cb73bd735551ca3b59f32e05b45e9
 tg://proxy?server=telproxy.connecton.surf&port=6968&secret=07d48ada647e5b8fd30335eda5eebf17
+tg://proxy?server=91.99.155.165&port=343&secret=ee2e90d6ea3a0b17e371520fe2a2a40bd47777772e636c6f7564666c6172652e636f6d
