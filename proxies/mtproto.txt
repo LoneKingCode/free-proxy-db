@@ -50,8 +50,6 @@ tg://proxy?server=157.90.172.24&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=14.102.10.51&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=14.102.10.50&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=167.235.65.93&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=168.119.48.176&port=443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=176.124.32.112&port=9090&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=195.201.46.255&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=188.245.92.55&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=195.2.76.22&port=4443&secret=79ea54d21249bd7ac519CQ
@@ -74,14 +72,12 @@ tg://proxy?server=5.255.127.20&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=204.76.203.191&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=204.76.203.192&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=45.12.138.190&port=8085&secret=8JEkJukBYNPSy7OH6v7urg==
-tg://proxy?server=45.129.199.115&port=9090&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=5.255.101.217&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=5.255.122.86&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=204.76.203.63&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=49.12.112.114&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=204.76.203.62&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=5.255.116.72&port=443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=37.27.25.45&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=5.255.118.174&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=5.255.120.42&port=443&secret=dd1603010200010001fc030386e24c3add
 tg://proxy?server=5.255.123.23&port=443&secret=dd1603010200010001fc030386e24c3add
@@ -129,7 +125,6 @@ tg://proxy?server=warzonecall2025.co.uk&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=ir.brobalair.store&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=vmwarecenter.co.uk&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=5.255.122.83&port=443&secret=15115115115115115115115115115115
-tg://proxy?server=49.13.119.147&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=167.235.147.66&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=45.32.154.25&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=195.201.234.42&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
