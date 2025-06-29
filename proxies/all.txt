@@ -1218,7 +1218,6 @@ http://34.102.48.89:8080
 http://47.243.181.85:55009
 http://205.178.144.240:8447
 socks4://64.226.85.75:1080
-http://111.67.193.111:7890
 socks4://45.115.236.15:1080
 http://47.243.181.85:41406
 socks5://159.138.157.44:8080
@@ -1321,7 +1320,6 @@ tg://proxy?server=109.172.30.116&port=15&secret=aCU6YtZlydKvOWex8Z0yQA
 tg://proxy?server=1.masi.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=1.df.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.brobalair.store&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=116.203.235.40&port=443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=138.201.80.254&port=7443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=108.181.121.220&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=157.90.172.24&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=14.102.10.51&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
@@ -1551,7 +1549,6 @@ tg://proxy?server=bic2.xr66.ir&port=6968&secret=c918f8593a6b9a7d003393558b4d3d59
 http://106.14.255.124:8080
 tg://proxy?server=142.132.199.239&port=8443&secret=DDBighLLvXrFGRMCBVJdFQ==
 http://147.75.34.74:10064
-tg://proxy?server=mojnetwork.protectmyemail.xyz&port=443&secret=ddbdb7983d4a7080ced4f66f2513e46dbf
 http://8.146.209.239:3128
 http://80.79.6.124:3128
 http://147.75.34.74:10003
@@ -1606,7 +1603,6 @@ socks5://222.59.173.105:44133
 tg://proxy?server=df.a27dh1.sbs&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=viper.psina228.club&port=3128&secret=b9d7659cf00e62be1ec9f24238c54717
 tg://proxy?server=e7.a27dh1.sbs&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=mas.a27dh1.sbs&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=157.180.46.75&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 http://205.178.144.74:8443
 http://154.26.182.140:3128
@@ -1628,7 +1624,6 @@ http://154.118.231.30:80
 http://60.187.246.93:8085
 http://193.31.27.11:80
 http://194.170.146.125:8080
-http://193.108.119.63:80
 http://92.67.186.210:80
 http://124.108.6.20:8085
 http://59.7.246.4:80
@@ -1744,10 +1739,8 @@ socks4://180.101.148.94:35483
 socks5://185.93.89.144:4846
 socks5://45.146.130.18:4112
 socks5://45.146.130.46:4759
-tg://proxy?server=188.245.223.71&port=155&secret=ddec742282124f04d318551341ead76457
 tg://proxy?server=128.140.11.183&port=155&secret=ddec742282124f04d318551341ead76457
 tg://proxy?server=217.60.39.189&port=5090&secret=ffff4444aaaa01015555666601019999
-tg://proxy?server=23.88.96.144&port=155&secret=7HQighJPBNMYVRNB6tdkVw==
 http://16.62.48.122:3128
 socks5://185.93.89.144:4157
 socks5://45.146.130.36:27320
@@ -1756,7 +1749,6 @@ socks5://152.53.170.41:61909
 socks5://185.93.89.150:5518
 socks5://185.93.89.156:6348
 socks5://185.93.89.145:4008
-socks5://45.146.130.35:6203
 http://16.78.219.183:3128
 http://176.65.149.147:8081
 socks5://45.146.130.37:4573
@@ -1768,8 +1760,6 @@ socks5://185.93.89.143:4259
 socks5://185.93.89.152:44332
 http://13.113.174.156:3128
 socks5://45.146.130.23:32386
-socks5://45.146.130.37:4007
-socks5://185.93.89.182:35113
 tg://proxy?server=85.192.60.31&port=888&secret=9a158f74da4d63d2cdfb4e09dbafffee
 tg://proxy?server=85.192.41.100&port=888&secret=9a158f74da4d63d2cdfb4e09dbafffee
 tg://proxy?server=46.249.110.53&port=443&secret=15115115115115115115115115115115
@@ -1780,7 +1770,6 @@ socks5://185.93.89.145:31951
 http://123.154.17.4:8085
 http://77.223.215.47:1080
 http://180.104.208.214:8081
-http://27.71.140.246:16000
 http://27.71.134.94:16000
 http://27.71.135.109:16000
 http://167.86.93.118:8034
@@ -1791,18 +1780,14 @@ http://184.171.240.35:3128
 http://185.126.82.134:3128
 http://184.171.240.36:3128
 http://183.132.70.105:8085
-socks5://185.93.89.181:8093
 socks5://222.59.173.105:44053
 socks5://45.146.130.22:12085
-socks5://45.146.130.30:4480
 socks5://152.53.170.41:9331
 socks5://185.93.89.143:4273
-socks5://70.36.101.234:60010
 socks5://185.93.89.165:48396
 socks5://185.93.89.144:4397
 http://183.99.118.9:3128
 http://183.132.69.221:8085
-http://115.72.4.190:10035
 http://78.188.37.163:3128
 socks5://222.59.173.105:44153
 socks5://185.93.89.146:4052
@@ -1829,7 +1814,6 @@ http://13.245.9.56:3128
 http://203.95.196.132:8080
 http://102.0.14.116:8080
 socks5://185.93.89.149:41524
-socks5://45.146.130.43:28909
 socks5://185.93.89.147:4052
 socks5://185.93.89.165:36580
 socks5://185.93.89.177:14110
@@ -1855,8 +1839,6 @@ http://27.79.212.7:16000
 http://27.79.221.142:16000
 http://49.146.226.47:8082
 http://27.79.205.82:16000
-http://72.10.160.90:16135
-http://67.43.228.253:9793
 socks5://185.93.89.145:37108
 socks5://45.146.130.17:37805
 socks5://45.146.130.41:22045
@@ -2051,3 +2033,18 @@ socks5://185.93.89.147:4062
 socks5://210.76.193.125:7890
 socks5://45.146.130.22:21029
 http://27.79.195.95:16000
+http://27.79.137.204:16000
+socks5://89.58.45.94:40343
+socks4://47.91.89.3:4145
+socks4://47.89.159.212:6969
+socks4://8.221.138.111:1081
+http://3.70.46.172:10018
+http://15.161.90.45:3128
+http://147.75.34.74:10005
+http://196.217.109.184:39811
+http://67.43.228.253:27863
+http://72.10.164.178:13805
+http://72.10.160.94:1367
+http://72.10.164.178:14323
+socks5://101.42.41.143:8888
+socks5://45.146.130.43:4373
