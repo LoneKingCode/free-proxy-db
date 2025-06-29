@@ -46,7 +46,6 @@ tg://proxy?server=14.102.10.51&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=14.102.10.50&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=167.235.65.93&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=195.201.46.255&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
-tg://proxy?server=188.245.92.55&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=188.245.79.86&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=195.2.71.3&port=44443&secret=gggggggggggggggggggggg
 tg://proxy?server=2.df.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.brobalair.store&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
