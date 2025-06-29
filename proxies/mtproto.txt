@@ -187,7 +187,6 @@ tg://proxy?server=canisall.bmcdr.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=hisenselg.cinere.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=pinkblu.ir&port=243&secret=ee4270799104bc286ec0653521aedb6b08616d617a6f6e2e636f6d2e6175
 tg://proxy?server=b2.haydayshop.ir&port=243&secret=ee4270799104bc286ec0653521aedb6b08616d617a6f6e2e636f6d2e6175
-tg://proxy?server=shampo.cinere.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=abrig.abarwitch.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=boikai.aivalai.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=tools.mygrade.ir&port=443&secret=1603010200010001fc030386e24c3add
