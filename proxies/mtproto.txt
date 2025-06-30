@@ -115,7 +115,6 @@ tg://proxy?server=vmwarecenter.co.uk&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=5.255.122.83&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=45.32.154.25&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=195.201.234.42&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=128.140.104.19&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=157.90.162.107&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=45.76.184.13&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=159.69.47.176&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
