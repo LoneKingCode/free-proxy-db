@@ -6602,7 +6602,7 @@
     {
         "id": 91791,
         "ip": "180.101.148.94",
-        "asn": "4134 Chinanet",
+        "asn": "4134 CHINANET-BACKBONE",
         "speed": 15.67,
         "port": 35483,
         "protocol": "socks4",
@@ -6612,7 +6612,7 @@
         "check_success_count": 27,
         "check_error_count": 2,
         "country": "CN",
-        "city": "",
+        "city": "Nanjing",
         "connect_string": "socks4://180.101.148.94:35483",
         "available_site_info": null,
         "site_protocol": "socks4",
@@ -6766,5 +6766,29 @@
         "password": "",
         "last_checked": "2025-06-30 02:52:04",
         "created_at": "2025-06-30 02:52:04"
+    },
+    {
+        "id": 92797,
+        "ip": "54.37.153.108",
+        "asn": "16276 OVH SAS",
+        "speed": 9.04,
+        "port": 64958,
+        "protocol": "socks4",
+        "anonymity": "elite",
+        "is_valid": 1,
+        "https": 0,
+        "check_success_count": 1,
+        "check_error_count": 0,
+        "country": "FR",
+        "city": "",
+        "connect_string": "socks4://54.37.153.108:64958",
+        "available_site_info": null,
+        "site_protocol": "socks4",
+        "secret": "",
+        "source": null,
+        "username": "",
+        "password": "",
+        "last_checked": "2025-06-30 11:31:31",
+        "created_at": "2025-06-30 11:31:31"
     }
 ]
