@@ -272,3 +272,5 @@ tg://proxy?server=14.102.10.48&port=888&secret=ee0c30628212cbbd7ac519130205525d1
 tg://proxy?server=steamcommunity.filimooo.site&port=8443&secret=eed77db43ee3721f0fcb40a4ff63b5cd27
 tg://proxy?server=91.107.248.104&port=8443&secret=eed77db43ee3721f0fcb40a4ff63b5cd27
 tg://proxy?server=79.137.192.5&port=777&secret=7e1c75eb7d35341c340cde89a80f046e
+tg://proxy?server=65.109.193.225&port=2025&secret=ee8861cda569ff3e22a349c756bb74c25a73332e616d617a6f6e6177732e636f6d
+tg://proxy?server=server1.koleini-service.ir&port=443&secret=e11be1cce9ad584ded0d6adba5511fef
