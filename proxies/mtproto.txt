@@ -55,7 +55,6 @@ tg://proxy?server=204.76.203.194&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=204.76.203.189&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=204.76.203.193&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=5.255.123.183&port=443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=5.255.119.204&port=443&secret=dd1603010200010001fc030386e24c3add
 tg://proxy?server=5.255.127.20&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=204.76.203.191&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=204.76.203.192&port=443&secret=1603010200010001fc030386e24c3add
@@ -71,11 +70,9 @@ tg://proxy?server=3.masi.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with
 tg://proxy?server=5.255.100.223&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=5.255.97.150&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=213.133.110.151&port=8423&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29t
-tg://proxy?server=5.255.101.223&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=5.255.108.235&port=443&secret=dd1603010200010001fc030386e24c3add
 tg://proxy?server=49.12.115.198&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=77.232.42.183&port=4770&secret=DDBighLLvXrFGRMCBVJdFQ
-tg://proxy?server=77.232.36.195&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ
 tg://proxy?server=5.df.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.brobalair.store&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=5.masi.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=6.masi.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
@@ -254,7 +251,6 @@ tg://proxy?server=77.239.114.253&port=888&secret=9a158f74da4d63d2cdfb4e09dbafffe
 tg://proxy?server=136.243.125.3&port=444&secret=9a5e3ea28c2e999cf0735bf378a70e4d
 tg://proxy?server=83.172.153.226&port=85&secret=dd306cb73bd735551ca3b59f32e05b45e9
 tg://proxy?server=telproxy.connecton.surf&port=6968&secret=07d48ada647e5b8fd30335eda5eebf17
-tg://proxy?server=91.99.155.165&port=343&secret=ee2e90d6ea3a0b17e371520fe2a2a40bd47777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=14.102.10.48&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d
 tg://proxy?server=steamcommunity.filimooo.site&port=8443&secret=eed77db43ee3721f0fcb40a4ff63b5cd27
 tg://proxy?server=91.107.248.104&port=8443&secret=eed77db43ee3721f0fcb40a4ff63b5cd27
