@@ -254,3 +254,7 @@ tg://proxy?server=79.137.192.5&port=777&secret=7e1c75eb7d35341c340cde89a80f046e
 tg://proxy?server=65.109.193.225&port=2025&secret=ee8861cda569ff3e22a349c756bb74c25a73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=server1.koleini-service.ir&port=443&secret=e11be1cce9ad584ded0d6adba5511fef
 tg://proxy?server=azirproxy.twilightparadox.com&port=443&secret=eee1671797c52e15f763380b45e841ec32696e746f646e732e636f6d
+tg://proxy?server=186.81.818.12.flexfy.ir&port=444&secret=ee37dd2f8c749067c2b508d1bc391462ad726566657273696f6e2e636f6d
+tg://proxy?server=mio.mio.mio.mio.flexfy.ir&port=444&secret=ee37dd2f8c749067c2b508d1bc391462ad726566657273696f6e2e636f6d
+tg://proxy?server=this.is.elon.musk.flexfy.ir&port=444&secret=ee37dd2f8c749067c2b508d1bc391462ad726566657273696f6e2e636f6d
+tg://proxy?server=one.one.one.one.flexfy.ir&port=444&secret=ee37dd2f8c749067c2b508d1bc391462ad726566657273696f6e2e636f6d
