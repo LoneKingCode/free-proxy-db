@@ -211,7 +211,6 @@ tg://proxy?server=49.12.204.133&port=8888&secret=1603010200010001fc030386e24c3ad
 tg://proxy?server=viper.psina228.club&port=3128&secret=b9d7659cf00e62be1ec9f24238c54717
 tg://proxy?server=157.180.30.251&port=443&secret=iORid5lJ237IiBMGYMQMdw
 tg://proxy?server=free.bale.cyou&port=80&secret=fbaa15d5abfbf8a2ac89e9f4ae906375
-tg://proxy?server=net.majicweb.ir&port=443&secret=eefbdb48c469f253ff9cd6e8fa1a5fd5d56d796b65742e6972
 tg://proxy?server=s1.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b
 tg://proxy?server=s2.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b
 tg://proxy?server=77.232.143.199&port=3128&secret=b9d7659cf00e62be1ec9f24238c54717
@@ -246,3 +245,4 @@ tg://proxy?server=011010101101.noirc0re.online&port=443&secret=35e1c63ac12a5ca4e
 tg://proxy?server=46.8.69.176&port=6969&secret=dd9f7aaeb44ca19028fb2cbecb38952a9c
 tg://proxy?server=192.109.200.7&port=443&secret=d77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=app.abrarvan.io&port=444&secret=ee999f36c19c3c18e930624be9e26fe8536d69726f2e636f6d
+tg://proxy?server=193.24.210.19&port=444&secret=ee37dd2f8c749067c2b508d1bc391462ad726566657273696f6e2e636f
