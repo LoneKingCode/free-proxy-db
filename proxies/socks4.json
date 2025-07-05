@@ -6886,5 +6886,29 @@
         "password": "",
         "last_checked": "2025-07-05 14:29:18",
         "created_at": "2025-07-05 14:29:18"
+    },
+    {
+        "id": 93971,
+        "ip": "47.250.177.202",
+        "asn": "45102 Alibaba US Technology Co., Ltd.",
+        "speed": 7.055,
+        "port": 9091,
+        "protocol": "socks4",
+        "anonymity": "elite",
+        "is_valid": 1,
+        "https": 1,
+        "check_success_count": 1,
+        "check_error_count": 0,
+        "country": "MY",
+        "city": "Kuala Lumpur",
+        "connect_string": "socks4://47.250.177.202:9091",
+        "available_site_info": null,
+        "site_protocol": "socks4",
+        "secret": "",
+        "source": null,
+        "username": "",
+        "password": "",
+        "last_checked": "2025-07-05 21:33:05",
+        "created_at": "2025-07-05 21:33:05"
     }
 ]
