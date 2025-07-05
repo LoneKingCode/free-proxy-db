@@ -180,7 +180,6 @@ tg://proxy?server=bahbah.khoreshtsabzi.ir&port=8585&secret=dd5d5b15b207cd8974a5a
 tg://proxy?server=88.99.199.95&port=1460&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=45.84.0.164&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb
 tg://proxy?server=bic.xr66.ir&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb
-tg://proxy?server=p1.telepp.site&port=6968&secret=adf40f46d165230637065edeeac211a9
 tg://proxy?server=bic2.xr66.ir&port=6968&secret=c918f8593a6b9a7d003393558b4d3d59
 tg://proxy?server=142.132.199.239&port=8443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=cvhudidisiiaisiaisijdjhrbrbr.endbot.top&port=1122&secret=d3dc6819743ceae6a8871ce5cb04ca33
