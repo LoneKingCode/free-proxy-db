@@ -238,3 +238,6 @@ tg://proxy?server=app.abrarvan.io&port=444&secret=ee999f36c19c3c18e930624be9e26f
 tg://proxy?server=193.24.210.19&port=444&secret=ee37dd2f8c749067c2b508d1bc391462ad726566657273696f6e2e636f
 tg://proxy?server=54.38.136.234&port=22060&secret=DDBighLLvXrFGRMCBVJdFQ
 tg://proxy?server=proxy.kheili.ir-sorati.ir&port=443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=46.226.162.64&port=443&secret=dd7d9a1f37b84e24a0b52c1a77261cf3c7
+tg://proxy?server=46.226.162.148&port=443&secret=dd7d9a1f37b84e24a0b52c1a77261cf3c7
+tg://proxy?server=proxy.whypn.com&port=1111&secret=11111111111111111111111111111111
