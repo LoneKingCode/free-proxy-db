@@ -234,8 +234,6 @@ tg://proxy?server=tommy.shomboli.on.top.flexfy.ir&port=443&secret=ddd81a1e1c8d87
 tg://proxy?server=this.is.not.elon.musk.flexfy.ir&port=443&secret=ddd81a1e1c8d876b687d273cce8ed6c16e
 tg://proxy?server=reverse.kambiz.dirbaz.flexfy.ir&port=443&secret=ddd81a1e1c8d876b687d273cce8ed6c16e
 tg://proxy?server=011010101101.noirc0re.online&port=443&secret=35e1c63ac12a5ca4e2866c6e31a5b886
-tg://proxy?server=46.8.69.176&port=6969&secret=dd9f7aaeb44ca19028fb2cbecb38952a9c
-tg://proxy?server=192.109.200.7&port=443&secret=d77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d
 tg://proxy?server=app.abrarvan.io&port=444&secret=ee999f36c19c3c18e930624be9e26fe8536d69726f2e636f6d
 tg://proxy?server=193.24.210.19&port=444&secret=ee37dd2f8c749067c2b508d1bc391462ad726566657273696f6e2e636f
 tg://proxy?server=54.38.136.234&port=22060&secret=DDBighLLvXrFGRMCBVJdFQ
