@@ -83,7 +83,6 @@ tg://proxy?server=78.47.221.184&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=78.46.240.236&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=89.221.203.150&port=37&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=91.107.172.32&port=6968&secret=adf40f46d165230637065edeeac211a9
-tg://proxy?server=91.219.23.153&port=37&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=95.181.173.143&port=9&secret=dd9a158f74da4d63d2cdfb4e09dbafffee
 tg://proxy?server=darknamikonina.beramaqhyou.cyou&port=443&secret=5mB7kIicxgcZ0hcMsoUZYgAAAAAAAAAAAAAAAAAAAAkIicxgcZ0hcMsAAAA0hcMsAAAA
 tg://proxy?server=mas.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
@@ -234,3 +233,4 @@ tg://proxy?server=77.238.248.8&port=8&secret=EErIGZnjVxRfgrmcimjDeQ
 tg://proxy?server=213.142.150.42&port=443&secret=a3f871e45d9208c1b6e4092f7d835c4b
 tg://proxy?server=185.142.95.21&port=2028&secret=dd2028b5afa0e6d701acec3cd9bb8a902b
 tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.bugsbounty.top&port=1133&secret=d12ad7e57468aca486846a9a279c108d
+tg://proxy?server=185.124.174.45&port=443&secret=35e1c63ac12a5ca4e2866c6e31a5b886
