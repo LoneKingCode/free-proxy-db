@@ -14,7 +14,6 @@ tg://proxy?server=apple.slumbo.com&port=9120&secret=eeeb9baf94c9cafa2f4c377b239e
 tg://proxy?server=www.githab.www.google.wwwbasalam.www.farshekashani.ir&port=5001&secret=ee49c808d759cdf1df409ce4601ce40f737777772e676f6f676c652e636f6d
 tg://proxy?server=divar.shadischool.com&port=2113&secret=ee66c9ebc2d8483f523a81ca072d57df287777772e6769746875622e636f6d
 tg://proxy?server=w.10.y.mtproto.ru&port=443&secret=ee211122223333444455556666777788886d6170732e676f6f676c652e636f6d
-tg://proxy?server=209.38.249.95&port=8443&secret=eef5a7d8e4b2c1a9f8e7d6c5b4a3f2e1d07265736561726368676174652e6e6574
 tg://proxy?server=parya.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
 tg://proxy?server=parya1.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37aeae736e6170702e6972
 tg://proxy?server=client.volumemovie.ir&port=443&secret=ee4ac8ad1c5f8c29be7e2dbbaf669d98767777772e7370656564746573742e6e6574
@@ -234,3 +233,4 @@ tg://proxy?server=proxy.whypn.com&port=1111&secret=11111111111111111111111111111
 tg://proxy?server=77.238.248.8&port=8&secret=EErIGZnjVxRfgrmcimjDeQ
 tg://proxy?server=213.142.150.42&port=443&secret=a3f871e45d9208c1b6e4092f7d835c4b
 tg://proxy?server=185.142.95.21&port=2028&secret=dd2028b5afa0e6d701acec3cd9bb8a902b
+tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.bugsbounty.top&port=1133&secret=d12ad7e57468aca486846a9a279c108d
