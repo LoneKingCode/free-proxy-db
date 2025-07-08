@@ -188,7 +188,6 @@ tg://proxy?server=94.130.48.80&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFu
 tg://proxy?server=139.180.158.124&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=45.32.10.186&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=158.247.234.65&port=9443&secret=2adab36179e7a39026adf74034615248
-tg://proxy?server=49.12.204.133&port=8888&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=viper.psina228.club&port=3128&secret=b9d7659cf00e62be1ec9f24238c54717
 tg://proxy?server=free.bale.cyou&port=80&secret=fbaa15d5abfbf8a2ac89e9f4ae906375
 tg://proxy?server=s1.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b
