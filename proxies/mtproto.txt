@@ -245,3 +245,5 @@ tg://proxy?server=mtproxy11.connect-98.online&port=443&secret=dde5ceff7c8a4a80fc
 tg://proxy?server=mtproxy9.connect-98.online&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
 tg://proxy?server=65.109.213.137&port=137&secret=EErIGZnjVxRfgrmcimjDea022RueWVrdGFuZXQuY29tZ
 tg://proxy?server=128.206.55.83.fad-at.sh.qavivasl.ir&port=777&secret=EErIGZnjVxRfgrmcimjDea022RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=185.204.169.192&port=1312&secret=dd469fe09b277900a8ae91dcefa736056b
+tg://proxy?server=sv2.xupidam.ir&port=443&secret=a3f871e45d9208c1b6e4092f7d835c4b
