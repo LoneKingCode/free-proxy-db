@@ -243,3 +243,5 @@ tg://proxy?server=all.oliverpro.sbs&port=8090&secret=eedc31b6aca5e09a5e22d159277
 tg://proxy?server=mtproxy.connect-98.online&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
 tg://proxy?server=mtproxy11.connect-98.online&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
 tg://proxy?server=mtproxy9.connect-98.online&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
+tg://proxy?server=65.109.213.137&port=137&secret=EErIGZnjVxRfgrmcimjDea022RueWVrdGFuZXQuY29tZ
+tg://proxy?server=128.206.55.83.fad-at.sh.qavivasl.ir&port=777&secret=EErIGZnjVxRfgrmcimjDea022RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
