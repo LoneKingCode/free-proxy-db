@@ -26,7 +26,6 @@ tg://proxy?server=116.203.81.58&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=128.140.63.134&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=116.202.4.47&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=138.201.16.176&port=3784&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29t
-tg://proxy?server=138.201.85.42&port=9110&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=138.201.204.117&port=9841&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29t
 tg://proxy?server=138.199.169.156&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=108.181.71.17&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ==
@@ -72,11 +71,9 @@ tg://proxy?server=65.21.131.91&port=155&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdG
 tg://proxy?server=88.99.61.188&port=2908&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=78.46.245.210&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=88.99.2.124&port=9841&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=78.46.234.177&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=78.46.70.120&port=3784&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29t
 tg://proxy?server=88.99.99.77&port=2625&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=88.99.149.121&port=8423&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29t
-tg://proxy?server=88.198.108.29&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=78.47.77.74&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=78.47.221.184&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=78.46.240.236&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
@@ -140,7 +137,6 @@ tg://proxy?server=here.aivalai.info&port=443&secret=1603010200010001fc030386e24c
 tg://proxy?server=mail.bazi-parvaneh.ir&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=link.shop-parvaneh.ir&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=daemi1.fanar.info&port=443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=fa.learn-new.ir&port=443&secret=dd163f8fc4aad2e79f50e6fda70d06bfc2
 tg://proxy?server=aaaa.hezarsh-mashal0.co.uk.kjhasdkjhkjad-jskjj.co.uk.hkasfgkafh-ijhsd.co.uk.hewiufhkouhqawf-ihjd.co.uk.kjgjhghsdgsgtrdkg-ksdj.co.uk.he2zra68n-esh88gh.co.uk.eu.iwegujoiah-lgrutr09.info.xr1hgujoiah-xy1xutr095-2tk.info.br2hgujoiah-xy1xutr095-2tk.info&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=stronger---1---ir.zx2hgujoiah-xy1xutr045-2tk.info&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=ee.eeeeeeeeeeeeeeebbb.mmmeeeeeeeeeeeeeeeeeeeeeeeehhheeeeeeeeeee.eeddddddddddeeeeeeeeeeee.babaliya.shop&port=15&secret=aCU6YtZlydKvOWex8Z0yQA
