@@ -216,7 +216,6 @@ tg://proxy?server=193.24.210.19&port=444&secret=ee37dd2f8c749067c2b508d1bc391462
 tg://proxy?server=54.38.136.234&port=22060&secret=DDBighLLvXrFGRMCBVJdFQ
 tg://proxy?server=proxy.kheili.ir-sorati.ir&port=443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=proxy.whypn.com&port=1111&secret=11111111111111111111111111111111
-tg://proxy?server=77.238.248.8&port=8&secret=EErIGZnjVxRfgrmcimjDeQ
 tg://proxy?server=213.142.150.42&port=443&secret=a3f871e45d9208c1b6e4092f7d835c4b
 tg://proxy?server=185.142.95.21&port=2028&secret=dd2028b5afa0e6d701acec3cd9bb8a902b
 tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.bugsbounty.top&port=1133&secret=d12ad7e57468aca486846a9a279c108d
