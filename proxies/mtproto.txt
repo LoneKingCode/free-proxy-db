@@ -221,7 +221,6 @@ tg://proxy?server=77.238.248.8&port=8&secret=EErIGZnjVxRfgrmcimjDeQ
 tg://proxy?server=213.142.150.42&port=443&secret=a3f871e45d9208c1b6e4092f7d835c4b
 tg://proxy?server=185.142.95.21&port=2028&secret=dd2028b5afa0e6d701acec3cd9bb8a902b
 tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.bugsbounty.top&port=1133&secret=d12ad7e57468aca486846a9a279c108d
-tg://proxy?server=185.124.174.45&port=443&secret=35e1c63ac12a5ca4e2866c6e31a5b886
 tg://proxy?server=77.221.138.46&port=1312&secret=dd469fe09b277900a8ae91dcefa736056b
 tg://proxy?server=mtproxy4.connect-98.online&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
 tg://proxy?server=mtproxy5.connect-98.online&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
@@ -257,3 +256,4 @@ tg://proxy?server=mtproxy07.deltacyber.org&port=443&secret=dde5ceff7c8a4a80fcad3
 tg://proxy?server=mtproxy08.deltacyber.org&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
 tg://proxy?server=mtproxy01.deltacyber.org&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
 tg://proxy?server=mtproxy04.deltacyber.org&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
+tg://proxy?server=firmware-check.device-update.poshtibani-vip021.com.aa42hgujoiah-xy1xutr005-2tk.speedvipsarbazi.site&port=700&secret=NEgYdZvXrFERCggwl0JC1g
