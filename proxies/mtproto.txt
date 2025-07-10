@@ -73,7 +73,6 @@ tg://proxy?server=88.99.149.121&port=8423&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGF
 tg://proxy?server=89.221.203.150&port=37&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=91.107.172.32&port=6968&secret=adf40f46d165230637065edeeac211a9
 tg://proxy?server=95.181.173.143&port=9&secret=dd9a158f74da4d63d2cdfb4e09dbafffee
-tg://proxy?server=darknamikonina.beramaqhyou.cyou&port=443&secret=5mB7kIicxgcZ0hcMsoUZYgAAAAAAAAAAAAAAAAAAAAkIicxgcZ0hcMsAAAA0hcMsAAAA
 tg://proxy?server=mas.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=ir.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=ir.brobalair.store&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
@@ -88,7 +87,6 @@ tg://proxy?server=1.masiii.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_wi
 tg://proxy?server=192.168.1.1.apt-kernel.org.copan-moban.info&port=2040&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=6.masiii.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.zban-mas.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=1.dfff.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.zban-df.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=3.masiii.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.zban-mas.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=6.dfff.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.zban-df.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=4.dfff.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.zban-df.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=3.dfff.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.zban-df.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
@@ -238,7 +236,6 @@ tg://proxy?server=mtproxy07.deltacyber.org&port=443&secret=dde5ceff7c8a4a80fcad3
 tg://proxy?server=mtproxy08.deltacyber.org&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
 tg://proxy?server=mtproxy01.deltacyber.org&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
 tg://proxy?server=mtproxy04.deltacyber.org&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
-tg://proxy?server=firmware-check.device-update.poshtibani-vip021.com.aa42hgujoiah-xy1xutr005-2tk.speedvipsarbazi.site&port=700&secret=NEgYdZvXrFERCggwl0JC1g
 tg://proxy?server=188.213.165.14&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=89.169.35.6&port=443&secret=0aef53c6ce247d2058926461a78479db
 tg://proxy?server=vip.chaloos8.ir&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
