@@ -70,7 +70,6 @@ tg://proxy?server=88.99.2.124&port=9841&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZ
 tg://proxy?server=78.46.70.120&port=3784&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29t
 tg://proxy?server=88.99.99.77&port=2625&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=88.99.149.121&port=8423&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29t
-tg://proxy?server=78.47.221.184&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=89.221.203.150&port=37&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=91.107.172.32&port=6968&secret=adf40f46d165230637065edeeac211a9
 tg://proxy?server=95.181.173.143&port=9&secret=dd9a158f74da4d63d2cdfb4e09dbafffee
@@ -179,7 +178,6 @@ tg://proxy?server=5.255.97.157&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=5.255.114.54&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=204.76.203.52&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=65.109.185.178&port=888&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=217.60.39.189&port=5090&secret=ffff4444aaaa01015555666601019999
 tg://proxy?server=85.192.60.31&port=888&secret=9a158f74da4d63d2cdfb4e09dbafffee
 tg://proxy?server=85.192.41.100&port=888&secret=9a158f74da4d63d2cdfb4e09dbafffee
 tg://proxy?server=46.249.110.53&port=443&secret=15115115115115115115115115115115
@@ -201,7 +199,6 @@ tg://proxy?server=reverse.kambiz.dirbaz.flexfy.ir&port=443&secret=ddd81a1e1c8d87
 tg://proxy?server=011010101101.noirc0re.online&port=443&secret=35e1c63ac12a5ca4e2866c6e31a5b886
 tg://proxy?server=app.abrarvan.io&port=444&secret=ee999f36c19c3c18e930624be9e26fe8536d69726f2e636f6d
 tg://proxy?server=193.24.210.19&port=444&secret=ee37dd2f8c749067c2b508d1bc391462ad726566657273696f6e2e636f
-tg://proxy?server=54.38.136.234&port=22060&secret=DDBighLLvXrFGRMCBVJdFQ
 tg://proxy?server=proxy.kheili.ir-sorati.ir&port=443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=proxy.whypn.com&port=1111&secret=11111111111111111111111111111111
 tg://proxy?server=213.142.150.42&port=443&secret=a3f871e45d9208c1b6e4092f7d835c4b
