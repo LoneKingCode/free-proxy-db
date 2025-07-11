@@ -76,7 +76,6 @@ tg://proxy?server=95.181.173.143&port=9&secret=dd9a158f74da4d63d2cdfb4e09dbafffe
 tg://proxy?server=mas.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=ir.brobalair.ink&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=ir.brobalair.store&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=vmwarecenter.co.uk&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=5.255.122.83&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=45.32.154.25&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=195.201.234.42&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
