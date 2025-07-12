@@ -176,7 +176,6 @@ tg://proxy?server=77.221.138.46&port=1312&secret=dd469fe09b277900a8ae91dcefa7360
 tg://proxy?server=mtproxy4.connect-98.online&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
 tg://proxy?server=mtproxy5.connect-98.online&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
 tg://proxy?server=mtproxy10.connect-98.online&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
-tg://proxy?server=mtproxy8.connect-98.online&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
 tg://proxy?server=mtproxy7.connect-98.online&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
 tg://proxy?server=mtproxy3.connect-98.online&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
 tg://proxy?server=mtproxy1.connect-98.online&port=443&secret=dde5ceff7c8a4a80fcad3dae7d23f3ac65
