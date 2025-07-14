@@ -21,7 +21,6 @@ tg://proxy?server=sajad1.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37a
 tg://proxy?server=165.232.46.202&port=443&secret=ee01b0c24142b6abeb900ee2d80d128ba46769746875622e636f6d
 tg://proxy?server=149.28.53.43&port=443&secret=eef3e8bb41c53cfed143148c979acb26c76769746875622e636f6d
 tg://proxy?server=65.109.191.67&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636c6f7564
-tg://proxy?server=138.201.138.104&port=9110&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29t
 tg://proxy?server=116.203.81.58&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=128.140.63.134&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=138.201.16.176&port=3784&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29t
