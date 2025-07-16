@@ -111,7 +111,6 @@ tg://proxy?server=bic.xr66.ir&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb
 tg://proxy?server=bic2.xr66.ir&port=6968&secret=c918f8593a6b9a7d003393558b4d3d59
 tg://proxy?server=cvhudidisiiaisiaisijdjhrbrbr.endbot.top&port=1122&secret=d3dc6819743ceae6a8871ce5cb04ca33
 tg://proxy?server=94.130.218.244&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
-tg://proxy?server=188.40.70.227&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=23.88.70.165&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=138.201.195.175&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=159.69.69.234&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
@@ -188,9 +187,6 @@ tg://proxy?server=mtproxy-ru2.velvetvpn.xyz&port=7443&secret=4a6a864e1701719b188
 tg://proxy?server=mt-u.velvetvpn.xyz&port=7443&secret=4a6a864e1701719b18819285d6c6c4a2
 tg://proxy?server=proxy.duakar.ru&port=446&secret=dd9ade2d0229f4a7828b5be4fb258b164f
 tg://proxy?server=mtproxy-ru3.velvetvpn.xyz&port=7443&secret=4a6a864e1701719b18819285d6c6c4a2
-tg://proxy?server=185.167.234.234&port=8888&secret=dd6add439f2add2accbac342600059d551
-tg://proxy?server=fire43.profgn.milxbywkaiwnx.xyz&port=8888&secret=dd6add439f2add2accbac342600059d551
-tg://proxy?server=firerew43.profgn.milxbywkaiwnx.xyz&port=8888&secret=dd6add439f2add2accbac342600059d551
 tg://proxy?server=5.75.196.41&port=443&secret=dd163f8fc4aad2e79f50e6fda70d06bfc2
 tg://proxy?server=91.99.190.64&port=777&secret=EErIGZnjVxRfgrmcimjDea022RueWVrdGFuZXQuY29tZ
 tg://proxy?server=195.62.32.120&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
