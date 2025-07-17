@@ -79,15 +79,12 @@ tg://proxy?server=sepas.bmcdr.info&port=443&secret=1603010200010001fc030386e24c3
 tg://proxy?server=barname-darsi.aivalai.info&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=tiota.fanlpmw.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=otp.shop-parvaneh.ir&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
-tg://proxy?server=dynamic-------proxy------ir.aa42hgujoiah-xy1xutr005-2tk.info&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=heavisuy.sheshko.info&port=443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=jenab-khan.aaaofjosdfh-xy1xutsdg-1tk.info&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=here.aivalai.info&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=mail.bazi-parvaneh.ir&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=link.shop-parvaneh.ir&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=daemi1.fanar.info&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=aaaa.hezarsh-mashal0.co.uk.kjhasdkjhkjad-jskjj.co.uk.hkasfgkafh-ijhsd.co.uk.hewiufhkouhqawf-ihjd.co.uk.kjgjhghsdgsgtrdkg-ksdj.co.uk.he2zra68n-esh88gh.co.uk.eu.iwegujoiah-lgrutr09.info.xr1hgujoiah-xy1xutr095-2tk.info.br2hgujoiah-xy1xutr095-2tk.info&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=stronger---1---ir.zx2hgujoiah-xy1xutr045-2tk.info&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=ee.eeeeeeeeeeeeeeebbb.mmmeeeeeeeeeeeeeeeeeeeeeeeehhheeeeeeeeeee.eeddddddddddeeeeeeeeeeee.babaliya.shop&port=15&secret=aCU6YtZlydKvOWex8Z0yQA
 tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.bolombergon-88.info&port=4550&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=castle.ultrasam.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
@@ -203,3 +200,5 @@ tg://proxy?server=all.operator.iran.hivadaily.cyou&port=443&secret=dd82c65f4d954
 tg://proxy?server=195.254.165.172&port=98&secret=DDBighLLvXrFGRMCBVJdFQ
 tg://proxy?server=87.248.132.109&port=8443&secret=FgMBAgABAAH8AwOG4kw63QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=87.248.132.110&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=85.133.225.12&port=443&secret=35e1c63ac12a5ca4e2866c6e31a5b886
+tg://proxy?server=85.133.225.11&port=443&secret=35e1c63ac12a5ca4e2866c6e31a5b886
