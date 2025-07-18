@@ -63,7 +63,6 @@ tg://proxy?server=icon.tomnail.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=gggggg.eeggggggggggbbb.mmmeeeeeeeeeggggggggggggggggghhheeeeeeeeeee.eeddddddddddgggggggggggggggf.shannalamiya.shop&port=15&secret=aCU6YtZlydKvOWex8Z0yQA
 tg://proxy?server=brads.mygrade.ir&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=sorendive.aban-sanat.ir&port=443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=ghavi.8.8.8.8.hezarsh-mashal0.co.uk.vulhxrrjhkrs-sscj.co.uk.kjhasdkjhkjad-jskjj.co.uk.hkasfgkafh-ijhsd.co.uk.hewiufhkouhqawf-ihjd.co.uk.kjgjhghsdgsgtrdkg-ksdj.co.uk.he2zra68n-esh88gh.co.uk.eu.iwegujoiah-lgrutr09.info.xr1hgujoiah-xy1xutr095-2tk.info&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=fitidream.fiziotr.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=qebrit.parsintalk.ir&port=443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=sevento.ultrasam.info&port=443&secret=1603010200010001fc030386e24c3add
