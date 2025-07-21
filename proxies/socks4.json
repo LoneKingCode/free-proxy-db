@@ -7078,5 +7078,29 @@
         "password": "",
         "last_checked": "2025-07-21 17:47:10",
         "created_at": "2025-07-21 17:47:10"
+    },
+    {
+        "id": 97366,
+        "ip": "8.209.96.245",
+        "asn": "45102 Alibaba US Technology Co., Ltd.",
+        "speed": 6.57,
+        "port": 8123,
+        "protocol": "socks4",
+        "anonymity": "elite",
+        "is_valid": 1,
+        "https": 1,
+        "check_success_count": 1,
+        "check_error_count": 0,
+        "country": "DE",
+        "city": "Frankfurt am Main",
+        "connect_string": "socks4://8.209.96.245:8123",
+        "available_site_info": null,
+        "site_protocol": "socks4",
+        "secret": "",
+        "source": null,
+        "username": "",
+        "password": "",
+        "last_checked": "2025-07-21 23:56:16",
+        "created_at": "2025-07-21 23:56:16"
     }
 ]
