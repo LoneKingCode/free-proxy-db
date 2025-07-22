@@ -203,3 +203,4 @@ tg://proxy?server=dl1-de-cdn.x-upload.org&port=443&secret=a3ed4d0150712bbb23d339
 tg://proxy?server=hhggfgfffffgffgfff.shopgameplus.info&port=445&secret=2590365156f004807ce2b5cc0c354cbe
 tg://proxy?server=gggggffddfddf.matin-uptime.shop&port=443&secret=1198724d4ba40f73a044183022348074
 tg://proxy?server=bbbbbbgfffffffffffff.matin-uptime.shop&port=444&secret=3ea052cf056fb34e0978e11a250283d9
+tg://proxy?server=176.31.54.0&port=8000&secret=ee72881e9e1e7d1ff9647913616d37aeae686f73746972616e2e636c6f7564
