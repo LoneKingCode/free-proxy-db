@@ -205,3 +205,6 @@ tg://proxy?server=sdfghjkhgfhjkjhg.matin-uptime.shop&port=444&secret=e6bf866bf7e
 tg://proxy?server=ffghgfdfghjkkjhgfdfghjk.matin-uptime.shop&port=443&secret=743f0087c6b3c5f43aa08b67c49b010c
 tg://proxy?server=dfgfdsdfgfdsfghfdfg.matin-uptime.shop&port=445&secret=3ad0bb07f4fb7a7aa260934d6edf91c4
 tg://proxy?server=141.95.107.109&port=8888&secret=dd9e989dc43f8ade26da44dec608c4a6aa
+tg://proxy?server=94.130.70.120&port=100&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=46.62.167.152&port=100&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=62.60.178.64&port=1312&secret=dd469fe09b277900a8ae91dcefa736056b
