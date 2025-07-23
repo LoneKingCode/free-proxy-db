@@ -189,7 +189,6 @@ tg://proxy?server=sorati-nabi.ws-bradar.ir&port=443&secret=EERighJJvXrFGRMCIMJdC
 tg://proxy?server=87.248.132.46&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=fox.6ib.ir&port=443&secret=eef493eeea434ee3c89eeb0c23ffc70e5c636c6f7564666c6172652e636f6d
 tg://proxy?server=31.184.172.121&port=2086&secret=1f9fdd1eddffba2661772fa299eef89c
-tg://proxy?server=efx.hichinagoir.milxbywkaiwnx.xyz&port=650&secret=ddd3f4b2e9dfe8fd69a2ca0c0beb01ef58
 tg://proxy?server=87.248.132.45&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=94.130.70.93&port=100&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=92.114.24.86&port=443&secret=35e1c63ac12a5ca4e2866c6e31a5b886
@@ -203,3 +202,6 @@ tg://proxy?server=hhggfgfffffgffgfff.shopgameplus.info&port=445&secret=259036515
 tg://proxy?server=gggggffddfddf.matin-uptime.shop&port=443&secret=1198724d4ba40f73a044183022348074
 tg://proxy?server=bbbbbbgfffffffffffff.matin-uptime.shop&port=444&secret=3ea052cf056fb34e0978e11a250283d9
 tg://proxy?server=176.31.54.0&port=8000&secret=ee72881e9e1e7d1ff9647913616d37aeae686f73746972616e2e636c6f7564
+tg://proxy?server=sdfghjkhgfhjkjhg.matin-uptime.shop&port=444&secret=e6bf866bf7ea099cb61b7afabb8c07af
+tg://proxy?server=ffghgfdfghjkkjhgfdfghjk.matin-uptime.shop&port=443&secret=743f0087c6b3c5f43aa08b67c49b010c
+tg://proxy?server=dfgfdsdfgfdsfghfdfg.matin-uptime.shop&port=445&secret=3ad0bb07f4fb7a7aa260934d6edf91c4
