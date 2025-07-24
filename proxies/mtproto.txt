@@ -193,9 +193,7 @@ tg://proxy?server=92.114.24.86&port=443&secret=35e1c63ac12a5ca4e2866c6e31a5b886
 tg://proxy?server=92.114.24.87&port=443&secret=35e1c63ac12a5ca4e2866c6e31a5b886
 tg://proxy?server=185.130.89.56&port=8443&secret=ddbc6dddb180509c5b18cb51d17d849459
 tg://proxy?server=23.158.56.51&port=443&secret=dd951f34db78a14b2cc0026a8e43f0e8c6
-tg://proxy?server=ffgdgfdfghfdfgbh.shopgameplus.info&port=444&secret=c6784940f3bdb22f003f3862b37b31f4
 tg://proxy?server=dl1-de-cdn.x-upload.org&port=443&secret=a3ed4d0150712bbb23d339e2325fe2e3
-tg://proxy?server=hhggfgfffffgffgfff.shopgameplus.info&port=445&secret=2590365156f004807ce2b5cc0c354cbe
 tg://proxy?server=176.31.54.0&port=8000&secret=ee72881e9e1e7d1ff9647913616d37aeae686f73746972616e2e636c6f7564
 tg://proxy?server=sdfghjkhgfhjkjhg.matin-uptime.shop&port=444&secret=e6bf866bf7ea099cb61b7afabb8c07af
 tg://proxy?server=ffghgfdfghjkkjhgfdfghjk.matin-uptime.shop&port=443&secret=743f0087c6b3c5f43aa08b67c49b010c
