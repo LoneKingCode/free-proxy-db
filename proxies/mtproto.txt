@@ -205,3 +205,4 @@ tg://proxy?server=myyyyyyddddddfd.matin-uptime.shop&port=445&secret=7168cc457d5c
 tg://proxy?server=mmmmmmmmnhhhh.matin-uptime.shop&port=444&secret=e3a7064a52ceadf9b008d3339e3a5e9d
 tg://proxy?server=87.248.132.103&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D
 tg://proxy?server=91.107.244.104&port=443&secret=35e1c63ac12a5ca4e2866c6e31a5b886
+tg://proxy?server=apple.slumbo.com&port=443&secret=dd00000000000000000000000000000000
