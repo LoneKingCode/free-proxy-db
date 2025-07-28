@@ -226,3 +226,4 @@ tg://proxy?server=62.112.222.151&port=666&secret=dd5271fc07c39690a9b74d8b641e639
 tg://proxy?server=109.107.159.32&port=666&secret=dd8388d93fa467b25475dbcdc92a9055d2
 tg://proxy?server=109.61.42.168&port=666&secret=dd960a440d2fa0d92928b4941df5e058b8
 tg://proxy?server=45.10.59.38&port=666&secret=dddebe8f31382a30304c56e7404441175f
+tg://proxy?server=ajimaji.khoreshtsabzi.ir&port=9696&secret=dd12de5ba8cab361eb0c9e042f60e6ad49
