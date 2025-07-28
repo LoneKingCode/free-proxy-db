@@ -228,3 +228,4 @@ tg://proxy?server=45.10.59.38&port=666&secret=dddebe8f31382a30304c56e7404441175f
 tg://proxy?server=ajimaji.khoreshtsabzi.ir&port=9696&secret=dd12de5ba8cab361eb0c9e042f60e6ad49
 tg://proxy?server=91.107.254.88&port=3306&secret=b0626b016aa3e9a2c499668adede0539
 tg://proxy?server=87.120.92.135&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb7777772e6c6174696d65732e636f6d
+tg://proxy?server=192.124.175.211&port=8888&secret=dd3aef36fbfc7d923f34d52b4136400c5d
