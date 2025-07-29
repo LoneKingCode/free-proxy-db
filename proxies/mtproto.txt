@@ -229,3 +229,4 @@ tg://proxy?server=91.107.254.88&port=3306&secret=b0626b016aa3e9a2c499668adede053
 tg://proxy?server=87.120.92.135&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb7777772e6c6174696d65732e636f6d
 tg://proxy?server=192.124.175.211&port=8888&secret=dd3aef36fbfc7d923f34d52b4136400c5d
 tg://proxy?server=62.76.232.244&port=666&secret=dda0be10a721c2618976957281f483dd13
+tg://proxy?server=49.12.233.126&port=200&secret=DDNUgYdJvXrFGRMCIMUKGGNkbi50YWJuYWsuaXIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
