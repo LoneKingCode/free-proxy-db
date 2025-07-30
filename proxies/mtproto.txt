@@ -21,7 +21,6 @@ tg://proxy?server=sajad1.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37a
 tg://proxy?server=165.232.46.202&port=443&secret=ee01b0c24142b6abeb900ee2d80d128ba46769746875622e636f6d
 tg://proxy?server=149.28.53.43&port=443&secret=eef3e8bb41c53cfed143148c979acb26c76769746875622e636f6d
 tg://proxy?server=65.109.191.67&port=443&secret=ee30c12e7035fca930279433c4f96dae03636f6e736f6c652e6865747a6e65722e636c6f7564
-tg://proxy?server=128.140.63.134&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=108.181.71.17&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=14.102.10.51&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=14.102.10.50&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
@@ -94,7 +93,6 @@ tg://proxy?server=139.180.158.124&port=9443&secret=2adab36179e7a39026adf74034615
 tg://proxy?server=45.32.10.186&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=158.247.234.65&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=viper.psina228.club&port=3128&secret=b9d7659cf00e62be1ec9f24238c54717
-tg://proxy?server=free.bale.cyou&port=80&secret=fbaa15d5abfbf8a2ac89e9f4ae906375
 tg://proxy?server=s1.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b
 tg://proxy?server=s2.czkyc.icu&port=1312&secret=469fe09b277900a8ae91dcefa736056b
 tg://proxy?server=77.232.143.199&port=3128&secret=b9d7659cf00e62be1ec9f24238c54717
@@ -210,11 +208,6 @@ tg://proxy?server=195.62.32.146&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGF
 tg://proxy?server=163.5.31.11&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=93.185.157.61&port=443&secret=5mB7kIicxgcZ0hcMsoUZYgAAAAAAAAAAAAAAAAAAAAkIicxgcZ0hcMsAAAA0hcMsAAAA
 tg://proxy?server=87.248.132.32&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=89.39.70.114&port=666&secret=dd68c1d7c4a7fcc6253563c29d014294b8
-tg://proxy?server=62.112.222.151&port=666&secret=dd5271fc07c39690a9b74d8b641e6396b0
-tg://proxy?server=109.107.159.32&port=666&secret=dd8388d93fa467b25475dbcdc92a9055d2
-tg://proxy?server=109.61.42.168&port=666&secret=dd960a440d2fa0d92928b4941df5e058b8
-tg://proxy?server=45.10.59.38&port=666&secret=dddebe8f31382a30304c56e7404441175f
 tg://proxy?server=ajimaji.khoreshtsabzi.ir&port=9696&secret=dd12de5ba8cab361eb0c9e042f60e6ad49
 tg://proxy?server=91.107.254.88&port=3306&secret=b0626b016aa3e9a2c499668adede0539
 tg://proxy?server=87.120.92.135&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb7777772e6c6174696d65732e636f6d
