@@ -78,7 +78,6 @@ tg://proxy?server=value.sheshko.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=14.102.10.63&port=8888&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=a.10.mtproto.ru&port=443&secret=ee211122223333444455556666777788887765622e736e6170636861742e636f6d
 tg://proxy?server=94.130.70.101&port=443&secret=EERighJJvXrFGRMCIMJdCQ
-tg://proxy?server=bahbah.khoreshtsabzi.ir&port=8585&secret=dd5d5b15b207cd8974a5ae0585282bc510
 tg://proxy?server=88.99.199.95&port=1460&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=45.84.0.164&port=6968&secret=403e07c21c0ef8f6b148af16d76cd1eb
 tg://proxy?server=cvhudidisiiaisiaisijdjhrbrbr.endbot.top&port=1122&secret=d3dc6819743ceae6a8871ce5cb04ca33
@@ -220,3 +219,6 @@ tg://proxy?server=141.95.103.141&port=4044&secret=ee7018955fbbee2437413c87e8d024
 tg://proxy?server=51.68.82.128&port=4044&secret=ee6476db826f96a85a337a50692385d64c
 tg://proxy?server=pxzone.gamemovi.com&port=443&secret=dd7846c89f25bffa9963f5c0d3e72b618e
 tg://proxy?server=5.35.39.102&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb7777772e6c6174696d65732e636f6d
+tg://proxy?server=87.248.134.68&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=koja.fashan-mashan.ir&port=3443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=sibzamini.pitzaa.felfel.iran.mozeporteghali.uk&port=9741&secret=ee618a34883eba88c71262e4af29cd7e146d656469612e737465616d706f77657265642e636f6d
