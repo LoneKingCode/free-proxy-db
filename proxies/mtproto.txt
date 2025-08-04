@@ -231,3 +231,5 @@ tg://proxy?server=i--irib-iran.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b
 tg://proxy?server=mci------rexvpntel---bbc--irancell.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=server.koleini-service.ir&port=8989&secret=dd62c9af8f49f1a01728139ff5775223c9
 tg://proxy?server=banki-korush.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
+tg://proxy?server=91.107.161.176&port=443&secret=ee55b0713bdaeea533bff119d725b3a6327777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=i--rexvpn-iran.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
