@@ -242,3 +242,6 @@ tg://proxy?server=web4.norozhost.com&port=443&secret=dd258523cbc9277b51c483ad36d
 tg://proxy?server=oh--------rexvpntel------14--yy.ir.ir.aivpn.online&port=443&secret=eea3f1c9b7e2d4a6f08b91c5e73fd0a4c273332e616d617a6f6e6177732e636f6d
 tg://proxy?server=oh--------rexvpntel------q---yy.ir.ir.aivpn.online&port=443&secret=eea3f1c9b7e2d4a6f08b91c5e73fd0a4c273332e616d617a6f6e6177732e636f6d
 tg://proxy?server=oh--------rexvpntel------9---yy.ir.ir.aivpn.online&port=443&secret=eea3f1c9b7e2d4a6f08b91c5e73fd0a4c273332e616d617a6f6e6177732e636f6d
+tg://proxy?server=91.99.209.205&port=443&secret=ec742282124f04d318551341ead76457
+tg://proxy?server=51.38.220.129&port=443&secret=eed7849506fa5fafb7480c634e38310194676f6f676c652e
+tg://proxy?server=5.75.218.119&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
