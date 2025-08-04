@@ -236,3 +236,7 @@ tg://proxy?server=sep--------rexvpntel--------h.ir.aivpn.online&port=110&secret=
 tg://proxy?server=kouch---2-----rexvpntel--------h.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=bank--------rexvpntel----4----z.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=novin--------rexvpntel---2-----i.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
+tg://proxy?server=novin--------rexvpntel----7----i.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
+tg://proxy?server=dns6.norozhost.com&port=739&secret=dddc5d8a7ec5a7e166a79fa410bd3c29da
+tg://proxy?server=sep----9----rexvpntel--------ys.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
+tg://proxy?server=web4.norozhost.com&port=443&secret=dd258523cbc9277b51c483ad36da536804
