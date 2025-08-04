@@ -168,7 +168,6 @@ tg://proxy?server=31.184.172.121&port=2086&secret=1f9fdd1eddffba2661772fa299eef8
 tg://proxy?server=87.248.132.45&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=94.130.70.93&port=100&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=185.130.89.56&port=8443&secret=ddbc6dddb180509c5b18cb51d17d849459
-tg://proxy?server=23.158.56.51&port=443&secret=dd951f34db78a14b2cc0026a8e43f0e8c6
 tg://proxy?server=dl1-de-cdn.x-upload.org&port=443&secret=a3ed4d0150712bbb23d339e2325fe2e3
 tg://proxy?server=141.95.107.109&port=8888&secret=dd9e989dc43f8ade26da44dec608c4a6aa
 tg://proxy?server=94.130.70.120&port=100&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -240,3 +239,6 @@ tg://proxy?server=novin--------rexvpntel----7----i.ir.aivpn.online&port=110&secr
 tg://proxy?server=dns6.norozhost.com&port=739&secret=dddc5d8a7ec5a7e166a79fa410bd3c29da
 tg://proxy?server=sep----9----rexvpntel--------ys.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=web4.norozhost.com&port=443&secret=dd258523cbc9277b51c483ad36da536804
+tg://proxy?server=oh--------rexvpntel------14--yy.ir.ir.aivpn.online&port=443&secret=eea3f1c9b7e2d4a6f08b91c5e73fd0a4c273332e616d617a6f6e6177732e636f6d
+tg://proxy?server=oh--------rexvpntel------q---yy.ir.ir.aivpn.online&port=443&secret=eea3f1c9b7e2d4a6f08b91c5e73fd0a4c273332e616d617a6f6e6177732e636f6d
+tg://proxy?server=oh--------rexvpntel------9---yy.ir.ir.aivpn.online&port=443&secret=eea3f1c9b7e2d4a6f08b91c5e73fd0a4c273332e616d617a6f6e6177732e636f6d
