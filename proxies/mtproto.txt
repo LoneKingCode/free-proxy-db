@@ -186,7 +186,6 @@ tg://proxy?server=163.5.31.11&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZ
 tg://proxy?server=93.185.157.61&port=443&secret=5mB7kIicxgcZ0hcMsoUZYgAAAAAAAAAAAAAAAAAAAAkIicxgcZ0hcMsAAAA0hcMsAAAA
 tg://proxy?server=ajimaji.khoreshtsabzi.ir&port=9696&secret=dd12de5ba8cab361eb0c9e042f60e6ad49
 tg://proxy?server=87.120.92.135&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb7777772e6c6174696d65732e636f6d
-tg://proxy?server=192.124.175.211&port=8888&secret=dd3aef36fbfc7d923f34d52b4136400c5d
 tg://proxy?server=117.18.118.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D
 tg://proxy?server=93.185.157.58&port=55826&secret=5mB7kIicxgcZ0hcMsoUZYgAAAAAAAAAAAAAAAAAAAAkIicxgcZ0hcMsAAAA0hcMsAAAA
 tg://proxy?server=37.49.224.120&port=843&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -245,3 +244,6 @@ tg://proxy?server=oh--------rexvpntel------9---yy.ir.ir.aivpn.online&port=443&se
 tg://proxy?server=91.99.209.205&port=443&secret=ec742282124f04d318551341ead76457
 tg://proxy?server=51.38.220.129&port=443&secret=eed7849506fa5fafb7480c634e38310194676f6f676c652e
 tg://proxy?server=5.75.218.119&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
+tg://proxy?server=5.75.221.37&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
+tg://proxy?server=88.198.120.227&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
+tg://proxy?server=tosos-moaos.berlino-landcvixo.biaboro.etok.info&port=443&secret=iORid5lJ237IiBMGYMQMdw==
