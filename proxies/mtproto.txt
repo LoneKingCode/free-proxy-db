@@ -98,7 +98,6 @@ tg://proxy?server=204.76.203.52&port=443&secret=15115115115115115115115115115115
 tg://proxy?server=85.192.60.31&port=888&secret=9a158f74da4d63d2cdfb4e09dbafffee
 tg://proxy?server=85.192.41.100&port=888&secret=9a158f74da4d63d2cdfb4e09dbafffee
 tg://proxy?server=46.249.110.53&port=443&secret=15115115115115115115115115115115
-tg://proxy?server=62.60.245.219&port=888&secret=9a158f74da4d63d2cdfb4e09dbafffee
 tg://proxy?server=136.243.125.3&port=444&secret=9a5e3ea28c2e999cf0735bf378a70e4d
 tg://proxy?server=83.172.153.226&port=85&secret=dd306cb73bd735551ca3b59f32e05b45e9
 tg://proxy?server=telproxy.connecton.surf&port=6968&secret=07d48ada647e5b8fd30335eda5eebf17
