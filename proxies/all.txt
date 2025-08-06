@@ -1516,7 +1516,6 @@ http://147.75.34.74:10042
 tg://proxy?server=87.248.132.46&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 socks5://2.58.65.218:8080
 http://147.75.88.121:9400
-tg://proxy?server=fox.6ib.ir&port=443&secret=eef493eeea434ee3c89eeb0c23ffc70e5c636c6f7564666c6172652e636f6d
 tg://proxy?server=31.184.172.121&port=2086&secret=1f9fdd1eddffba2661772fa299eef89c
 http://47.243.181.85:41304
 http://47.243.181.85:55004
@@ -1558,7 +1557,6 @@ socks5://103.249.201.39:1143
 tg://proxy?server=91.107.244.104&port=443&secret=35e1c63ac12a5ca4e2866c6e31a5b886
 tg://proxy?server=apple.slumbo.com&port=443&secret=dd00000000000000000000000000000000
 http://31.14.114.73:1081
-tg://proxy?server=ultrafast.shadowpanel.click&port=443&secret=dd4ac67140b144fbb63c795cdf59393af7
 tg://proxy?server=xn--y8h.aftabneta4.ir&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D
 http://147.28.240.217:9401
 http://147.75.66.235:80
@@ -1572,7 +1570,6 @@ http://112.216.83.10:3128
 http://147.28.240.214:9401
 http://147.28.240.215:9401
 http://123.159.126.158:8085
-http://170.64.227.7:3128
 http://147.28.240.217:443
 http://31.47.42.140:1081
 tg://proxy?server=ajimaji.khoreshtsabzi.ir&port=9696&secret=dd12de5ba8cab361eb0c9e042f60e6ad49
@@ -1588,7 +1585,6 @@ http://147.28.240.217:9400
 tg://proxy?server=117.18.118.23&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D
 http://193.176.84.25:9002
 socks5://45.146.130.45:8671
-http://144.76.159.121:8084
 tg://proxy?server=93.185.157.58&port=55826&secret=5mB7kIicxgcZ0hcMsoUZYgAAAAAAAAAAAAAAAAAAAAkIicxgcZ0hcMsAAAA0hcMsAAAA
 http://147.28.240.215:9400
 http://205.185.125.136:8888
@@ -1613,7 +1609,6 @@ tg://proxy?server=141.95.103.141&port=4044&secret=ee7018955fbbee2437413c87e8d024
 tg://proxy?server=51.68.82.128&port=4044&secret=ee6476db826f96a85a337a50692385d64c
 tg://proxy?server=pxzone.gamemovi.com&port=443&secret=dd7846c89f25bffa9963f5c0d3e72b618e
 http://102.209.56.21:443
-socks4://103.169.161.5:1080
 tg://proxy?server=5.35.39.102&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb7777772e6c6174696d65732e636f6d
 http://159.89.98.131:3128
 socks5://103.239.201.50:58765
@@ -1673,7 +1668,6 @@ tg://proxy?server=darband.saipa.khiarshoor.gaming.iran.mozeporteghali.uk&port=97
 tg://proxy?server=yesiad.pw-safari.ir&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 http://147.28.240.213:80
 tg://proxy?server=87.248.132.24&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-socks5://47.239.238.156:33333
 socks4://192.177.33.195:9000
 tg://proxy?server=server.koleini-service.ir&port=8989&secret=dd62c9af8f49f1a01728139ff5775223c9
 http://13.201.84.208:80
@@ -1686,14 +1680,10 @@ http://157.100.6.202:999
 socks4://103.249.200.152:1193
 http://123.154.110.23:8085
 http://42.180.0.58:6182
-socks5://45.146.130.45:4285
-tg://proxy?server=novin--------rexvpntel----7----i.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=dns6.norozhost.com&port=739&secret=dddc5d8a7ec5a7e166a79fa410bd3c29da
-tg://proxy?server=sep----9----rexvpntel--------ys.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=web4.norozhost.com&port=443&secret=dd258523cbc9277b51c483ad36da536804
 http://203.95.196.80:8080
 http://203.95.196.1:8080
-http://111.248.228.185:3128
 http://175.110.114.216:80
 http://203.95.198.146:8080
 socks5://45.146.130.45:8728
@@ -1702,13 +1692,7 @@ tg://proxy?server=oh--------rexvpntel------14--yy.ir.ir.aivpn.online&port=443&se
 tg://proxy?server=oh--------rexvpntel------q---yy.ir.ir.aivpn.online&port=443&secret=eea3f1c9b7e2d4a6f08b91c5e73fd0a4c273332e616d617a6f6e6177732e636f6d
 tg://proxy?server=oh--------rexvpntel------9---yy.ir.ir.aivpn.online&port=443&secret=eea3f1c9b7e2d4a6f08b91c5e73fd0a4c273332e616d617a6f6e6177732e636f6d
 socks5://47.76.162.236:1024
-http://72.10.160.90:30761
-http://72.10.160.173:4485
-http://72.10.160.171:10405
-http://67.43.236.20:8609
-http://67.43.236.20:2315
 http://72.10.160.170:7291
-http://72.10.160.170:10383
 http://67.43.228.251:10905
 tg://proxy?server=91.99.209.205&port=443&secret=ec742282124f04d318551341ead76457
 tg://proxy?server=51.38.220.129&port=443&secret=eed7849506fa5fafb7480c634e38310194676f6f676c652e
@@ -1914,3 +1898,14 @@ http://67.43.228.251:14975
 http://67.43.236.20:4867
 http://67.43.236.18:14387
 http://72.10.160.94:8573
+http://147.28.240.210:9443
+tg://proxy?server=5.196.191.247&port=8888&secret=ee491d22490301a12477e2adbbb28ee0b873332e616d617a6f6e6177732e636f6d
+http://45.90.216.103:8080
+socks5://152.53.194.55:12292
+http://72.10.164.178:16597
+http://147.28.240.216:9443
+http://147.75.88.120:9400
+http://72.10.160.171:12485
+http://72.10.160.90:25259
+http://103.126.86.239:9000
+http://72.10.160.90:31267
