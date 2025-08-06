@@ -213,9 +213,6 @@ tg://proxy?server=server.koleini-service.ir&port=8989&secret=dd62c9af8f49f1a0172
 tg://proxy?server=91.107.161.176&port=443&secret=ee55b0713bdaeea533bff119d725b3a6327777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=dns6.norozhost.com&port=739&secret=dddc5d8a7ec5a7e166a79fa410bd3c29da
 tg://proxy?server=web4.norozhost.com&port=443&secret=dd258523cbc9277b51c483ad36da536804
-tg://proxy?server=oh--------rexvpntel------14--yy.ir.ir.aivpn.online&port=443&secret=eea3f1c9b7e2d4a6f08b91c5e73fd0a4c273332e616d617a6f6e6177732e636f6d
-tg://proxy?server=oh--------rexvpntel------q---yy.ir.ir.aivpn.online&port=443&secret=eea3f1c9b7e2d4a6f08b91c5e73fd0a4c273332e616d617a6f6e6177732e636f6d
-tg://proxy?server=oh--------rexvpntel------9---yy.ir.ir.aivpn.online&port=443&secret=eea3f1c9b7e2d4a6f08b91c5e73fd0a4c273332e616d617a6f6e6177732e636f6d
 tg://proxy?server=91.99.209.205&port=443&secret=ec742282124f04d318551341ead76457
 tg://proxy?server=51.38.220.129&port=443&secret=eed7849506fa5fafb7480c634e38310194676f6f676c652e
 tg://proxy?server=5.75.218.119&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
