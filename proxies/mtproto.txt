@@ -246,3 +246,4 @@ tg://proxy?server=31.57.108.246&port=999&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFu
 tg://proxy?server=51.195.25.8&port=200&secret=ee8e9f4aaf2721ed86a90f1d1b832cebeb636c6f7564666c
 tg://proxy?server=91.99.218.41&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=varzesh3.com_linkirani.ir_myket.ir_telewebion.com_zula.ir_mihandownload.ir_yasdl.ir_soft98.ir.iqcoder.ir&port=2145&secret=EAcBAgABAAfwAwOG4kw63Q==
+tg://proxy?server=37.156.47.180&port=443&secret=dd41fd5017b2cf5b6b3e0da7ca2f3bf1e1
