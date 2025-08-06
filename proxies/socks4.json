@@ -6766,5 +6766,29 @@
         "password": "",
         "last_checked": "2025-08-06 00:15:46",
         "created_at": "2025-08-06 00:15:46"
+    },
+    {
+        "id": 99609,
+        "ip": "103.249.201.46",
+        "asn": "150873 THUONGCLOUD COMPANY LIMITED",
+        "speed": 11.36,
+        "port": 1157,
+        "protocol": "socks4",
+        "anonymity": "elite",
+        "is_valid": 1,
+        "https": 1,
+        "check_success_count": 1,
+        "check_error_count": 0,
+        "country": "VN",
+        "city": "",
+        "connect_string": "socks4://103.249.201.46:1157",
+        "available_site_info": null,
+        "site_protocol": "socks4",
+        "secret": "",
+        "source": null,
+        "username": "",
+        "password": "",
+        "last_checked": "2025-08-06 18:11:48",
+        "created_at": "2025-08-06 18:11:48"
     }
 ]
