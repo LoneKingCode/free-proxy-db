@@ -1605,7 +1605,6 @@ tg://proxy?server=51.68.82.128&port=4044&secret=ee6476db826f96a85a337a50692385d6
 tg://proxy?server=pxzone.gamemovi.com&port=443&secret=dd7846c89f25bffa9963f5c0d3e72b618e
 http://102.209.56.21:443
 tg://proxy?server=5.35.39.102&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb7777772e6c6174696d65732e636f6d
-http://159.89.98.131:3128
 socks5://103.239.201.50:58765
 http://45.166.93.113:999
 socks5://80.78.30.182:1080
@@ -1636,7 +1635,6 @@ http://116.107.169.233:10005
 tg://proxy?server=91.107.129.30&port=6968&secret=20ebf1a487c59f2dd550f8ad16530079
 http://116.107.169.233:10003
 http://152.53.194.46:8053
-tg://proxy?server=mci.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=65.21.118.76&port=8989&secret=62c9af8f49f1a01728139ff5775223c9
 socks4://103.249.200.152:1111
 tg://proxy?server=45.67.136.26&port=8268&secret=ee9cb8d24c888949d2bbe7855108e707186769746875622e
@@ -1664,7 +1662,6 @@ http://147.75.34.74:10075
 socks4://64.110.82.7:8082
 socks4://103.249.200.152:1193
 http://42.180.0.58:6182
-tg://proxy?server=dns6.norozhost.com&port=739&secret=dddc5d8a7ec5a7e166a79fa410bd3c29da
 tg://proxy?server=web4.norozhost.com&port=443&secret=dd258523cbc9277b51c483ad36da536804
 http://203.95.196.80:8080
 http://175.110.114.216:80
@@ -1677,14 +1674,10 @@ tg://proxy?server=5.75.221.37&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=88.198.120.227&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=tosos-moaos.berlino-landcvixo.biaboro.etok.info&port=443&secret=iORid5lJ237IiBMGYMQMdw==
 http://38.224.221.58:999
-http://160.187.174.102:8080
 http://191.97.20.80:999
 http://149.86.142.215:8080
-http://113.45.158.25:3128
 http://183.80.22.142:16000
 socks5://89.58.45.94:40412
-socks5://157.180.121.252:29974
-socks5://181.215.243.104:4061
 http://116.107.169.233:10007
 http://203.115.101.55:84
 tg://proxy?server=main2.takfanco.ir&port=100&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -1695,10 +1688,6 @@ http://49.65.124.192:3128
 socks4://116.107.169.233:20004
 socks5://181.215.243.104:4178
 socks5://47.236.243.40:33333
-socks5://157.180.121.252:50936
-http://72.10.164.178:13087
-http://67.43.236.20:14763
-http://72.10.164.178:11727
 tg://proxy?server=31.57.108.246&port=999&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFy
 tg://proxy?server=51.195.25.8&port=200&secret=ee8e9f4aaf2721ed86a90f1d1b832cebeb636c6f7564666c
 tg://proxy?server=91.99.218.41&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
@@ -1924,3 +1913,16 @@ socks5://176.9.164.117:60005
 socks5://152.53.168.53:42675
 socks5://181.215.243.104:4085
 socks5://185.93.89.176:11100
+http://147.28.240.214:9443
+http://72.10.164.178:2247
+http://72.10.160.90:5763
+http://67.43.228.250:27865
+http://72.10.160.171:18445
+http://72.10.160.91:27447
+http://72.10.160.90:23061
+socks5://37.1.194.6:1080
+socks5://152.53.168.53:48343
+http://145.40.96.156:443
+http://183.80.22.18:16000
+http://183.80.23.37:16000
+tg://proxy?server=51.83.227.69&port=8888&secret=dd7daa13bd54addc413cd85bda35dbdec5
