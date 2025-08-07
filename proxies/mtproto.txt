@@ -198,8 +198,6 @@ tg://proxy?server=87.248.134.67&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFu
 tg://proxy?server=91.107.129.30&port=6968&secret=20ebf1a487c59f2dd550f8ad16530079
 tg://proxy?server=mci.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=65.21.118.76&port=8989&secret=62c9af8f49f1a01728139ff5775223c9
-tg://proxy?server=cert.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
-tg://proxy?server=rexvpntel.ir.aivpn.online&port=110&secret=ee0608e65f2c70e0b22455c91550816a5f73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=45.67.136.26&port=8268&secret=ee9cb8d24c888949d2bbe7855108e707186769746875622e
 tg://proxy?server=87.248.134.63&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=87.248.134.62&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -211,7 +209,6 @@ tg://proxy?server=server.koleini-service.ir&port=8989&secret=dd62c9af8f49f1a0172
 tg://proxy?server=dns6.norozhost.com&port=739&secret=dddc5d8a7ec5a7e166a79fa410bd3c29da
 tg://proxy?server=web4.norozhost.com&port=443&secret=dd258523cbc9277b51c483ad36da536804
 tg://proxy?server=91.99.209.205&port=443&secret=ec742282124f04d318551341ead76457
-tg://proxy?server=51.38.220.129&port=443&secret=eed7849506fa5fafb7480c634e38310194676f6f676c652e
 tg://proxy?server=5.75.218.119&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=5.75.221.37&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=88.198.120.227&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
@@ -235,3 +232,4 @@ tg://proxy?server=45.134.13.25&port=843&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZ
 tg://proxy?server=77.221.148.13&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=91.99.205.216&port=443&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=sibzamini.pitzaa.felfel.irankhodro.mozeporteghali.uk&port=9741&secret=ee42d46f880967e764cc6c69b4190e45a46d656469612e737465616d706f77657265642e636f6d
+tg://proxy?server=77.91.77.6&port=1312&secret=dd469fe09b277900a8ae91dcefa736056b
