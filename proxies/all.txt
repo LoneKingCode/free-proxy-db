@@ -1674,7 +1674,6 @@ tg://proxy?server=5.75.221.37&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=88.198.120.227&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=tosos-moaos.berlino-landcvixo.biaboro.etok.info&port=443&secret=iORid5lJ237IiBMGYMQMdw==
 http://38.224.221.58:999
-http://191.97.20.80:999
 http://149.86.142.215:8080
 http://183.80.22.142:16000
 socks5://89.58.45.94:40412
@@ -1682,14 +1681,11 @@ http://116.107.169.233:10007
 http://203.115.101.55:84
 tg://proxy?server=main2.takfanco.ir&port=100&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=tool1.somaar.ir&port=100&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-http://103.242.104.221:8080
 http://153.0.171.163:8085
 http://49.65.124.192:3128
 socks4://116.107.169.233:20004
-socks5://181.215.243.104:4178
 socks5://47.236.243.40:33333
 tg://proxy?server=31.57.108.246&port=999&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFy
-tg://proxy?server=51.195.25.8&port=200&secret=ee8e9f4aaf2721ed86a90f1d1b832cebeb636c6f7564666c
 tg://proxy?server=91.99.218.41&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=varzesh3.com_linkirani.ir_myket.ir_telewebion.com_zula.ir_mihandownload.ir_yasdl.ir_soft98.ir.iqcoder.ir&port=2145&secret=EAcBAgABAAfwAwOG4kw63Q==
 http://43.153.43.58:31280
@@ -1709,12 +1705,8 @@ http://27.79.183.77:16000
 http://114.9.24.2:1452
 http://1.52.197.2:16000
 http://42.118.173.169:16000
-http://1.55.59.246:16000
-http://67.43.236.18:23937
-http://72.10.160.173:7739
 socks5://94.139.182.6:443
 socks5://103.249.201.39:1193
-http://109.120.133.3:1200
 http://103.156.15.38:1111
 socks5://47.242.84.8:33333
 http://147.28.240.218:443
@@ -1926,3 +1918,9 @@ http://145.40.96.156:443
 http://183.80.22.18:16000
 http://183.80.23.37:16000
 tg://proxy?server=51.83.227.69&port=8888&secret=dd7daa13bd54addc413cd85bda35dbdec5
+http://72.10.160.93:32151
+http://67.43.228.251:6435
+http://72.10.160.91:26899
+http://152.53.168.53:44643
+socks5://89.58.45.94:33420
+socks5://45.146.130.43:4145
