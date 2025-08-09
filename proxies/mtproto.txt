@@ -222,3 +222,4 @@ tg://proxy?server=91.98.40.151&port=155&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=91.99.210.123&port=155&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=91.107.199.169&port=155&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=91.99.180.22&port=155&secret=iORid5lJ237IiBMGYMQMdw==
+tg://proxy?server=varzesh3.com_linkirani.ir_myket.ir_telewebion.com_zula.ir_mihandownload.ir_yasdl.ir_soft98.ir.iceburger.ir&port=2145&secret=EAcBAgABAAfwAwOG4kw63Q==
