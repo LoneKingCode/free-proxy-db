@@ -60,7 +60,6 @@ tg://proxy?server=daemi1.fanar.info&port=443&secret=1603010200010001fc030386e24c
 tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.bolombergon-88.info&port=4550&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=castle.ultrasam.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=hisenselg.cinere.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
-tg://proxy?server=pinkblu.ir&port=243&secret=ee4270799104bc286ec0653521aedb6b08616d617a6f6e2e636f6d2e6175
 tg://proxy?server=abrig.abarwitch.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=boikai.aivalai.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=www.bazi-parvaneh.ir&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ==
@@ -181,7 +180,6 @@ tg://proxy?server=95.217.11.102&port=150&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFu
 tg://proxy?server=141.95.103.141&port=4044&secret=ee7018955fbbee2437413c87e8d024117b
 tg://proxy?server=51.68.82.128&port=4044&secret=ee6476db826f96a85a337a50692385d64c
 tg://proxy?server=pxzone.gamemovi.com&port=443&secret=dd7846c89f25bffa9963f5c0d3e72b618e
-tg://proxy?server=5.35.39.102&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb7777772e6c6174696d65732e636f6d
 tg://proxy?server=87.248.134.68&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=koja.fashan-mashan.ir&port=3443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=91.99.117.240&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
