@@ -225,3 +225,7 @@ tg://proxy?server=188.227.84.116&port=54619&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnU
 tg://proxy?server=37.49.229.34&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=91.99.185.112&port=443&secret=dd8f3c1e92b74a65d0e1f4a927c5d8b3a1
 tg://proxy?server=176.65.134.3&port=41623&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdA
+tg://proxy?server=195.201.193.84&port=8443&secret=iORid5lJ237IiBMGYMQMdw==
+tg://proxy?server=195.201.193.85&port=8443&secret=iORid5lJ237IiBMGYMQMdw==
+tg://proxy?server=195.201.193.86&port=8443&secret=iORid5lJ237IiBMGYMQMdw==
+tg://proxy?server=pr2.moon-night.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a
