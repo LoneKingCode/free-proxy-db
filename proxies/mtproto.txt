@@ -226,3 +226,4 @@ tg://proxy?server=195.201.193.85&port=8443&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=195.201.193.86&port=8443&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=pr2.moon-night.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a
 tg://proxy?server=pr1.fast-film.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a6f6e6177732e636f6d
+tg://proxy?server=proxy2.icortana.com&port=1001&secret=3e31ad980db70f83f9f4979994dd7dd4
