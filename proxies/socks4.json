@@ -6718,5 +6718,29 @@
         "password": "",
         "last_checked": "2025-08-12 08:25:41",
         "created_at": "2025-08-12 08:25:41"
+    },
+    {
+        "id": 100625,
+        "ip": "47.91.110.148",
+        "asn": "45102",
+        "speed": 7.66,
+        "port": 1080,
+        "protocol": "socks4",
+        "anonymity": "elite",
+        "is_valid": 1,
+        "https": 1,
+        "check_success_count": 1,
+        "check_error_count": 0,
+        "country": "AE",
+        "city": "Dubai",
+        "connect_string": "socks4://47.91.110.148:1080",
+        "available_site_info": null,
+        "site_protocol": "socks4",
+        "secret": "",
+        "source": null,
+        "username": "",
+        "password": "",
+        "last_checked": "2025-08-12 21:13:39",
+        "created_at": "2025-08-12 21:13:39"
     }
 ]
