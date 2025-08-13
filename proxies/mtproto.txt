@@ -222,3 +222,4 @@ tg://proxy?server=117.55.202.155&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGF
 tg://proxy?server=195.201.240.56&port=155&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=teleproprocode.foxymovie.top&port=443&secret=dda084a0a31ea6ddee6d0a156311a3b439
 tg://proxy?server=web.parsa-learning.ir&port=3443&secret=EERighJJvXrFGRMCIMJdCQ==
+tg://proxy?server=soltan-works.shoping-kapofat.sorlan-zhiopanig.molcarfect.info&port=1919&secret=FgMBAgABAAH8AwOG4kw63Q==
