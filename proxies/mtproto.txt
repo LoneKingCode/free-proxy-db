@@ -221,3 +221,4 @@ tg://proxy?server=91.220.113.205&port=555&secret=dd6d0a21a671527fdf0125767dd8cf1
 tg://proxy?server=ractor-wood.weblog-online.rooznameh-rooz.ford-motang.info&port=443&secret=7HQighJPBNMYVRNB6tdkVwRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=138.124.99.29&port=1312&secret=dd469fe09b277900a8ae91dcefa736056b
 tg://proxy?server=87.248.134.65&port=8888&secret=79e344818749bd7ac519130220c25d09
+tg://proxy?server=555.ir.ir.ir.ir.ir.cheshmoabroo.info&port=9741&secret=ee1d98b0d2449c875240049382632522e26d656469612e737465616d706f77657265642e636f6d
