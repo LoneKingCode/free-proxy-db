@@ -199,7 +199,6 @@ tg://proxy?server=176.65.134.3&port=41623&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnUld
 tg://proxy?server=pr2.moon-night.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a
 tg://proxy?server=pr1.fast-film.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a6f6e6177732e636f6d
 tg://proxy?server=proxy2.icortana.com&port=1001&secret=3e31ad980db70f83f9f4979994dd7dd4
-tg://proxy?server=91.220.113.144&port=555&secret=dd6d0a21a671527fdf0125767dd8cf1b10
 tg://proxy?server=146.19.143.62&port=20&secret=3e36e0082f4284ab3e6159c56883f9f9
 tg://proxy?server=8.8.8.8.tinkpad.ir&port=2020&secret=ee4cec44865587a3d9e49ee4a5e0189a147a756c612e6972
 tg://proxy?server=newfast.mygoldiran.com&port=443&secret=a238c6f0c8499955a5c871e078ce7623
