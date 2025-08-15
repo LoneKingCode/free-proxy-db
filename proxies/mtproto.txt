@@ -224,3 +224,4 @@ tg://proxy?server=137.74.249.115&port=443&secret=2736bdd38f31407c176ec24ff791c1f
 tg://proxy?server=217.182.93.160&port=8888&secret=dd4bbff0961410d4d621c55e2ef7dc6cdd
 tg://proxy?server=focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.apple.slumbo.com.vssweb.net.refersion.com.www.xenium.com.www.hamisheluxbemon.tech&port=443&secret=dd00000000000000000000000000000000
 tg://proxy?server=www.abccloudi.ir&port=443&secret=dddddddddddddddddddddddddddddddddd
+tg://proxy?server=37.49.227.42&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
