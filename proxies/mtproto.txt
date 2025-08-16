@@ -224,3 +224,4 @@ tg://proxy?server=37.49.227.116&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFu
 tg://proxy?server=update.rexconfing.co.uk&port=443&secret=eefa83f7ba56c31228871c5609b20fddf76b657461626e616b2e636f6d
 tg://proxy?server=upgrade.rexconfing.co.uk&port=443&secret=eec36e058beaf6d6d8b5264eb7550cd0717570646174652e6d6963726f736f66742e636f6d
 tg://proxy?server=prtelxy01.deltacyber.top&port=443&secret=ee0d6a10d6e2149277f258218d3cb4b70d73332e616d617a6f6e6177732e636f6d
+tg://proxy?server=37.49.224.121&port=843&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
