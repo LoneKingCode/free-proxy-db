@@ -216,7 +216,6 @@ tg://proxy?server=ractor-wood.weblog-online.rooznameh-rooz.ford-motang.info&port
 tg://proxy?server=138.124.99.29&port=1312&secret=dd469fe09b277900a8ae91dcefa736056b
 tg://proxy?server=87.248.134.65&port=8888&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=555.ir.ir.ir.ir.ir.cheshmoabroo.info&port=9741&secret=ee1d98b0d2449c875240049382632522e26d656469612e737465616d706f77657265642e636f6d
-tg://proxy?server=137.74.249.115&port=443&secret=2736bdd38f31407c176ec24ff791c1f2
 tg://proxy?server=217.182.93.160&port=8888&secret=dd4bbff0961410d4d621c55e2ef7dc6cdd
 tg://proxy?server=focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.apple.slumbo.com.vssweb.net.refersion.com.www.xenium.com.www.hamisheluxbemon.tech&port=443&secret=dd00000000000000000000000000000000
 tg://proxy?server=www.abccloudi.ir&port=443&secret=dddddddddddddddddddddddddddddddddd
