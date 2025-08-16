@@ -171,8 +171,6 @@ tg://proxy?server=45.67.136.26&port=8268&secret=ee9cb8d24c888949d2bbe7855108e707
 tg://proxy?server=yesiad.pw-safari.ir&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=87.248.132.24&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=91.99.209.205&port=443&secret=ec742282124f04d318551341ead76457
-tg://proxy?server=5.75.221.37&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
-tg://proxy?server=88.198.120.227&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=tosos-moaos.berlino-landcvixo.biaboro.etok.info&port=443&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=main2.takfanco.ir&port=100&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=tool1.somaar.ir&port=100&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -213,7 +211,6 @@ tg://proxy?server=ractor-wood.weblog-online.rooznameh-rooz.ford-motang.info&port
 tg://proxy?server=138.124.99.29&port=1312&secret=dd469fe09b277900a8ae91dcefa736056b
 tg://proxy?server=87.248.134.65&port=8888&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=555.ir.ir.ir.ir.ir.cheshmoabroo.info&port=9741&secret=ee1d98b0d2449c875240049382632522e26d656469612e737465616d706f77657265642e636f6d
-tg://proxy?server=217.182.93.160&port=8888&secret=dd4bbff0961410d4d621c55e2ef7dc6cdd
 tg://proxy?server=focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.apple.slumbo.com.vssweb.net.refersion.com.www.xenium.com.www.hamisheluxbemon.tech&port=443&secret=dd00000000000000000000000000000000
 tg://proxy?server=www.abccloudi.ir&port=443&secret=dddddddddddddddddddddddddddddddddd
 tg://proxy?server=37.49.227.42&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -223,3 +220,4 @@ tg://proxy?server=upgrade.rexconfing.co.uk&port=443&secret=eec36e058beaf6d6d8b52
 tg://proxy?server=prtelxy01.deltacyber.top&port=443&secret=ee0d6a10d6e2149277f258218d3cb4b70d73332e616d617a6f6e6177732e636f6d
 tg://proxy?server=37.49.224.121&port=843&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=15.235.73.238&port=443&secret=dbc4e6eee55fc0868e4ba199beb697f4
+tg://proxy?server=78.47.108.149&port=50510&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
