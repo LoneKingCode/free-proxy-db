@@ -92,7 +92,6 @@ tg://proxy?server=186.81.818.12.flexfy.ir&port=444&secret=ee37dd2f8c749067c2b508
 tg://proxy?server=mio.mio.mio.mio.flexfy.ir&port=444&secret=ee37dd2f8c749067c2b508d1bc391462ad726566657273696f6e2e636f6d
 tg://proxy?server=this.is.elon.musk.flexfy.ir&port=444&secret=ee37dd2f8c749067c2b508d1bc391462ad726566657273696f6e2e636f6d
 tg://proxy?server=one.one.one.one.flexfy.ir&port=444&secret=ee37dd2f8c749067c2b508d1bc391462ad726566657273696f6e2e636f6d
-tg://proxy?server=011010101101.noirc0re.online&port=443&secret=35e1c63ac12a5ca4e2866c6e31a5b886
 tg://proxy?server=app.abrarvan.io&port=444&secret=ee999f36c19c3c18e930624be9e26fe8536d69726f2e636f6d
 tg://proxy?server=193.24.210.19&port=444&secret=ee37dd2f8c749067c2b508d1bc391462ad726566657273696f6e2e636f
 tg://proxy?server=proxy.whypn.com&port=1111&secret=11111111111111111111111111111111
