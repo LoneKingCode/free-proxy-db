@@ -218,3 +218,5 @@ tg://proxy?server=78.47.108.149&port=50510&secret=EERighJJvXrFGRMCIMJdCQRueWVrdG
 tg://proxy?server=android.connect.etok.info&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=teeam.pw-pishi1.ir&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=141.227.138.92&port=200&secret=ee4ce06f6480cfc74f62c63a9533bdaa2c707974686f6e2e
+tg://proxy?server=178.250.186.74&port=443&secret=c1d9c7377a6d8a4d412a7c7d986d2155
+tg://proxy?server=achavpn.star4.fun&port=443&secret=f8f4cc50bac2f39ead5baa720364f555
