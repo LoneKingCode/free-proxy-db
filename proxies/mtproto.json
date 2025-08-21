@@ -5450,7 +5450,7 @@
     {
         "id": 102169,
         "ip": "92.246.87.82",
-        "asn": "198584 PIO-Hosting GmbH",
+        "asn": "198584",
         "speed": 3.49,
         "port": 8443,
         "protocol": "mtproto",
@@ -5460,7 +5460,7 @@
         "check_success_count": 4,
         "check_error_count": 0,
         "country": "DE",
-        "city": "",
+        "city": "Bach",
         "connect_string": "tg://proxy?server=92.246.87.82&port=8443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
         "available_site_info": null,
         "site_protocol": "mtproto",
@@ -5614,5 +5614,29 @@
         "password": "",
         "last_checked": "2025-08-21 06:04:22",
         "created_at": "2025-08-21 06:04:22"
+    },
+    {
+        "id": 102263,
+        "ip": "91.98.65.57",
+        "asn": "24940 Hetzner Online GmbH",
+        "speed": 3.58,
+        "port": 443,
+        "protocol": "mtproto",
+        "anonymity": "",
+        "is_valid": 1,
+        "https": 0,
+        "check_success_count": 1,
+        "check_error_count": 0,
+        "country": "DE",
+        "city": "Nuremberg",
+        "connect_string": "tg://proxy?server=91.98.65.57&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "available_site_info": null,
+        "site_protocol": "mtproto",
+        "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "source": null,
+        "username": "",
+        "password": "",
+        "last_checked": "2025-08-21 09:07:05",
+        "created_at": "2025-08-21 09:07:05"
     }
 ]
