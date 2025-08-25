@@ -211,7 +211,6 @@ tg://proxy?server=31.56.222.95&port=999&secret=ZaXsCdVfBgNhMjKiLoLpQaWsEdRueWVrd
 tg://proxy?server=176.65.128.198&port=8443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=92.246.87.82&port=8443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=176.65.128.196&port=8443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=176.65.128.32&port=8443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=65.109.204.194&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb7777772e6c6174696d65732e636f6d
 tg://proxy?server=91.107.181.76&port=9091&secret=dd870d9440e9a30777f15916510f29b3ef
 tg://proxy?server=proxy.proxyland.top&port=443&secret=EEE8a2d4b7e9c1a3d5f2b6e8c0a9d3f1
@@ -263,3 +262,6 @@ tg://proxy?server=proxy.soyoteam.com&port=4444&secret=eecd4d6c7096422ef9b5f1e5d3
 tg://proxy?server=46.62.158.177&port=53452&secret=A0792900a68cb2a77ac3ee54d75b0374eeedfbac241b695d896d7d41b2b9fbd36c6c656164657273686970406d72636f6e6e656374696f6e2e736273
 tg://proxy?server=91.238.92.45&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=5.34.215.224&port=888&secret=6d95e44c1baf7acc8c060ec83751a309
+tg://proxy?server=185.36.145.220&port=443&secret=ddd0d6e111bada5511fcce9584deadbeef
+tg://proxy?server=fr.vpn-club-service.ru&port=443&secret=d36c46e19aa8b5e224ba506c2dbfa17a
+tg://proxy?server=ru.vpn-club-service.ru&port=443&secret=8a5e461dcf06376798d7fe6a78948875
