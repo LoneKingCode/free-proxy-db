@@ -261,3 +261,7 @@ tg://proxy?server=185.36.145.220&port=443&secret=ddd0d6e111bada5511fcce9584deadb
 tg://proxy?server=fr.vpn-club-service.ru&port=443&secret=d36c46e19aa8b5e224ba506c2dbfa17a
 tg://proxy?server=ru.vpn-club-service.ru&port=443&secret=8a5e461dcf06376798d7fe6a78948875
 tg://proxy?server=91.107.163.99&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=45.76.90.149&port=8444&secret=5ac2c6456e1119be18c064e3b4768874
+tg://proxy?server=87.229.100.198&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=167.71.69.87&port=12349&secret=eeb3553374404e0e58904af13b1054a95f73332e616d617a6f6e6177732e636f6d
+tg://proxy?server=62.112.222.248&port=8443&secret=f164b95b5b8e42a6cf00a05e5ceb9510
