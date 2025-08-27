@@ -251,7 +251,6 @@ tg://proxy?server=proxy.soyoteam.com&port=4444&secret=eecd4d6c7096422ef9b5f1e5d3
 tg://proxy?server=46.62.158.177&port=53452&secret=A0792900a68cb2a77ac3ee54d75b0374eeedfbac241b695d896d7d41b2b9fbd36c6c656164657273686970406d72636f6e6e656374696f6e2e736273
 tg://proxy?server=91.238.92.45&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=5.34.215.224&port=888&secret=6d95e44c1baf7acc8c060ec83751a309
-tg://proxy?server=185.36.145.220&port=443&secret=ddd0d6e111bada5511fcce9584deadbeef
 tg://proxy?server=fr.vpn-club-service.ru&port=443&secret=d36c46e19aa8b5e224ba506c2dbfa17a
 tg://proxy?server=ru.vpn-club-service.ru&port=443&secret=8a5e461dcf06376798d7fe6a78948875
 tg://proxy?server=91.107.163.99&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
