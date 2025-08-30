@@ -273,3 +273,4 @@ tg://proxy?server=163.5.31.102&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZ
 tg://proxy?server=18.0.1.00.lll-lll.ir&port=8443&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=195.57.9.lll-lll.ir&port=8443&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=91.107.134.53&port=8888&secret=ee38c03ec7288077dd8423f1a7ef5e6e547777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=nostalgie-cartoon.actor-weblog.hermes-brand.shekargah.info&port=9988&secret=7HQighJPBNMYVRNB6tdkVwCQBQPQPQPQZNMQVATMAQWQPQZQTQMQMMQ
