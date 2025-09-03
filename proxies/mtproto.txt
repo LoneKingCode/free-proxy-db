@@ -187,7 +187,6 @@ tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.w
 tg://proxy?server=87.229.100.245&port=443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=brookswashere.space&port=443&secret=10dadd1e7c27a20098abb5bf53ca26a8
 tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.bpi.www.digikala.com.enamad.ir.mci.www.google.com.again_to_fight.everyone.i_am.the_internet.rashkapo.info&port=7070&secret=6HQighJPCNNYVRNB6tdkAg==
-tg://proxy?server=31.56.222.95&port=999&secret=ZaXsCdVfBgNhMjKiLoLpQaWsEdRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=proxy.proxyland.top&port=443&secret=EEE8a2d4b7e9c1a3d5f2b6e8c0a9d3f1
 tg://proxy?server=91.98.65.57&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=195.62.32.242&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
