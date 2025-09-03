@@ -290,3 +290,4 @@ tg://proxy?server=62.60.177.235&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGF
 tg://proxy?server=91.107.129.20&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=shop.exirgameofficialsite.sbs&port=443&secret=a2102253cacf1154e7b1fdfdaa44fcb1
 tg://proxy?server=45.153.33.39&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=91.107.172.200&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q==
