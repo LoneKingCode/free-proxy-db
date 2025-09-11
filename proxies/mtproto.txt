@@ -307,3 +307,5 @@ tg://proxy?server=65.109.84.84&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZ
 tg://proxy?server=139.162.149.49&port=443&secret=8327a7486ce321c7406b66eaa9982f2a
 tg://proxy?server=195.26.224.37&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb7777772e6c6174696d65732e636f6d
 tg://proxy?server=130.185.122.225&port=2087&secret=ee062b09eca3c84c8ad34fddb1d9548ffb76616e2e6e616a76612e636f6d
+tg://proxy?server=vel1vi2moviwsqqss1.movementvip.ir&port=443&secret=ee5365bc0b3d62d8943cea1553a80148eb7777772e7370656564746573742e6e6574
+tg://proxy?server=31.56.113.116&port=80&secret=ZaXsCdVfBgNhMjKiLoLpQaWsEdZZSSEERRDDXXFFTTCCRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
