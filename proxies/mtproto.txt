@@ -20,7 +20,6 @@ tg://proxy?server=sajad1.2p2p.ir&port=443&secret=ee72881e9e1e7d1ff9647913616d37a
 tg://proxy?server=14.102.10.51&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=14.102.10.50&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=204.76.203.84&port=443&secret=15115115115115115115115115115115
-tg://proxy?server=95.181.173.143&port=9&secret=dd9a158f74da4d63d2cdfb4e09dbafffee
 tg://proxy?server=45.32.154.25&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=45.76.184.13&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=192.168.1.1.apt-kernel.org.copan-moban.info&port=2040&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
