@@ -321,3 +321,5 @@ tg://proxy?server=5.75.193.56&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=hi-proxy.navar6.ir&port=100&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=31.57.27.153&port=999&secret=YyQWervchjnmlasuOoalgskmiURrxgsqzbhummbyAAAAAAAAaAAAAAAA
 tg://proxy?server=163.5.31.240&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=31.57.27.132&port=999&secret=YyQWervchjnmlasuOoalgskmiURrxgsqzbhummbyAAAA
+tg://proxy?server=horaking.golekepper.forward.lunahost360.ir&port=7777&secret=dd388e4ad547f665afc61ce98af70b5be1
