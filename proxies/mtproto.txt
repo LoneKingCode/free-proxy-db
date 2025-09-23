@@ -326,3 +326,4 @@ tg://proxy?server=163.5.31.232&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZ
 tg://proxy?server=144.124.225.67&port=5897&secret=dde59ca167d97f098292e87e0adaaef99a
 tg://proxy?server=51.195.243.79&port=8443&secret=10552e3226b8a466f886173c712b217b
 tg://proxy?server=shop.rainbowteam.ir&port=8888&secret=10552e3226b8a466f886173c712b217b
+tg://proxy?server=shop.modernhome.info.best.idealhome.ir&port=443&secret=ee3cb318165c96dc1d00889839c53bd73273332e616d617a6f6e6177732e636f6d
