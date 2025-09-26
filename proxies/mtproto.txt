@@ -358,3 +358,5 @@ tg://proxy?server=182.95.27.44.lsf.diskap.ir&port=48173&secret=EECLOUDASIzRJlmd4
 tg://proxy?server=always.connect.proxyland.exirgamecompany.sbs&port=443&secret=ddf2a27464c649f080bb7ef43b11c0aabb
 tg://proxy?server=fast.connect.proxyland.exirgamecompany.sbs&port=443&secret=ddbf86bfe756160a1a6aea65ea6d34e1ed
 tg://proxy?server=36.72.39.5.haragediran.ghodokh.ir&port=48173&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=40.160.233.170&port=443&secret=bf790abbb6a05b10b8fd6f87140d35f8
+tg://proxy?server=sage.driver.cjournal.ir&port=8443&secret=eebaaf42d9f7134c946759cf2a7e069e7573332e616d617a6f6e6177732e636f6d
