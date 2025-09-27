@@ -360,3 +360,4 @@ tg://proxy?server=sage.driver.cjournal.ir&port=8443&secret=eebaaf42d9f7134c94675
 tg://proxy?server=163.5.31.224&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=unlimited.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=upmusics.com.downloaderpro.sbs&port=443&secret=7d1c1c0af00e686543841f833d4c02db
+tg://proxy?server=89.208.113.172&port=3023&secret=dd26f4f4425d08e3b0cf52211ca382d01d
