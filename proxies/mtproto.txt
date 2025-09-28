@@ -358,3 +358,5 @@ tg://proxy?server=91.98.122.144&port=443&secret=d1d6e111bada4511fcce9584deadbfdf
 tg://proxy?server=45.67.136.232&port=443&secret=bab8093788e175f8159dde572be0f2be
 tg://proxy?server=proxydotnet.exirgamecompany.sbs&port=443&secret=dd989dfd8713b2e39dfd80e248d377a402
 tg://proxy?server=ping.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09
+tg://proxy?server=91.98.160.128&port=443&secret=d1d6e111bada5511fcce9584deadbfda
+tg://proxy?server=yadgar.pro.sarqol.ir&port=443&secret=dd1f64cf39afe0b9ea91904f6772642ffb
