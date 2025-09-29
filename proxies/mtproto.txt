@@ -359,3 +359,4 @@ tg://proxy?server=163.5.31.227&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZ
 tg://proxy?server=91.98.207.254&port=443&secret=d1d6e111bada5511fcce9584deadbfdf
 tg://proxy?server=77.221.140.248&port=443&secret=ee4f261fa5de11b49d357d2e9e77c4328474616b6569656c74732e62726974697368636f756e63696c2e6f7267
 tg://proxy?server=65.109.199.108&port=7777&secret=dd388e4ad547f665afc61ce98af70b5be1
+tg://proxy?server=85.198.89.154&port=8888&secret=dd36c84c57fbb1a04bebeca497721af191
