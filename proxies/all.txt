@@ -1843,7 +1843,6 @@ socks5://103.174.178.140:2020
 tg://proxy?server=51.195.243.79&port=8443&secret=10552e3226b8a466f886173c712b217b
 tg://proxy?server=shop.rainbowteam.ir&port=8888&secret=10552e3226b8a466f886173c712b217b
 socks5://47.236.86.93:1024
-http://116.80.47.59:3172
 http://164.70.118.82:3172
 tg://proxy?server=shop.modernhome.info.best.idealhome.ir&port=443&secret=ee3cb318165c96dc1d00889839c53bd73273332e616d617a6f6e6177732e636f6d
 http://148.113.172.51:8080
@@ -1914,7 +1913,6 @@ http://206.188.212.168:8447
 tg://proxy?server=210.207.361.9.agh.cheqadrkhafan.ir&port=443&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnUldQOFpvTHVwZmNp
 tg://proxy?server=xmashhgujdi.kamandamool.ir&port=48173&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnUldQOFpvTHVwZmNp
 tg://proxy?server=45.76.183.58.azypto.az.azizedelaml.ir&port=48173&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-http://206.188.212.222:8447
 tg://proxy?server=195.69.55.29.moshsho.ir&port=48173&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnUldQOFpvTHVwZmNp
 tg://proxy?server=91.77.203.85.llllll.illlll.ir&port=443&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnUldQOFpvTHVwZmNp
 tg://proxy?server=babaros.nam.ir.folaki.xop.ghodokh.ir&port=443&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnUldQOFpvTHVwZmNp
@@ -1965,7 +1963,6 @@ socks5://185.93.89.144:5280
 socks5://185.93.89.143:4092
 socks5://185.93.89.144:5471
 socks5://185.93.89.145:4677
-socks5://185.93.89.164:4009
 socks5://185.93.89.143:4085
 socks5://185.93.89.164:4210
 http://206.188.209.173:8447
@@ -1977,7 +1974,6 @@ http://206.188.204.148:8443
 http://206.188.209.27:8443
 http://205.178.186.35:8447
 tg://proxy?server=91.98.160.128&port=443&secret=d1d6e111bada5511fcce9584deadbfda
-tg://proxy?server=yadgar.pro.sarqol.ir&port=443&secret=dd1f64cf39afe0b9ea91904f6772642ffb
 socks5://185.93.89.147:8381
 http://101.66.198.103:8085
 http://101.66.194.114:8085
@@ -1990,7 +1986,6 @@ http://103.68.233.142:8097
 socks5://107.172.157.13:1011
 socks4://146.56.159.63:59050
 http://203.95.196.114:8080
-http://203.95.196.100:8080
 http://38.194.224.134:1452
 http://160.22.195.228:8097
 http://103.156.141.55:8097
@@ -1998,7 +1993,6 @@ socks5://185.93.89.144:9772
 socks5://156.244.15.246:1100
 socks5://156.244.15.246:1011
 http://190.218.136.36:8080
-socks4://47.89.159.212:8083
 http://180.104.208.76:8081
 http://206.188.209.191:8443
 http://20.244.11.89:3128
@@ -2162,3 +2156,28 @@ http://35.243.0.220:10017
 http://205.178.136.74:8443
 http://43.205.124.165:224
 http://47.252.11.233:8090
+http://72.10.160.92:18441
+socks5://5.75.168.247:8024
+http://103.147.35.27:3128
+http://72.10.164.178:24401
+socks5://185.93.89.151:7021
+http://116.108.16.41:4002
+http://67.43.236.21:24947
+socks5://117.88.244.241:1111
+socks5://47.237.107.41:1080
+socks5://8.213.129.20:8123
+socks5://185.93.89.165:4078
+http://222.59.173.105:45207
+socks4://47.91.109.17:8085
+socks4://47.250.51.110:3129
+socks4://47.252.18.37:8888
+http://116.108.38.248:4002
+http://116.108.39.180:4002
+http://83.175.157.49:3128
+socks4://8.211.51.115:20002
+socks4://8.212.151.166:5060
+http://179.1.95.205:999
+http://124.83.113.194:8082
+http://115.77.241.248:10001
+http://103.172.121.58:7777
+http://103.230.63.86:2626
