@@ -360,3 +360,15 @@ tg://proxy?server=45.135.195.247&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGF
 tg://proxy?server=144.124.234.157&port=443&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnUldQOFpvTHVwZmNp
 tg://proxy?server=45.135.195.243&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=medadbaknontab.safilo.sbs&port=443&secret=045e1cf522b40911dc193d35f9494946
+tg://proxy?server=140.233.167.172&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=140.233.167.173&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=140.233.167.169&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=140.233.167.176&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=140.233.167.166&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=140.233.167.167&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=140.233.167.178&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=140.233.167.175&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=140.233.167.170&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=140.233.167.171&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=140.233.167.177&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=140.233.167.168&port=443&secret=EERighJJvXrFGRMCIMJdCQ
