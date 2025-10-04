@@ -1418,7 +1418,6 @@ tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.w
 tg://proxy?server=brookswashere.space&port=443&secret=10dadd1e7c27a20098abb5bf53ca26a8
 tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.bpi.www.digikala.com.enamad.ir.mci.www.google.com.again_to_fight.everyone.i_am.the_internet.rashkapo.info&port=7070&secret=6HQighJPCNNYVRNB6tdkAg==
 http://47.243.181.85:41402
-socks4://171.244.10.204:42377
 socks5://138.68.60.8:1080
 socks4://68.71.243.14:4145
 socks4://199.229.254.129:4145
@@ -1897,11 +1896,9 @@ http://183.237.195.130:3128
 http://47.243.181.85:41388
 socks4://106.117.235.109:9788
 socks5://117.88.244.241:1111
-socks5://185.93.89.165:4078
 http://115.77.241.248:10001
 http://45.77.133.69:1080
 socks4://5.75.168.247:8053
-socks4://5.75.168.247:8038
 socks4://5.75.196.127:1080
 http://43.225.148.210:2626
 http://206.188.212.64:8447
@@ -1962,7 +1959,6 @@ http://202.5.50.75:2727
 http://202.5.52.112:2727
 http://202.5.34.97:2727
 http://206.188.212.130:8447
-http://222.59.173.105:45233
 http://119.51.55.218:8085
 http://206.188.209.161:8443
 http://205.178.186.30:8443
@@ -1985,7 +1981,6 @@ http://213.142.156.97:80
 http://103.124.227.89:12445
 http://35.243.0.249:10003
 http://35.243.0.249:80
-http://46.161.198.241:3128
 http://54.232.217.2:3128
 socks5://218.1.238.109:1080
 http://45.143.99.15:80
@@ -1995,7 +1990,6 @@ tg://proxy?server=www.at-ac-ir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueW
 http://206.188.208.174:8443
 tg://proxy?server=at-ac-ir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 socks5://103.82.22.43:10001
-socks5://65.108.251.40:24242
 socks5://5.75.168.247:8021
 http://35.243.1.4:10001
 http://35.243.1.4:443
@@ -2011,7 +2005,6 @@ tg://proxy?server=91.98.132.214&port=1080&secret=79e344818749bd7ac519130220c25d0
 http://116.98.224.115:1001
 http://35.243.0.249:10005
 http://205.178.186.118:8447
-socks4://39.102.211.162:3333
 http://178.184.120.100:8081
 http://165.232.77.140:3128
 http://1.54.69.170:16000
@@ -2181,3 +2174,13 @@ socks4://111.72.194.104:2324
 socks4://47.250.177.202:20000
 socks5://119.98.132.148:1080
 socks4://47.91.109.17:193
+tg://proxy?server=163.5.31.221&port=155&secret=EERighJJvXrFGRMCIMJdCQ
+socks5://116.101.76.130:1097
+socks4://8.213.137.155:50
+socks4://8.213.128.90:111
+socks5://116.101.76.139:1097
+http://177.247.249.5:3128
+http://35.243.1.4:10018
+http://35.243.0.243:10050
+http://147.75.88.38:10014
+http://206.188.212.236:8443
