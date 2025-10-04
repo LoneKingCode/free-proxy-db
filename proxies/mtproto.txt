@@ -9,7 +9,6 @@ tg://proxy?server=45.12.134.129&port=8888&secret=eed0d6e111bada5511fcce9584deadb
 tg://proxy?server=103.35.189.118&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d
 tg://proxy?server=files.ryteseo.com&port=443&secret=ee7deb27de1d955fc03656c3ea6e0da5e16d796b65742e6972
 tg://proxy?server=185.204.171.178&port=443&secret=ee1cfcda2668ae1a8f7654505c4abcfce173332e616d617a6f6e6177732e636f6d
-tg://proxy?server=apple.slumbo.com&port=9120&secret=eeeb9baf94c9cafa2f4c377b239e79e9e57777772e7673737765622e6e6574
 tg://proxy?server=www.githab.www.google.wwwbasalam.www.farshekashani.ir&port=5001&secret=ee49c808d759cdf1df409ce4601ce40f737777772e676f6f676c652e636f6d
 tg://proxy?server=divar.shadischool.com&port=2113&secret=ee66c9ebc2d8483f523a81ca072d57df287777772e6769746875622e636f6d
 tg://proxy?server=w.10.y.mtproto.ru&port=443&secret=ee211122223333444455556666777788886d6170732e676f6f676c652e636f6d
@@ -375,3 +374,5 @@ tg://proxy?server=speed.vorng-net.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQR
 tg://proxy?server=crypto.rr-signal.ir&port=1080&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=rules.vorng-net.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=163.5.31.221&port=155&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=152.232.8.202&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=judczs.co.uk&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
