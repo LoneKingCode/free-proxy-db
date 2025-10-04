@@ -56,7 +56,6 @@ tg://proxy?server=value.sheshko.info&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=14.102.10.63&port=8888&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=a.10.mtproto.ru&port=443&secret=ee211122223333444455556666777788887765622e736e6170636861742e636f6d
 tg://proxy?server=94.130.218.244&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
-tg://proxy?server=23.88.70.165&port=443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=94.130.70.165&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=158.247.217.211&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=139.180.158.124&port=9443&secret=2adab36179e7a39026adf74034615248
