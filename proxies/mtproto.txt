@@ -118,7 +118,6 @@ tg://proxy?server=91.98.40.151&port=155&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=91.99.210.123&port=155&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=91.107.199.169&port=155&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=91.99.180.22&port=155&secret=iORid5lJ237IiBMGYMQMdw==
-tg://proxy?server=37.49.229.34&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=pr2.moon-night.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a
 tg://proxy?server=pr1.fast-film.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a6f6e6177732e636f6d
 tg://proxy?server=146.19.143.62&port=20&secret=3e36e0082f4284ab3e6159c56883f9f9
@@ -364,7 +363,6 @@ tg://proxy?server=116.203.186.194&port=55024&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=91.98.132.214&port=1080&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=rd3edd2615bwjsbs1.exirgamecompany.sbs&port=443&secret=ddee82a7239e7510d329da46ceae232e0d
 tg://proxy?server=rd3edd26151.exirgamecompany.sbs&port=443&secret=ddee82a7239e7510d329da46ceae232e0d
-tg://proxy?server=luna.hamrah.tehran.pro.lunahost360.ir&port=2020&secret=dd7a7b4a7e54eb22ab0ac3e14018530e24
 tg://proxy?server=btc.rr-signal.ir&port=1080&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=10.plusinoshop.ir&port=1499&secret=ee05d9127cdfcde727133f0856c0364a996769746875622e636f6d
 tg://proxy?server=download-fast.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA

@@ -361,7 +361,6 @@ http://47.56.110.204:8989
 socks4://107.152.98.5:4145
 socks4://47.237.2.245:3128
 socks4://67.201.39.14:4145
-socks4://212.47.250.252:16379
 socks4://39.102.208.23:9080
 socks5://212.47.249.156:16379
 socks4://192.252.220.89:4145
@@ -1365,7 +1364,6 @@ tg://proxy?server=91.98.40.151&port=155&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=91.99.210.123&port=155&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=91.107.199.169&port=155&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=91.99.180.22&port=155&secret=iORid5lJ237IiBMGYMQMdw==
-tg://proxy?server=37.49.229.34&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=pr2.moon-night.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a
 tg://proxy?server=pr1.fast-film.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a6f6e6177732e636f6d
 socks5://103.147.163.196:9966
@@ -1856,7 +1854,6 @@ tg://proxy?server=proxydotnet.exirgamecompany.sbs&port=443&secret=dd989dfd8713b2
 tg://proxy?server=ping.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09
 http://205.178.136.41:8443
 tg://proxy?server=91.98.160.128&port=443&secret=d1d6e111bada5511fcce9584deadbfda
-http://101.66.194.147:8085
 http://147.75.88.38:10035
 tg://proxy?server=163.5.31.227&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=91.98.207.254&port=443&secret=d1d6e111bada5511fcce9584deadbfdf
@@ -1939,7 +1936,6 @@ socks5://218.1.238.109:1080
 http://45.143.99.15:80
 http://121.165.169.217:8092
 tg://proxy?server=www.at-ac-ir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-http://206.188.208.174:8443
 tg://proxy?server=at-ac-ir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 socks5://103.82.22.43:10001
 socks5://5.75.168.247:8021
@@ -1954,7 +1950,6 @@ http://35.243.0.249:10061
 http://103.199.109.154:2525
 http://103.250.69.190:1516
 http://202.5.60.211:2727
-http://119.18.147.193:2314
 http://202.5.33.33:2727
 http://35.243.0.249:10012
 http://35.243.0.249:10039
@@ -1964,7 +1959,6 @@ socks4://106.15.137.41:1337
 http://147.75.88.38:10007
 tg://proxy?server=rd3edd2615bwjsbs1.exirgamecompany.sbs&port=443&secret=ddee82a7239e7510d329da46ceae232e0d
 tg://proxy?server=rd3edd26151.exirgamecompany.sbs&port=443&secret=ddee82a7239e7510d329da46ceae232e0d
-tg://proxy?server=luna.hamrah.tehran.pro.lunahost360.ir&port=2020&secret=dd7a7b4a7e54eb22ab0ac3e14018530e24
 http://185.216.125.251:8888
 http://103.136.150.210:3128
 socks5://180.103.250.137:1080
@@ -1982,15 +1976,12 @@ socks5://8.215.18.222:1122
 socks5://185.93.89.143:4146
 http://35.243.1.4:10062
 http://203.95.196.8:8080
-http://203.95.198.174:8080
 http://203.95.196.10:8080
 http://203.95.198.180:8080
 http://203.95.197.55:8080
 http://125.17.13.54:3129
 http://205.178.186.59:8443
-http://206.188.207.251:8443
 socks5://116.101.76.167:1102
-socks4://8.220.204.92:18081
 tg://proxy?server=btc.rr-signal.ir&port=1080&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=10.plusinoshop.ir&port=1499&secret=ee05d9127cdfcde727133f0856c0364a996769746875622e636f6d
 tg://proxy?server=download-fast.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -1999,7 +1990,6 @@ tg://proxy?server=speed.vorng-net.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQR
 tg://proxy?server=crypto.rr-signal.ir&port=1080&secret=79e344818749bd7ac519130220c25d09
 socks5://116.101.76.167:1097
 http://35.243.1.4:10016
-http://188.165.245.51:1080
 http://147.75.88.38:10040
 http://77.123.145.21:3128
 tg://proxy?server=rules.vorng-net.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -2007,7 +1997,6 @@ http://202.5.34.54:2525
 socks5://119.98.132.148:1080
 tg://proxy?server=163.5.31.221&port=155&secret=EERighJJvXrFGRMCIMJdCQ
 socks5://116.101.76.130:1097
-socks4://8.213.137.155:50
 socks4://8.213.128.90:111
 socks5://116.101.76.139:1097
 http://177.247.249.5:3128
@@ -2216,3 +2205,11 @@ http://72.10.160.90:9191
 socks5://8.215.19.18:1011
 http://178.185.221.186:8080
 http://196.251.131.87:8080
+http://67.43.236.20:19103
+socks5://185.93.89.165:4147
+socks5://185.93.89.152:4551
+http://35.243.0.249:10051
+http://35.243.0.249:23924
+http://205.178.137.84:8447
+http://35.243.0.243:10054
+socks4://38.54.9.151:8081
