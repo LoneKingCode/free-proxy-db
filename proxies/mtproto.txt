@@ -319,7 +319,6 @@ tg://proxy?server=ping.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c
 tg://proxy?server=91.98.160.128&port=443&secret=d1d6e111bada5511fcce9584deadbfda
 tg://proxy?server=163.5.31.227&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=91.98.207.254&port=443&secret=d1d6e111bada5511fcce9584deadbfdf
-tg://proxy?server=65.109.199.108&port=7777&secret=dd388e4ad547f665afc61ce98af70b5be1
 tg://proxy?server=85.198.89.154&port=8888&secret=dd36c84c57fbb1a04bebeca497721af191
 tg://proxy?server=hivamodaxingbilo.ohlalaa.sbs&port=443&secret=ca45920f6029bfe151d44086ec85c8f3
 tg://proxy?server=shophashtagh.retete.sbs&port=443&secret=d1d6e111bada5511fcce9584deadbfdf
@@ -372,3 +371,5 @@ tg://proxy?server=telehomebaba.newphonetabriz.ir&port=6968&secret=bfa77f9bfe059f
 tg://proxy?server=eleven.khosroprtgswreqetdgsrrpi-esoiiisolfinwfsksjvwu-urishklfduiwoeii.info&port=6443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=for_all_nets.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=team-worker.khosroprtgswreqetdgsrrpi-esoiiisolfinwfsksjvwu-urishklfduiwoeii.info&port=6443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=pro.cafeshop1.org&port=443&secret=dd5124b0c2dacd412d01fe245dd20c5628
+tg://proxy?server=144.124.232.238&port=443&secret=dd180e3c8fda3d864db7a511329b00dbaf
