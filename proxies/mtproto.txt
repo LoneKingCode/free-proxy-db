@@ -376,3 +376,5 @@ tg://proxy?server=2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.
 tg://proxy?server=185.207.133.173&port=8080&secret=eeec9a97a7e02db3eefc21183e4491853f
 tg://proxy?server=91.107.180.157&port=443&secret=eeae8ed1a3ea83325ba253657d2bb3eb40
 tg://proxy?server=ipedroom.widelargee.ir&port=63494&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=140.233.167.180&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=140.233.167.179&port=443&secret=EERighJJvXrFGRMCIMJdCQ
