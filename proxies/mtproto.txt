@@ -286,7 +286,6 @@ tg://proxy?server=36.72.39.5.haragediran.ghodokh.ir&port=48173&secret=EECLOUDASI
 tg://proxy?server=40.160.233.170&port=443&secret=bf790abbb6a05b10b8fd6f87140d35f8
 tg://proxy?server=163.5.31.224&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=unlimited.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09
-tg://proxy?server=91.98.122.144&port=443&secret=d1d6e111bada4511fcce9584deadbfdf
 tg://proxy?server=proxydotnet.exirgamecompany.sbs&port=443&secret=dd989dfd8713b2e39dfd80e248d377a402
 tg://proxy?server=ping.ai-mygame.ir&port=1080&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=91.98.160.128&port=443&secret=d1d6e111bada5511fcce9584deadbfda
@@ -389,3 +388,7 @@ tg://proxy?server=45.131.41.20&port=443&secret=dd6abcd1449791814b24e54fd97a04155
 tg://proxy?server=45.131.42.66&port=443&secret=ddd198466c608afb992c73d3a8be0874d5
 tg://proxy?server=best-silent.aaa2hgujoiah-xy1xutr001-1tk.info&port=1080&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=212.134.84.58&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=turbo.iwegujoiah-lgrutr09.info&port=1080&secret=79e344818749bd7ac519130220c25d09
+tg://proxy?server=info.pxgamezone.com&port=8443&secret=dd7674d3915ac8e789efe361f1cbcde8da
+tg://proxy?server=152.42.149.177&port=3138&secret=c02484c9d5d3d3ddbff8630a69b6d3fd
+tg://proxy?server=129.212.140.208&port=6497&secret=b796188d5d394dd1524f461ad5440c4f
