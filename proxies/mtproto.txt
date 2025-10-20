@@ -317,7 +317,6 @@ tg://proxy?server=at-ac-ir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdG
 tg://proxy?server=rd3edd2615bwjsbs1.exirgamecompany.sbs&port=443&secret=ddee82a7239e7510d329da46ceae232e0d
 tg://proxy?server=rd3edd26151.exirgamecompany.sbs&port=443&secret=ddee82a7239e7510d329da46ceae232e0d
 tg://proxy?server=btc.rr-signal.ir&port=1080&secret=79e344818749bd7ac519130220c25d09
-tg://proxy?server=10.plusinoshop.ir&port=1499&secret=ee05d9127cdfcde727133f0856c0364a996769746875622e636f6d
 tg://proxy?server=download-fast.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=trade.rr-signal.ir&port=1080&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=speed.vorng-net.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -406,3 +405,6 @@ tg://proxy?server=140.233.167.191&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdG
 tg://proxy?server=140.233.167.194&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=140.233.167.193&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=https.dlacroonomic66.com&port=443&secret=Y4vs8P6YnKohsQeXrU0cOA==
+tg://proxy?server=darya.dddz3hgujoiah-xy1xutr001-1tk.space&port=1080&secret=79e344818749bd7ac519130220c25d09
+tg://proxy?server=powerful.bbbs2hgujoiah-xy1xutr001-1tk.space&port=1080&secret=79e344818749bd7ac519130220c25d09
+tg://proxy?server=papco-notebook.jomla-and-wordpress.yektanet.donyayeserial-seriesiron.fist-soft.sub.s01-bluray.khosroprtgswreqetdgsrrpi-esoiiisolfinwfsksjvwu-urishklfduiwoeii.info&port=6443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
