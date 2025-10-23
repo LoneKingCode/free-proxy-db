@@ -413,3 +413,6 @@ tg://proxy?server=116.203.30.99&port=155&secret=dd79e7010200010007f0030386e24c3a
 tg://proxy?server=178.63.118.105&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=212.134.84.61&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=94.130.19.35&port=100&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=91.107.155.137&port=100&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=cyrus.hezarsh-mashal0.co.uk.vulhxrrjhkrs-sscj.co.uk.kjhasdkjhkjad-jskjj.co.uk.hkasfgkafh-ijhsd.co.uk.hewiufhkouhqawf-ihjd.co.uk.kjgjhghsdgsgtrdkg-ksdj.co.uk.he2zra68n-esh88gh.co.uk.eu.iwegujoiah-lgrutr09.info.axz1hgujoiah-xy1xutr095-2tk.info&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=bezan.sharzh.shi.idealhome.ir&port=443&secret=dd093bec12c0874226185a766f6d158463
