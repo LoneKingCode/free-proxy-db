@@ -374,7 +374,6 @@ tg://proxy?server=213.109.147.227&port=20&secret=9TuhgIMZjddOEcaXKPXXVQ
 tg://proxy?server=45.131.41.20&port=443&secret=dd6abcd1449791814b24e54fd97a041555
 tg://proxy?server=45.131.42.66&port=443&secret=ddd198466c608afb992c73d3a8be0874d5
 tg://proxy?server=212.134.84.58&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=turbo.iwegujoiah-lgrutr09.info&port=1080&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=info.pxgamezone.com&port=8443&secret=dd7674d3915ac8e789efe361f1cbcde8da
 tg://proxy?server=152.42.149.177&port=3138&secret=c02484c9d5d3d3ddbff8630a69b6d3fd
 tg://proxy?server=129.212.140.208&port=6497&secret=b796188d5d394dd1524f461ad5440c4f
@@ -422,3 +421,5 @@ tg://proxy?server=159.69.49.72&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZ
 tg://proxy?server=168.119.57.245&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.bing.count_with_me.cyou.net.digikala.sanjesh.enamad.google.msn.yahoo.microsoft.again_to_fight.everyone.i_am.the_internet.vocalisting.co.uk&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=vavan.online&port=443&secret=00112233445566778899aabbccddeeff
+tg://proxy?server=184.174.98.40&port=443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=91.98.198.64&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
