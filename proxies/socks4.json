@@ -7438,5 +7438,29 @@
         "password": "",
         "last_checked": "2025-10-27 08:08:29",
         "created_at": "2025-10-27 08:08:29"
+    },
+    {
+        "id": 119909,
+        "ip": "111.72.196.120",
+        "asn": "4134 Chinanet",
+        "speed": 6.13,
+        "port": 2324,
+        "protocol": "socks4",
+        "anonymity": "elite",
+        "is_valid": 1,
+        "https": 1,
+        "check_success_count": 1,
+        "check_error_count": 0,
+        "country": "CN",
+        "city": "Hangzhou",
+        "connect_string": "socks4://111.72.196.120:2324",
+        "available_site_info": null,
+        "site_protocol": "socks4",
+        "secret": "",
+        "source": null,
+        "username": "",
+        "password": "",
+        "last_checked": "2025-10-27 15:07:52",
+        "created_at": "2025-10-27 15:07:52"
     }
 ]
