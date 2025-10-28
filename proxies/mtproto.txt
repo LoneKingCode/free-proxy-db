@@ -427,3 +427,6 @@ tg://proxy?server=163.5.31.206&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZ
 tg://proxy?server=45.81.35.120&port=443&secret=34bea56aa827b78652b0ef8c855aba12
 tg://proxy?server=luna.shooka.ronaldocr7.lunahost360.ir&port=5900&secret=dd76e9eba6c2b80d69b075920fe200126a
 tg://proxy?server=77.110.103.131&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=81.91.179.91&port=443&secret=DEFpAgABAAfwAwNk4kw63Q
+tg://proxy?server=81.91.179.142&port=443&secret=DDcBAgABAAfwAwOG4kw63Q
+tg://proxy?server=81.91.176.145&port=443&secret=EEcBAgABAAfwAwOG4kw63Q
