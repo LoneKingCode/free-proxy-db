@@ -337,7 +337,6 @@ tg://proxy?server=140.233.167.179&port=443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=140.233.167.183&port=443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=luna.new.pro.good.lunahost360.ir&port=2020&secret=dd7a7b4a7e54eb22ab0ac3e14018530e24
 tg://proxy?server=marzban.mci.best.luna-marzban.ir&port=2020&secret=dd7a7b4a7e54eb22ab0ac3e14018530e24
-tg://proxy?server=185.221.219.65&port=8080&secret=ddef4f3b3891091be3fef99f3e00b49f5c
 tg://proxy?server=henry_morgan.donyayeserial-seriesiron.fist-soft.sub.s01-bluray.khosroprtgswreqetdgsrrpi-esoiiisolfinwfsksjvwu-urishklfduiwoeii.info&port=6443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=support.movie-hostings.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=download-zone.movie-hostings.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -452,3 +451,6 @@ tg://proxy?server=140.233.167.197&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdG
 tg://proxy?server=202.133.88.215&port=8443&secret=95a14d16c76c2e1e88d7163202c8084b
 tg://proxy?server=31.57.29.122&port=45&secret=Proxymehrabanazardeybahmanesfand
 tg://proxy?server=31.57.158.66&port=45&secret=Proxymehrabanazardeybahmanesfand
+tg://proxy?server=66.92.164.3&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=66.92.164.4&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=best.connection.intelegram.lunahost360.ir&port=5900&secret=dd76e9eba6c2b80d69b075920fe200126a
