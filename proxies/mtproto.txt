@@ -452,3 +452,4 @@ tg://proxy?server=best.connection.intelegram.lunahost360.ir&port=5900&secret=dd7
 tg://proxy?server=steampowered.com.bez18fal.com&port=9861&secret=dd00000000000000000000000000000000
 tg://proxy?server=siteimproves.co.uk&port=1080&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=srv3.sanixproxy.xyz&port=8443&secret=a7abde8e3c007bcd21ed954527d7d46e
+tg://proxy?server=140.233.167.198&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
