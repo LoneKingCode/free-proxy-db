@@ -1802,7 +1802,6 @@ tg://proxy?server=146.19.254.43&port=20&secret=b0ec1813071e490c6036cff8f3941990
 tg://proxy?server=116.203.30.99&port=155&secret=dd79e7010200010007f0030386e24c3add
 http://95.173.218.80:8081
 http://95.173.218.76:8081
-http://130.180.214.60:3128
 http://172.237.80.233:8080
 http://47.243.181.85:41698
 http://95.173.218.75:8081
@@ -1895,8 +1894,6 @@ tg://proxy?server=140.233.167.197&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdG
 http://206.188.212.74:8443
 tg://proxy?server=202.133.88.215&port=8443&secret=95a14d16c76c2e1e88d7163202c8084b
 http://85.215.174.197:7777
-http://217.154.92.98:7777
-http://62.182.204.81:8383
 http://212.132.103.13:7777
 http://212.227.244.51:7777
 socks5://8.218.36.48:1011
@@ -1907,8 +1904,6 @@ http://128.199.219.15:3128
 http://147.75.88.38:10124
 tg://proxy?server=31.57.29.122&port=45&secret=Proxymehrabanazardeybahmanesfand
 tg://proxy?server=31.57.158.66&port=45&secret=Proxymehrabanazardeybahmanesfand
-socks5://157.180.121.252:15303
-socks5://157.180.121.252:20019
 http://205.178.186.60:8443
 http://206.188.205.5:8443
 http://205.178.136.16:8443
@@ -1917,12 +1912,8 @@ tg://proxy?server=66.92.164.3&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZX
 tg://proxy?server=66.92.164.4&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=best.connection.intelegram.lunahost360.ir&port=5900&secret=dd76e9eba6c2b80d69b075920fe200126a
 http://45.12.132.12:8081
-http://67.43.236.20:9943
 http://40.172.232.213:8881
 http://78.12.143.148:9800
-socks5://156.244.11.6:8888
-socks5://156.244.11.6:20
-http://14.190.191.35:20123
 http://107.150.41.226:24881
 http://217.52.247.75:1976
 http://49.49.144.237:8080
@@ -2143,3 +2134,4 @@ tg://proxy?server=178.63.118.58&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFu
 tg://proxy?server=144.76.88.98&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 socks5://152.53.36.101:20645
 socks5://152.53.36.101:10811
+http://72.10.160.91:20879
