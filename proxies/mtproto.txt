@@ -91,7 +91,6 @@ tg://proxy?server=87.248.132.24&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFu
 tg://proxy?server=tosos-moaos.berlino-landcvixo.biaboro.etok.info&port=443&secret=iORid5lJ237IiBMGYMQMdw==
 tg://proxy?server=pr2.moon-night.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a
 tg://proxy?server=pr1.fast-film.ir&port=443&secret=eeba86b3c58da3e2d80ea7ff89b00704a773332e616d617a6f6e6177732e636f6d
-tg://proxy?server=146.19.143.62&port=20&secret=3e36e0082f4284ab3e6159c56883f9f9
 tg://proxy?server=web.parsa-learning.ir&port=3443&secret=EERighJJvXrFGRMCIMJdCQ==
 tg://proxy?server=soltan-works.shoping-kapofat.sorlan-zhiopanig.molcarfect.info&port=1919&secret=FgMBAgABAAH8AwOG4kw63Q==
 tg://proxy?server=ractor-wood.weblog-online.rooznameh-rooz.ford-motang.info&port=443&secret=7HQighJPBNMYVRNB6tdkVwRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -495,7 +494,6 @@ tg://proxy?server=download.portsocket.net&port=443&secret=dda79308820c94d55b56e1
 tg://proxy?server=37.49.224.10&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=14.102.10.74&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q
 tg://proxy?server=184.174.98.50&port=2040&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=46.8.71.228&port=443&secret=ddcdd375e0b76b8ce89b5cf573be1275c4
 tg://proxy?server=87.248.134.229&port=9999&secret=7HQighJPBNMYVRNB6tdkVwDAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=87.248.134.228&port=9999&secret=FgMBAgABAAH8AwOG4kw63QDAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=152.232.9.242&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -538,3 +536,11 @@ tg://proxy?server=94.141.160.154&port=56809&secret=EERighJJvXrFGRMCIMJdCQRueWVrd
 tg://proxy?server=91.98.116.177&port=155&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=proxy.codex-proxy.ru&port=443&secret=3fbe95e68e560b9b58e408e13b22ad0d
 tg://proxy?server=proxy2.codex-proxy.ru&port=443&secret=3fbe95e68e560b9b58e408e13b22ad0d
+tg://proxy?server=130.185.127.153&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=full.navar11.ir&port=100&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=kiwi-1222.kosekharejandatunpedarkuniemadarsag.site&port=65535&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=albino-frank.age31a-area.youtube-cloudflare-and-my.telegram.org-becuse-remember-phthon3.rossia-looolmarket.khosroprtgswreqetdgsrrpi-esoiiisolfinwfsksjvwu-urishklfduiwoeii.info&port=6443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=mulberry-4156.kosekharejandatunpedarkuniemadarsag.site&port=65535&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=coconut-4945.kosekharejandatunpedarkuniemadarsag.site&port=65535&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=berry-7927.kosekharejandatunpedarkuniemadarsag.site&port=23&secret=dd79e344818749bd7ac519130220c25d09
+tg://proxy?server=87.121.38.90&port=155&secret=ddd5e603e4ddff4d5db411a28957b9a49b
