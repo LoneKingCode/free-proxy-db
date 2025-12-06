@@ -575,9 +575,16 @@ tg://proxy?server=195.18.10.228&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFu
 tg://proxy?server=194.120.230.55&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=51.83.34.137&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=62.84.99.161&port=65535&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=95.182.115.28&port=31288&secret=Proxymehrabanazardeybahmanesfand
 tg://proxy?server=luxi.pxgamezone.com&port=8443&secret=dd0a744e69c755efd02d65554ff6b1f02e
 tg://proxy?server=185.253.121.179.bezan.ino.idealhome.ir&port=443&secret=ddb85426666edf3fa037d75ca49997afd1
 tg://proxy?server=185.113.10.4&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=195.18.10.33&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=195.18.10.32&port=65535&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=91.107.147.255&port=1443&secret=d0d6e111bada5511fcce9584deadbeef
+tg://proxy?server=vvip.sitex1z10.ir&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=x2.plusinoshop.ir&port=1499&secret=dd05d9127cdfcde727133f0856c0364a99
+tg://proxy?server=5.144.179.96&port=7880&secret=Proxymehrabanazardeybahmanesfand
+tg://proxy?server=87.248.134.218&port=65535&secret=EERighJJvXrFGRMCIMJdCQ
+tg://proxy?server=163.5.31.146&port=65535&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=77.246.103.233&port=65535&secret=dd79e344818749bd7ac519130220c25d09
+tg://proxy?server=195.184.233.19&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
