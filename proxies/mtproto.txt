@@ -586,3 +586,5 @@ tg://proxy?server=azar.hajikalashatelservieshamrahavalcandy.co.uk&port=2040&secr
 tg://proxy?server=45.149.92.150&port=8443&secret=dd6a24ff9109eac5374936b358a620efba
 tg://proxy?server=94.130.19.30&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=fast.nano.max.145268.poshalii.ir&port=443&secret=6bc9cfe6b334121bde7c690eb1e7a867
+tg://proxy?server=prx.no2.netenads.ru&port=443&secret=5bf01c9d43912faa693bb38bf36c2da1
+tg://proxy?server=prx.no1.netenads.ru&port=888&secret=c143bc3f81ce08f73f09cf2a52ebb4c8
