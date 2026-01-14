@@ -694,3 +694,4 @@ tg://proxy?server=216.128.177.237&port=443&secret=dd5a0230a7371fcc73f116272f35a4
 tg://proxy?server=149.248.0.90&port=443&secret=dd5e73416e3f5daeed6146f955853cacd8
 tg://proxy?server=65.20.104.38&port=443&secret=ddbfd7f54cff594320cce35039632c0b1c
 tg://proxy?server=216.238.104.63&port=443&secret=dd11cfa6eeef4700d8d82873821218286e
+tg://proxy?server=proxy.getph.ru&port=443&secret=f4080579a2f18003843f03d3e6998234
