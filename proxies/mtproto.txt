@@ -485,7 +485,6 @@ tg://proxy?server=iproxyland_fast.beshdash.ir&port=2030&secret=5e0c903eb5b592010
 tg://proxy?server=179.61.226.61&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=t.freedomconnect.xyz&port=443&secret=eebe9ba010e83c95aa690b10c541d1db227777772e676f6f676c652e636f6d
 tg://proxy?server=frest.nano0omj.fastpromax.co.uk&port=443&secret=6bc9cfe6b334121bde7c690eb1e7a867
-tg://proxy?server=195.18.10.34&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=iproxyland_fast_alwaye_conect.asriranfun.com&port=6003&secret=8e0c903eb5b592010569bd3da9475ccf
 tg://proxy?server=94.130.19.30&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=fast.nano.max.145268.poshalii.ir&port=443&secret=6bc9cfe6b334121bde7c690eb1e7a867
@@ -674,4 +673,9 @@ tg://proxy?server=27.124.29.201&port=33306&secret=dd01cdd35411000000000000000041
 tg://proxy?server=87.248.132.9&port=2222&secret=dd79e70102001e7807f0104386124c0479
 tg://proxy?server=proxy.peppervpn.ru&port=443&secret=471b8371d6df2c003ffaa30533a99fac
 tg://proxy?server=proxy.getph.ru&port=443&secret=f4080579a2f18003843f03d3e6998234
-tg://proxy?server=43.161.250.158&port=65278&secret=dd9e1e2b3cd1fa8a1ac375b92ab4927198
+tg://proxy?server=70.34.254.230&port=443&secret=dd34a72f8f7d2d67d4d3154b2b76e2e0bb
+tg://proxy?server=217.69.8.5&port=443&secret=dde52c69f65949b91e834fe14e6a5fa651
+tg://proxy?server=136.244.78.110&port=443&secret=dd1ebac75ab5ab493cc204bf811ce8af7e
+tg://proxy?server=64.176.4.102&port=443&secret=ddf484ad4637e9836d345e5b0d0590d3a6
+tg://proxy?server=207.246.96.22&port=443&secret=dd1fdf8a0fb9b0683954145815b86e622e
+tg://proxy?server=207.148.5.70&port=443&secret=dd3c5d89245719c7d9da1375cdfca4d9aa
