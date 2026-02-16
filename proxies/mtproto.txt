@@ -499,7 +499,6 @@ tg://proxy?server=49.13.54.208&port=3443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFu
 tg://proxy?server=168.222.252.215&port=443&secret=365a496ecc22d30370534b75ecc02630
 tg://proxy?server=27.124.29.201&port=33306&secret=dd01cdd354110000000000000000415251
 tg://proxy?server=proxy.getph.ru&port=443&secret=f4080579a2f18003843f03d3e6998234
-tg://proxy?server=87.248.132.145&port=65535&secret=10446282fffffffffff80000fff80000
 tg://proxy?server=45.143.167.111&port=20&secret=c7692d3e633c20b510da620b0c172fd5
 tg://proxy?server=74.1.1.36&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=87.229.100.13&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -620,7 +619,6 @@ tg://proxy?server=212.147.224.170&port=443&secret=00112233445566778899aabbccddee
 tg://proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=91.239.192.163&port=65535&secret=10446282fffffffffff80000fff80000
 tg://proxy?server=www.n2.skin&port=8443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8
-tg://proxy?server=57.128.34.218&port=443&secret=dd00112233445566778899aabbccddeeff
 tg://proxy?server=57.128.34.74&port=443&secret=dd00112233445566778899aabbccddeeff
 tg://proxy?server=57.128.35.143&port=443&secret=dd00112233445566778899aabbccddeeff
 tg://proxy?server=206.166.251.108&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -633,7 +631,6 @@ tg://proxy?server=85.155.96.36&port=443&secret=487b79ac7493db465c8f124fcc70aade
 tg://proxy?server=185.125.202.51&port=443&secret=b7b534acc1aa5a6ae8c812e0d8333bfe
 tg://proxy?server=mtproto.wieldvpn.ru&port=443&secret=8248a72e460a5da4bdf6bb11d9579487
 tg://proxy?server=185.84.157.10&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==
-tg://proxy?server=5.75.195.8&port=2084&secret=ee5e93556bf58925cc6a430cd07f9f5a8b736e6170702e6972
 tg://proxy?server=77.93.136.254&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=tg1.ookcdn.ru&port=443&secret=dd15d31b3c1dbdccb53817736ea2cfbb5d
 tg://proxy?server=tg2.ookcdn.ru&port=443&secret=dd2b61f7402968c79a61e14ed27e3aed95
@@ -666,7 +663,6 @@ tg://proxy?server=mtproto.alpha-network.org&port=8443&secret=29e2a89bd3dd5e88de8
 tg://proxy?server=64.188.117.247&port=443&secret=dd674f8462880c479ddc695f67cda23827
 tg://proxy?server=185.82.218.79&port=777&secret=a3d05b71dceb6a361a79a9fa7183d3e8
 tg://proxy?server=172.65.137.149&port=25565&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=45.82.138.81&port=443&secret=ddaf6c5f736e89cc6a51f683363335e5ae
 tg://proxy?server=213.165.58.162&port=443&secret=d85538e0bd79fcacbf9f24f776d2e936
 tg://proxy?server=proxy.fastexte.pro&port=443&secret=8b1c248e1c32f5925a98d0d9decfc1a4
 tg://proxy?server=tg1de.cenza.cloud&port=443&secret=3ba640f9c4a971236f3960fe56a3fa15
@@ -697,7 +693,6 @@ tg://proxy?server=1.darknamikonina.diy&port=25565&secret=dd79e344818749bd7ac5191
 tg://proxy?server=45.76.27.193&port=443&secret=02f898de784d6f2a4175403ced449184
 tg://proxy?server=135.181.118.235&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
 tg://proxy?server=195.254.165.7&port=65535&secret=10446282fffffffffff80000fff80000
-tg://proxy?server=154.f16.darniod.ooo&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=1.1.1.1.bez18fal.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=91.239.192.74&port=65535&secret=10446282fffffffffff80000fff80000
 tg://proxy?server=195.254.165.11&port=65535&secret=10446282fffffffffff80000fff80000
@@ -751,3 +746,16 @@ tg://proxy?server=172.65.132.244&port=25565&secret=dd79e344818749bd7ac519130220c
 tg://proxy?server=172.65.152.49&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=tg.vpnempire.net&port=443&secret=46ad11c9e8475e9479a7ed5585124568
 tg://proxy?server=91.239.192.84&port=65443&secret=10446282fffffffffff80000fff80000
+tg://proxy?server=paswd1.ru&port=443&secret=3faad3fea85e735ebf2fbc0c6cab5544
+tg://proxy?server=91.239.192.86&port=65443&secret=10446282fffffffffff80000fff80000
+tg://proxy?server=91.239.192.87&port=65443&secret=10446282fffffffffff80000fff80000
+tg://proxy?server=144.31.153.39&port=443&secret=dd7c3aafd92fda0da7a94864515277e3cc
+tg://proxy?server=173.230.156.228&port=443&secret=EEABAzINjZetcZOOYBYVMWNkbnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=65.109.185.62&port=443&secret=dda89706967a1f045dbe48cb793df15976
+tg://proxy?server=65.109.93.216&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
+tg://proxy?server=65.109.65.216&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
+tg://proxy?server=65.109.65.215&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
+tg://proxy?server=65.109.93.239&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
+tg://proxy?server=proxy2.strettenvpn.com&port=443&secret=dfe878ca3ef58feb5df4243e5fcd3da0
+tg://proxy?server=65.109.93.229&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
+tg://proxy?server=65.109.93.223&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
