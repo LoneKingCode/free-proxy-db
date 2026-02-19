@@ -607,8 +607,6 @@ tg://proxy?server=212.147.224.170&port=443&secret=00112233445566778899aabbccddee
 tg://proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=91.239.192.163&port=65535&secret=10446282fffffffffff80000fff80000
 tg://proxy?server=www.n2.skin&port=8443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8
-tg://proxy?server=57.128.34.74&port=443&secret=dd00112233445566778899aabbccddeeff
-tg://proxy?server=57.128.35.143&port=443&secret=dd00112233445566778899aabbccddeeff
 tg://proxy?server=206.166.251.108&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=65.109.178.132&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=185.84.157.11&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==
@@ -624,7 +622,6 @@ tg://proxy?server=tg1.ookcdn.ru&port=443&secret=dd15d31b3c1dbdccb53817736ea2cfbb
 tg://proxy?server=tg2.ookcdn.ru&port=443&secret=dd2b61f7402968c79a61e14ed27e3aed95
 tg://proxy?server=77.93.136.253&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=188.132.129.218&port=2083&secret=3ba455cff2ccbd9c823c1e3dac0d3dad
-tg://proxy?server=158.160.196.177&port=4242&secret=0922b49dc244f3ff665a7bdebfe50b66
 tg://proxy?server=proxy.strettenvpn.com&port=443&secret=7ddff5ae9397b23386b64b4a52c82842
 tg://proxy?server=91.239.192.67&port=444&secret=FgMBAgABAAH8AxOG4kw63QFgMBAgABAAH8AxOG4kw63QFgMBAgABAAH8AxOG4kw63QFgMBAgABAAH8AxOG4kwFgMBAgABAAH8AxOG4kw63Q=
 tg://proxy?server=109.196.101.230&port=443&secret=746fd4b401682ca92e8a000449c76625
@@ -680,7 +677,6 @@ tg://proxy?server=135.181.118.235&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef
 tg://proxy?server=195.254.165.7&port=65535&secret=10446282fffffffffff80000fff80000
 tg://proxy?server=1.1.1.1.bez18fal.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=91.239.192.74&port=65535&secret=10446282fffffffffff80000fff80000
-tg://proxy?server=195.254.165.11&port=65535&secret=10446282fffffffffff80000fff80000
 tg://proxy?server=darknamikonina.my&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=185.84.157.34&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=91.107.146.36&port=8443&secret=a0208fa4b8fc18249323cd1cf2c59be3
