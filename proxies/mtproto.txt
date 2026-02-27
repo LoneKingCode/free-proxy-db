@@ -484,7 +484,6 @@ tg://proxy?server=185.115.161.248&port=9443&secret=dd104462821249bd7ac519130220c
 tg://proxy?server=65.21.28.60&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=74.1.1.48&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=5.78.41.13&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=74.1.1.47&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.49&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=185.115.161.244&port=9443&secret=dd104462821249bd7ac519130220c25d09
@@ -575,7 +574,6 @@ tg://proxy?server=mtproto.wieldvpn.ru&port=443&secret=8248a72e460a5da4bdf6bb11d9
 tg://proxy?server=185.84.157.10&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=77.93.136.254&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=tg1.ookcdn.ru&port=443&secret=dd15d31b3c1dbdccb53817736ea2cfbb5d
-tg://proxy?server=tg2.ookcdn.ru&port=443&secret=dd2b61f7402968c79a61e14ed27e3aed95
 tg://proxy?server=77.93.136.253&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=188.132.129.218&port=2083&secret=3ba455cff2ccbd9c823c1e3dac0d3dad
 tg://proxy?server=proxy.strettenvpn.com&port=443&secret=7ddff5ae9397b23386b64b4a52c82842
@@ -588,7 +586,6 @@ tg://proxy?server=185.84.157.6&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=185.84.157.3&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=172.65.159.128&port=3389&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=5.75.240.97&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=yaa.yandex-servs.com&port=443&secret=afdc38b8068b2444e50f6a4f093751b5
 tg://proxy?server=43.250.53.22&port=443&secret=4fc30d1222972a04067e805a5134cb57
 tg://proxy?server=potatofree.top&port=443&secret=dd36c492218192a41afc3361f58379870a
 tg://proxy?server=185.86.147.201&port=443&secret=e13a803e33fc25129e083d2bf3a81dcf
