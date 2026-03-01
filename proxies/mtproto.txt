@@ -516,7 +516,6 @@ tg://proxy?server=64.225.9.255&port=85&secret=FgIBAgABAAH8AwOG4kw63Q
 tg://proxy?server=31.24.253.5&port=9443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=31.24.253.6&port=9443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=129.212.145.196&port=85&secret=FgIBAgABAAH8AwOG4kw63Q
-tg://proxy?server=151.243.95.187&port=443&secret=6473d64dfb9d031b999eabec8477d6ba
 tg://proxy?server=141.11.149.129&port=443&secret=a9f8e7d6c5b4a3f2e1d0c9b8a7f6e5d4
 tg://proxy?server=141.11.87.223&port=443&secret=e8b7c6d5a4f3e2d1c0b9a8f7e6d5c4b3
 tg://proxy?server=45.192.249.101&port=443&secret=b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6
