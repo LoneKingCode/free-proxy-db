@@ -496,7 +496,6 @@ tg://proxy?server=5.255.112.95&port=443&secret=1ae7375be9a7b99881c557299e6c26de
 tg://proxy?server=74.1.1.32&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.34&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=78.47.80.33&port=8443&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==
-tg://proxy?server=45.131.108.120&port=443&secret=e9a4f23b1d768c04a8d7f39120ca5b6e
 tg://proxy?server=telewbion.aparat.google.filimo.soft98.downloadha.picatak.shop&port=443&secret=dd3753d248a8755f3f0cfaa7aa4aa3d0e2
 tg://proxy?server=87.229.100.236&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=188.166.16.124&port=85&secret=FgIBAgABAAH8AwOG4kw63Q
@@ -517,7 +516,6 @@ tg://proxy?server=37.27.135.205&port=443&secret=dd0000f00f0f775555fffffff5006e2e
 tg://proxy?server=148.251.26.138&port=65535&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=37.27.135.207&port=443&secret=dd0000f00f0f775555fffffff5006e2e69
 tg://proxy?server=185.84.157.230&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==
-tg://proxy?server=31.14.116.90&port=8881&secret=d5c800f66d61307eef845df0eb473a0b
 tg://proxy?server=balance-ee.elix.rip&port=443&secret=77e616b89815f53b5a2d2d4299fc7ede
 tg://proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8
 tg://proxy?server=64.226.74.11&port=443&secret=dd11df01381be6f64cd0972704061e9bb0
@@ -589,16 +587,13 @@ tg://proxy?server=www.telbet.app&port=25565&secret=dd79e344818749bd7ac519130220c
 tg://proxy?server=212.233.99.27&port=443&secret=ebeb2a01928324db3cf36c1c6d118e7a
 tg://proxy?server=lol.telbet.lol&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=46.21.81.198&port=7443&secret=e0c3fa844cc8b971f9c86bee03f2c34a
-tg://proxy?server=1.darknamikonina.diy&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=45.76.27.193&port=443&secret=02f898de784d6f2a4175403ced449184
 tg://proxy?server=135.181.118.235&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
 tg://proxy?server=1.1.1.1.bez18fal.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=91.239.192.74&port=65535&secret=10446282fffffffffff80000fff80000
-tg://proxy?server=darknamikonina.my&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=185.84.157.34&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=teleg.freetato.ru&port=443&secret=49f77cb97bb9c189d4f6e63c977484f9
 tg://proxy?server=2.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=172.65.148.146&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=1.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=5.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=balmaske.freedomlife.name&port=4430&secret=eafb8ade3ef679c625f808eb53d5facd
