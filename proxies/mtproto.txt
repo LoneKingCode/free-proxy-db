@@ -241,7 +241,6 @@ tg://proxy?server=140.233.167.194&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdG
 tg://proxy?server=140.233.167.193&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=https.dlacroonomic66.com&port=443&secret=Y4vs8P6YnKohsQeXrU0cOA==
 tg://proxy?server=papco-notebook.jomla-and-wordpress.yektanet.donyayeserial-seriesiron.fist-soft.sub.s01-bluray.khosroprtgswreqetdgsrrpi-esoiiisolfinwfsksjvwu-urishklfduiwoeii.info&port=6443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=212.134.84.61&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=184.174.98.37&port=443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=184.174.98.38&port=443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.bing.count_with_me.cyou.net.digikala.sanjesh.enamad.google.msn.yahoo.microsoft.again_to_fight.everyone.i_am.the_internet.vocalisting.co.uk&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
@@ -583,7 +582,6 @@ tg://proxy?server=46.21.81.198&port=7443&secret=e0c3fa844cc8b971f9c86bee03f2c34a
 tg://proxy?server=45.76.27.193&port=443&secret=02f898de784d6f2a4175403ced449184
 tg://proxy?server=135.181.118.235&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
 tg://proxy?server=91.239.192.74&port=65535&secret=10446282fffffffffff80000fff80000
-tg://proxy?server=185.84.157.34&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=teleg.freetato.ru&port=443&secret=49f77cb97bb9c189d4f6e63c977484f9
 tg://proxy?server=2.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=1.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09
