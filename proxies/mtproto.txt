@@ -377,7 +377,6 @@ tg://proxy?server=163.5.31.79&port=65535&secret=dd104462821249bd7ac519130220c25d
 tg://proxy?server=163.5.31.143&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=184.174.98.89&port=2040&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=184.174.98.88&port=2040&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=116.203.202.230&port=8443&secret=EERighJJvXrFGRMCIMJdCQAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=46.224.68.219&port=8443&secret=EERighJJvXrFGRMCIMJdCQAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=77.42.24.176&port=8443&secret=EERighJJvXrFGRMCIMJdCQAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=157.180.85.143&port=8443&secret=EERighJJvXrFGRMCIMJdCQAAAAAAAAAAAAAAAAAAAAAA
@@ -500,7 +499,6 @@ tg://proxy?server=37.27.135.206&port=443&secret=dd0000f00f0f775555fffffff5006e2e
 tg://proxy?server=45.63.74.35&port=443&secret=b3b1909a7bb0c1997b106e579ae29329
 tg://proxy?server=32.gilanproduct.ir&port=443&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6D656469612E737465616D706F77657265642E636F6D
 tg://proxy?server=185.132.134.13&port=8443&secret=79e70102001e7807f0104386124c0479
-tg://proxy?server=148.251.26.138&port=65535&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=185.84.157.230&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=balance-ee.elix.rip&port=443&secret=77e616b89815f53b5a2d2d4299fc7ede
 tg://proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8
@@ -578,7 +576,6 @@ tg://proxy?server=4.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d
 tg://proxy?server=135.181.1.24&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
 tg://proxy?server=www.alibaba1409.org&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng
 tg://proxy?server=135.181.1.23&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
-tg://proxy?server=188.121.116.140&port=8443&secret=ee367a189aee18fa31c190054efd4a8e9d73746f726167652e676f6f676c65617069732e636f6d
 tg://proxy?server=91.239.192.81&port=65535&secret=10446282fffffffffff80000fff80000
 tg://proxy?server=89.167.36.222&port=2053&secret=dd1603010200010001fc030386e24c3add
 tg://proxy?server=91.239.192.82&port=65535&secret=10446282fffffffffff80000fff80000
