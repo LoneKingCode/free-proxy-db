@@ -350,7 +350,6 @@ tg://proxy?server=163.5.31.174&port=65535&secret=dd104462821249bd7ac519130220c25
 tg://proxy?server=179.61.226.27&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=163.5.31.112&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=179.61.226.24&port=65535&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=163.5.31.172&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=87.229.100.81&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=195.184.233.18&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=152.232.9.244&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -485,11 +484,8 @@ tg://proxy?server=74.1.1.34&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=78.47.80.33&port=8443&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==
 tg://proxy?server=telewbion.aparat.google.filimo.soft98.downloadha.picatak.shop&port=443&secret=dd3753d248a8755f3f0cfaa7aa4aa3d0e2
 tg://proxy?server=87.229.100.236&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=188.166.16.124&port=85&secret=FgIBAgABAAH8AwOG4kw63Q
-tg://proxy?server=64.225.9.255&port=85&secret=FgIBAgABAAH8AwOG4kw63Q
 tg://proxy?server=31.24.253.5&port=9443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=31.24.253.6&port=9443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=129.212.145.196&port=85&secret=FgIBAgABAAH8AwOG4kw63Q
 tg://proxy?server=141.11.87.223&port=443&secret=e8b7c6d5a4f3e2d1c0b9a8f7e6d5c4b3
 tg://proxy?server=95.216.179.111&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=95.217.8.111&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==
@@ -594,7 +590,6 @@ tg://proxy?server=65.109.93.229&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6a
 tg://proxy?server=65.109.93.223&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5
 tg://proxy?server=172.65.156.245&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=37.139.34.153&port=443&secret=9f3c7a8d2e4b1c6f5a7d8e9b0c2f4a1d
-tg://proxy?server=https.porteghall.site&port=8443&secret=dd79e7010200010007f0030386e24c3add
 tg://proxy?server=www.porteghall.site&port=8443&secret=dd79e7010200010007f0030386e24c3add
 tg://proxy?server=tg-proxy-de.deltavpn.me&port=444&secret=dc87d3c46c48e181d7352737b28b3113
 tg://proxy?server=mt.tematika.org&port=443&secret=1d8976ce8bacd795a21036fb05c4addc
