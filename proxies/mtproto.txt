@@ -348,7 +348,6 @@ tg://proxy?server=olive-2546.kosekharejandatunpedarkuniemadarsag.site&port=443&s
 tg://proxy?server=cranberry-8044.kosekharejandatunpedarkuniemadarsag.site&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=163.5.31.174&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=163.5.31.112&port=65535&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=179.61.226.24&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=87.229.100.81&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=195.184.233.18&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=152.232.9.244&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -484,7 +483,6 @@ tg://proxy?server=87.229.100.236&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGF
 tg://proxy?server=31.24.253.5&port=9443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=31.24.253.6&port=9443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=141.11.87.223&port=443&secret=e8b7c6d5a4f3e2d1c0b9a8f7e6d5c4b3
-tg://proxy?server=95.216.179.111&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=95.217.8.111&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=95.217.28.96&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==
 tg://proxy?server=45.63.74.35&port=443&secret=b3b1909a7bb0c1997b106e579ae29329
@@ -538,7 +536,6 @@ tg://proxy?server=172.65.158.169&port=25565&secret=dd79e344818749bd7ac519130220c
 tg://proxy?server=telegram-proxy.sssrvpn.pro&port=443&secret=2084c7e58d8213296a3206da70356c81
 tg://proxy?server=proto.fastfive.ru&port=443&secret=e5bca2dcc8d9b782ee9aada3cecc0e63
 tg://proxy?server=185.241.194.130&port=2443&secret=9c4a7e2d1f5086b3a9d2e4f607182c5a
-tg://proxy?server=172.65.158.12&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=37.139.34.162&port=443&secret=9f3c7a8d2e4b1c6f5a7d8e9b0c2f4a1d
 tg://proxy?server=213.176.77.28&port=443&secret=8d76c6c7b6958e2a93e04c6ef53aed80
 tg://proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f
