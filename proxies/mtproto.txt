@@ -519,7 +519,6 @@ tg://proxy?server=185.241.194.130&port=2443&secret=9c4a7e2d1f5086b3a9d2e4f607182
 tg://proxy?server=37.139.34.162&port=443&secret=9f3c7a8d2e4b1c6f5a7d8e9b0c2f4a1d
 tg://proxy?server=213.176.77.28&port=443&secret=8d76c6c7b6958e2a93e04c6ef53aed80
 tg://proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f
-tg://proxy?server=65.109.181.47&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=qq.aezailoveyou.ru&port=443&secret=9f3c7a8d2e4b1c6f5a7d8e9b0c2f4a1d
 tg://proxy?server=94.126.207.189&port=443&secret=bf7c5a95ce4e90e4cbc7aa2cae6d53ea
 tg://proxy?server=141.98.190.161&port=443&secret=165b20a2a58030da10c257555bf3c31c
