@@ -354,7 +354,6 @@ tg://proxy?server=danlood.makhsos.goo.goodmorningbeautiful.ir&port=9741&secret=E
 tg://proxy?server=36.54.604.77.goo.goodmorningbeautiful.ir&port=9741&secret=EEDwDw93UiX6jM2VAMuQACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=163.5.31.51&port=65535&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=184.174.98.86&port=2040&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=195.18.10.42&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=195.18.10.41&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=188.34.176.45&port=9741&secret=dd1040f00f0f775225fa8ccd9500cb9000
 tg://proxy?server=tg.candelix.net&port=443&secret=825e8a4ff87247505e24e7d5d0f5543e
@@ -420,7 +419,6 @@ tg://proxy?server=74.1.1.54&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=188.245.123.204&port=8443&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==
 tg://proxy?server=proxy.jubaoku.com&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=proxy.wuxiandai.com&port=9443&secret=2adab36179e7a39026adf74034615248
-tg://proxy?server=78.46.197.232&port=8443&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==
 tg://proxy?server=78.46.200.15&port=8443&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==
 tg://proxy?server=162.19.175.95&port=443&secret=dd7f216fe9b238b009ac9067852fb47a19
 tg://proxy?server=49.12.11.70&port=8443&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==
