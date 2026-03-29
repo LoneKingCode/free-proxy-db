@@ -328,7 +328,6 @@ tg://proxy?server=diskup.qavi.188.204.81.65hbnkoenjoy.ir&port=9741&secret=EErIGZ
 tg://proxy?server=hamrah.erancell.88.206.81.65hbnkoenjoy.ir&port=9741&secret=EErIGZnjVxRfgrmcimiQgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=fool.vasl.168.28.3.65hbnkoenjoy.ir&port=9741&secret=EErIGZnjVxRfgrmcimiQgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=olive-2546.kosekharejandatunpedarkuniemadarsag.site&port=443&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=cranberry-8044.kosekharejandatunpedarkuniemadarsag.site&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=163.5.31.174&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=87.229.100.81&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=195.184.233.18&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -429,7 +428,6 @@ tg://proxy?server=185.115.161.253&port=9443&secret=1603010200010001fc030386e24c3
 tg://proxy?server=5.255.112.95&port=443&secret=1ae7375be9a7b99881c557299e6c26de
 tg://proxy?server=74.1.1.32&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.34&port=65535&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=78.47.80.33&port=8443&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==
 tg://proxy?server=45.63.74.35&port=443&secret=b3b1909a7bb0c1997b106e579ae29329
 tg://proxy?server=balance-ee.elix.rip&port=443&secret=77e616b89815f53b5a2d2d4299fc7ede
 tg://proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8
