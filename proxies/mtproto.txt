@@ -409,7 +409,6 @@ tg://proxy?server=74.1.1.49&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.51&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=185.115.161.161&port=9443&secret=dd1603010200010001fc030386e24c3add
 tg://proxy?server=74.1.1.52&port=65535&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=88.214.59.118&port=443&secret=f855144f5c9baff78d2e776ff438f450
 tg://proxy?server=74.1.1.44&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.55&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.53&port=65535&secret=dd79e344818749bd7ac519130220c25d09
@@ -417,7 +416,6 @@ tg://proxy?server=74.1.1.54&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=188.245.123.204&port=8443&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==
 tg://proxy?server=proxy.jubaoku.com&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=proxy.wuxiandai.com&port=9443&secret=2adab36179e7a39026adf74034615248
-tg://proxy?server=78.46.200.15&port=8443&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==
 tg://proxy?server=162.19.175.95&port=443&secret=dd7f216fe9b238b009ac9067852fb47a19
 tg://proxy?server=185.115.161.253&port=9443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=5.255.112.95&port=443&secret=1ae7375be9a7b99881c557299e6c26de
