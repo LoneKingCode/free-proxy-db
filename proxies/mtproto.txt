@@ -418,7 +418,6 @@ tg://proxy?server=185.115.161.253&port=9443&secret=1603010200010001fc030386e24c3
 tg://proxy?server=5.255.112.95&port=443&secret=1ae7375be9a7b99881c557299e6c26de
 tg://proxy?server=74.1.1.32&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.34&port=65535&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=45.63.74.35&port=443&secret=b3b1909a7bb0c1997b106e579ae29329
 tg://proxy?server=balance-ee.elix.rip&port=443&secret=77e616b89815f53b5a2d2d4299fc7ede
 tg://proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8
 tg://proxy?server=64.226.74.11&port=443&secret=dd11df01381be6f64cd0972704061e9bb0
