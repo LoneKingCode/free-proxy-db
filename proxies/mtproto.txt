@@ -1,6 +1,5 @@
 tg://proxy?server=130.0.239.75&port=443&secret=eef9f48d41044f0225c1af64490ce88cda7777772e7a6f6f6d69742e6972
 tg://proxy?server=193.93.153.119&port=443&secret=ee6ea63f16082c83dae8859595949897046d63692e6972
-tg://proxy?server=188.34.166.237&port=2443&secret=ee7227e98a7af39dc82329ea3a09fcd53d
 tg://proxy?server=www.abccloud.ir&port=443&secret=eedddddddddddddddddddddddddddddddd7370656564746573742e6e6574
 tg://proxy?server=103.35.189.118&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d
 tg://proxy?server=files.ryteseo.com&port=443&secret=ee7deb27de1d955fc03656c3ea6e0da5e16d796b65742e6972
@@ -568,3 +567,17 @@ tg://proxy?server=proxlet.site&port=443&secret=8d969eef6ecad3c29a3a629280e686cf
 tg://proxy?server=144.202.103.219&port=443&secret=ffacf741c82121f919a4a6a783ec85fd
 tg://proxy?server=64.188.65.63&port=443&secret=14f9b82c38f7cc3f9f938277dc6c6038
 tg://proxy?server=82.24.174.213&port=443&secret=f93e229e1581404f3f13e4cf3f57e30c
+tg://proxy?server=144.31.135.73&port=443&secret=abb29dcec88e73610721bcf68c00b796
+tg://proxy?server=190.2.142.185&port=8443&secret=63f84be1fa69afb85f70d273f3e4d557
+tg://proxy?server=190.2.142.169&port=8443&secret=c0e0f868a56ec7da13f9d58fb92adf6e
+tg://proxy?server=190.2.142.225&port=8443&secret=f794c69a947889b40870f3d1d718d293
+tg://proxy?server=5.39.250.20&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
+tg://proxy?server=204.168.145.16&port=443&secret=8f604a7e17871ca0b6e39e5435ac2e10
+tg://proxy?server=190.2.142.250&port=8443&secret=24eb9ed0e56d5ea9832d45459feb2058
+tg://proxy?server=190.2.142.132&port=8443&secret=0db689723c948575817dece9f0e88407
+tg://proxy?server=84.23.53.16&port=443&secret=ddc0354b7193b79b12c42803e5ec5cd706
+tg://proxy?server=190.2.142.133&port=8443&secret=62136c1a891b390bab376ea02fcb1aa6
+tg://proxy?server=proxyobhod.online&port=443&secret=71c30cc28759e0a10b6de5b471d69751
+tg://proxy?server=2.evoevoevo.com&port=443&secret=7e9dcba07510a31d25d200c685e67556
+tg://proxy?server=212.111.84.201&port=443&secret=dd79870f7f2a69beb5c0206d8697c40ed9
+tg://proxy?server=jtproxy.life&port=443&secret=eef0050d30441bab41f60acae779df0c40766473696e612e7275
