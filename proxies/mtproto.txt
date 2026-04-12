@@ -313,7 +313,6 @@ tg://proxy?server=140.233.167.254&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdG
 tg://proxy?server=proxy.codex-proxy.ru&port=443&secret=3fbe95e68e560b9b58e408e13b22ad0d
 tg://proxy?server=proxy2.codex-proxy.ru&port=443&secret=3fbe95e68e560b9b58e408e13b22ad0d
 tg://proxy?server=jangol-mangol.fanoose-rah.co.uk&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=diskup.qavi.188.204.81.65hbnkoenjoy.ir&port=9741&secret=EErIGZnjVxRfgrmcimiQgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=olive-2546.kosekharejandatunpedarkuniemadarsag.site&port=443&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=163.5.31.174&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=87.229.100.81&port=65535&secret=dd104462821249bd7ac519130220c25d09
@@ -327,7 +326,6 @@ tg://proxy?server=184.174.98.85&port=2040&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGF
 tg://proxy?server=henri-cartier-bresson.serial-seriesiron.fist-soft.speedtest-soft.name.original.sub.s07-bluray.finecooking.info&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=99.98.206.58.fat.fjo3ubashyour.ir&port=9741&secret=EEDwDw93UiX6jM2VAMuQACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=197.25.84.9.fat.fjo3ubashyour.ir&port=9741&secret=NeKEgRFJvw7FGRMCIMeQgKuVuRueWVrdGFuZXQuY29tZmFyYXqhdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=195.18.10.33&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=163.5.31.146&port=65535&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=195.184.233.19&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=163.5.31.79&port=65535&secret=dd104462821249bd7ac519130220c25d09
@@ -564,10 +562,7 @@ tg://proxy?server=49.12.117.37&port=443&secret=dd104462821249bd7ac519130220c25d0
 tg://proxy?server=47.76.77.155&port=8888&secret=dd9035de6b150c249f1b6f7156092757b4
 tg://proxy?server=47.238.118.153&port=8888&secret=dd1c29c9e2cf1bebef973063bf5cee2ab6
 tg://proxy?server=47.76.185.250&port=8888&secret=ddbc333021b477f9f51080ec9f6e9f5ef3
-tg://proxy?server=87.239.107.157&port=1984&secret=8da89d4cbe02211ef329d004819e4eb9
 tg://proxy?server=caveat.dyslexia.justly.pedlery.talisman.superpinoy.net&port=2450&secret=8f6c67087a603cb91c94886ba79d4bdd
-tg://proxy?server=212.233.89.91&port=443&secret=ddf4b54d805ffeff430be106aa80d94f7f
-tg://proxy?server=tg.nurvpn.de&port=443&secret=f4b54d805ffeff430be106aa80d94f7f
 tg://proxy?server=sftp.cloudconsole.ru&port=443&secret=4403537ae82f6609494e5d51ffd041f1
 tg://proxy?server=psql.s1nqq.fun&port=5432&secret=0e5360aecceecd4c27f7acd6aa79a7d5
 tg://proxy?server=159.89.5.21&port=8443&secret=686575b8d3e478c5ba3b7b6a60bbd225
@@ -579,7 +574,6 @@ tg://proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f68cef86ba
 tg://proxy?server=bookbinder.carburetor.limber-up.pedagog.soccer.pinoyfilms.net&port=8100&secret=dd741d46365e5fab5e34576a00c9b31cad
 tg://proxy?server=91.134.139.232&port=8443&secret=ef5e97666d5248db3aca4e0bc7492ee7
 tg://proxy?server=secure.nuv.su&port=443&secret=dd470cb2b8b29aeadfbdf8a2f7bee5ca3b
-tg://proxy?server=pms1.openconn.ru&port=443&secret=ee2aa6fb44b6064899630563f554eaaad6746178692e79616e6465782e7275
 tg://proxy?server=farrowing.forgiven.guantanamo.homey.wagtail.hapka.info&port=47019&secret=3c7dde3640ac06c5dd3e77a57ffc96cd
 tg://proxy?server=5.129.216.244&port=8443&secret=c99830f283dae3a527c60e594a6af454
 tg://proxy?server=tg02.net-ru.top&port=443&secret=61a4328b42a8d1817987296a32096440
@@ -613,7 +607,6 @@ tg://proxy?server=157.173.122.85&port=4515&secret=cc63d963f06aaacd6d9c6a4d15da35
 tg://proxy?server=aggrieve.bighead.dividable.fatly.fixings.teleseryerewind.com&port=6700&secret=669f43a4abf980e5223ac3b3afba5018
 tg://proxy?server=93.77.163.16&port=443&secret=dddc35618e5df194b814ac9ac5d2fd5b28
 tg://proxy?server=185.154.53.110&port=443&secret=ee2aa6fb44b6064899630563f554eaaad6746178692e79616e6465782e7275
-tg://proxy?server=89.208.199.56&port=443&secret=ddb4b54ddf0b9f3b82dd7b4a5a888ea82d
 tg://proxy?server=37.46.211.176&port=3019&secret=dd9944774a88592e735e70ed9f3096af5c
 tg://proxy?server=109.69.23.57&port=443&secret=dd49b0cd5a4441dff52d3af79b6bf661ee
 tg://proxy?server=188.137.237.71&port=443&secret=dd371bf0764e8f25ffd14ad708722b1fbd
@@ -724,3 +717,5 @@ tg://proxy?server=96.30.195.94&port=443&secret=b99c69cfffb2e5c81010f532120379fc
 tg://proxy?server=140.82.16.22&port=443&secret=6b0fd88f3f95766bacc8ef8fd51f4762
 tg://proxy?server=108.61.176.182&port=443&secret=3983988e240e58c96f44d597947c0c6c
 tg://proxy?server=109.120.138.205&port=2053&secret=dd74e71178512a5eb063883fd2c7a98db1
+tg://proxy?server=aftershave.bug.balanced.complicating.decet.tupko.com&port=19256&secret=aa73e7f90e253d1cc55c9a03d9504215
+tg://proxy?server=tg.proxywing.net&port=443&secret=dd398e9112420ca2ad72bac8bfd851ff42
