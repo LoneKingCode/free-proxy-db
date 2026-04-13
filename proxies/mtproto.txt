@@ -564,7 +564,6 @@ tg://proxy?server=caveat.dyslexia.justly.pedlery.talisman.superpinoy.net&port=24
 tg://proxy?server=sftp.cloudconsole.ru&port=443&secret=4403537ae82f6609494e5d51ffd041f1
 tg://proxy?server=psql.s1nqq.fun&port=5432&secret=0e5360aecceecd4c27f7acd6aa79a7d5
 tg://proxy?server=159.89.5.21&port=8443&secret=686575b8d3e478c5ba3b7b6a60bbd225
-tg://proxy?server=cintiabot.duckdns.org&port=8443&secret=faec0dfe42eb966f1ebf85e262b9130e
 tg://proxy?server=defamation.graduate.mitigatory.passway.purposeless.tupko.com&port=21647&secret=44ae74575512c08ff11cfdbcc8b41825
 tg://proxy?server=109.120.133.40&port=443&secret=6db5ad15b699360d1a6b8864cf63d574
 tg://proxy?server=217.177.34.139&port=443&secret=dd69e899d89ec68e220ca177557322b27f
@@ -573,8 +572,6 @@ tg://proxy?server=bookbinder.carburetor.limber-up.pedagog.soccer.pinoyfilms.net&
 tg://proxy?server=91.134.139.232&port=8443&secret=ef5e97666d5248db3aca4e0bc7492ee7
 tg://proxy?server=secure.nuv.su&port=443&secret=dd470cb2b8b29aeadfbdf8a2f7bee5ca3b
 tg://proxy?server=farrowing.forgiven.guantanamo.homey.wagtail.hapka.info&port=47019&secret=3c7dde3640ac06c5dd3e77a57ffc96cd
-tg://proxy?server=5.129.216.244&port=8443&secret=c99830f283dae3a527c60e594a6af454
-tg://proxy?server=146.185.208.49&port=443&secret=5793d8a3cbed95008089c62d76a98bb5
 tg://proxy?server=party-1.er-news.su&port=443&secret=d819cc80f754a644cf09395098ed1887
 tg://proxy?server=px.spektr.win&port=443&secret=ee370baecb228874e0fe5b4a32a9a95ed0646c2e676f6f676c652e636f6d
 tg://proxy?server=94.130.190.170&port=443&secret=dd104462821249bd7ac519130220c25d09
@@ -583,14 +580,11 @@ tg://proxy?server=befall.demonopolize.edged.parsley.tourniquet.chuka-chuka.com&p
 tg://proxy?server=144.31.215.178&port=7443&secret=da5418d123ae6ec61a8ba57d0ae7f9ec
 tg://proxy?server=ru36.importmsk.ru&port=8443&secret=dde3d3a09a31f5c857890cfc2a0bcab4c1
 tg://proxy?server=andreabot.duckdns.org&port=8444&secret=21bb689a715bb089460f14cd7b18f933
-tg://proxy?server=72.60.186.130&port=8443&secret=ddfaec0dfe42eb966f1ebf85e262b9130e
 tg://proxy?server=85.198.99.185&port=8443&secret=dd28df1727029aed45d15f3a44d31e7e20
-tg://proxy?server=176.108.242.30&port=443&secret=dd7c5d4e1f2a3b9c8d7e6f5a4b3c2d1e0f
 tg://proxy?server=157.173.122.85&port=4515&secret=cc63d963f06aaacd6d9c6a4d15da35d9
 tg://proxy?server=aggrieve.bighead.dividable.fatly.fixings.teleseryerewind.com&port=6700&secret=669f43a4abf980e5223ac3b3afba5018
 tg://proxy?server=93.77.163.16&port=443&secret=dddc35618e5df194b814ac9ac5d2fd5b28
 tg://proxy?server=37.46.211.176&port=3019&secret=dd9944774a88592e735e70ed9f3096af5c
-tg://proxy?server=109.69.23.57&port=443&secret=dd49b0cd5a4441dff52d3af79b6bf661ee
 tg://proxy?server=188.137.237.71&port=443&secret=dd371bf0764e8f25ffd14ad708722b1fbd
 tg://proxy?server=prx.enterlancevpn.com&port=8443&secret=424d104e484e4261ebbad5c0954692b0
 tg://proxy?server=107.191.47.19&port=443&secret=cf0b722816b51fc534c47b38a598b12f
@@ -720,3 +714,11 @@ tg://proxy?server=64.176.214.195&port=443&secret=f939c56a7e78c1a3584c30b64947128
 tg://proxy?server=137.220.48.103&port=443&secret=f09009648a7027384281126b6ce46f15
 tg://proxy?server=149.248.9.125&port=443&secret=ed699526623068089fa7d3bce5ecf400
 tg://proxy?server=155.138.220.144&port=443&secret=5b099002510c768c91efafb8ddea152a
+tg://proxy?server=tg.fra-1.cndlx.lol&port=443&secret=ddf4610bfbc599ee66906aba602589cba7
+tg://proxy?server=62.238.15.67&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=awned.expatriation.miniaturization.oolitic.outdazzle.umatno.info&port=39267&secret=3dd4a8cc68315179d764d8608456af14
+tg://proxy?server=flint3de6-c07c0599.proxytg.ink&port=443&secret=a8e84b0bdd918ad1aa18e8380b24690a
+tg://proxy?server=158.160.89.29&port=853&secret=eef71f54ba7012d8bf91f5c9d8a347cc437777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=mt.0xl1r.cfd&port=443&secret=a1f31ce5039ccb8331e906d5ab00a317
+tg://proxy?server=xy.dc6.icu&port=41528&secret=feff39bcddb62859ade093fcad935858
+tg://proxy?server=panel.meowmeowcat.top&port=443&secret=ee1fa90a9cd9bd2e85299f3960238d39757777772e77696b6970656469612e6f7267
