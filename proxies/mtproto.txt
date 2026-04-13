@@ -494,7 +494,6 @@ tg://proxy?server=51.250.72.173&port=8443&secret=ddbfd846b76b7374c38a008c6af9255
 tg://proxy?server=mt.vpn-one.net&port=5223&secret=7ae73ddfd70b8e549aae657b4da1bf03
 tg://proxy?server=84.201.151.157&port=8443&secret=ddbfd846b76b7374c38a008c6af9255fdc
 tg://proxy?server=84.201.173.20&port=443&secret=9b31714333fcb181199fc46f9cb8068d
-tg://proxy?server=94.156.115.80&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
 tg://proxy?server=mt3.vpn-one.net&port=5223&secret=7ae73ddfd70b8e549aae657b4da1bf03
 tg://proxy?server=mt2.vpn-one.net&port=5223&secret=7ae73ddfd70b8e549aae657b4da1bf03
 tg://proxy?server=video.enotfast.com&port=8443&secret=ddaf52265d200135a9812e6fbbd9512e1f
@@ -548,7 +547,6 @@ tg://proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac519130220
 tg://proxy?server=195.254.165.244&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=tg.alabalainds.xyz&port=9443&secret=0867e1b95cc9aa87049f7d68fa83760d
 tg://proxy?server=195.254.165.243&port=25565&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=connect.solutions.solutions&port=443&secret=dd2ae5891b2b9b9b811b212050843193aa
 tg://proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=195.254.165.245&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=166.1.160.127&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
@@ -561,7 +559,6 @@ tg://proxy?server=47.76.77.155&port=8888&secret=dd9035de6b150c249f1b6f7156092757
 tg://proxy?server=47.238.118.153&port=8888&secret=dd1c29c9e2cf1bebef973063bf5cee2ab6
 tg://proxy?server=47.76.185.250&port=8888&secret=ddbc333021b477f9f51080ec9f6e9f5ef3
 tg://proxy?server=caveat.dyslexia.justly.pedlery.talisman.superpinoy.net&port=2450&secret=8f6c67087a603cb91c94886ba79d4bdd
-tg://proxy?server=sftp.cloudconsole.ru&port=443&secret=4403537ae82f6609494e5d51ffd041f1
 tg://proxy?server=psql.s1nqq.fun&port=5432&secret=0e5360aecceecd4c27f7acd6aa79a7d5
 tg://proxy?server=159.89.5.21&port=8443&secret=686575b8d3e478c5ba3b7b6a60bbd225
 tg://proxy?server=defamation.graduate.mitigatory.passway.purposeless.tupko.com&port=21647&secret=44ae74575512c08ff11cfdbcc8b41825
@@ -583,20 +580,12 @@ tg://proxy?server=andreabot.duckdns.org&port=8444&secret=21bb689a715bb089460f14c
 tg://proxy?server=85.198.99.185&port=8443&secret=dd28df1727029aed45d15f3a44d31e7e20
 tg://proxy?server=157.173.122.85&port=4515&secret=cc63d963f06aaacd6d9c6a4d15da35d9
 tg://proxy?server=aggrieve.bighead.dividable.fatly.fixings.teleseryerewind.com&port=6700&secret=669f43a4abf980e5223ac3b3afba5018
-tg://proxy?server=93.77.163.16&port=443&secret=dddc35618e5df194b814ac9ac5d2fd5b28
 tg://proxy?server=37.46.211.176&port=3019&secret=dd9944774a88592e735e70ed9f3096af5c
 tg://proxy?server=188.137.237.71&port=443&secret=dd371bf0764e8f25ffd14ad708722b1fbd
 tg://proxy?server=prx.enterlancevpn.com&port=8443&secret=424d104e484e4261ebbad5c0954692b0
-tg://proxy?server=107.191.47.19&port=443&secret=cf0b722816b51fc534c47b38a598b12f
-tg://proxy?server=95.179.155.88&port=443&secret=f1ed42cfb21fbe9cd5eb2c622b4d75ff
 tg://proxy?server=pms2.openconn.ru&port=443&secret=ee2aa6fb44b6064899630563f554eaaad67777772e6b696e6f2d74656174722e7275
 tg://proxy?server=distant.hellenian.horseplayer.workpiece.xenomania.tupko.com&port=21698&secret=5ccc99ae70fcc5817f00c14d1e62c71f
 tg://proxy?server=ru-02-proxy.duckdns.org&port=443&secret=dd49d04008260c313f6bdd9203dc6bb73f
-tg://proxy?server=66.42.124.199&port=443&secret=b000d41c9b230263920c3845235d5f15
-tg://proxy?server=45.77.74.218&port=443&secret=4bfd854ee995a28600e162da14a0f129
-tg://proxy?server=45.32.145.97&port=443&secret=715a081ff2a5c35ee3d25298c194d78e
-tg://proxy?server=136.244.109.154&port=443&secret=8c04074a233ff078c78c33a65a8583f1
-tg://proxy?server=80.240.25.41&port=443&secret=15de5f7014cea2772249646fd96ac491
 tg://proxy?server=s12.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93626f6f6b696e672e636f6d
 tg://proxy?server=45.66.11.224&port=443&secret=dd2efb3fbae16446f3b021b7069b592367
 tg://proxy?server=91.92.33.42&port=10010&secret=a776b2138267bee7902cb7840c71a7ad
@@ -605,12 +594,9 @@ tg://proxy?server=64.188.98.231&port=7492&secret=ddee612847249271625341253647586
 tg://proxy?server=204.168.250.138&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
 tg://proxy?server=150.241.100.119&port=3155&secret=ddee845210394857261524364758695041
 tg://proxy?server=chaldea.impel.monopathy.pure.wallah.pinoyteleseryerewind.org&port=5650&secret=8ebb2512295182a9d66e85313ea78185
-tg://proxy?server=51.250.46.77&port=443&secret=ddc8d206c7720ee8d02b932e14a3714d88
 tg://proxy?server=138.124.8.104&port=11443&secret=b0f72442b4bc008f45cf271af6a40aa0
 tg://proxy?server=s11.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93726164696f7265636f72642e7275
-tg://proxy?server=s13.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93617263686976652e7562756e74752e636f6d
 tg://proxy?server=proxy1.simplvpn.pro&port=443&secret=84c007092f334d33232899f86c2ac767
-tg://proxy?server=207.246.68.246&port=443&secret=c7d1eaff16f7936371393ba2085f4ee3
 tg://proxy?server=37.139.34.48&port=443&secret=6ec460e02414894df4f38bbf5be72816
 tg://proxy?server=hi.piglio.online&port=25565&secret=dd90070792574663c0f6bd34279078aa5b
 tg://proxy?server=188.137.250.103&port=443&secret=dd55e6dc2a653a5b98684624035dea96ce
@@ -631,7 +617,6 @@ tg://proxy?server=89.167.104.111&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e816
 tg://proxy?server=80u39qhn.msk.velvet.surf&port=443&secret=630759961682346277e97888b60bffcd
 tg://proxy?server=1bz33khm.msk.velvet.surf&port=443&secret=630759961682346277e97888b60bffcd
 tg://proxy?server=oxygen-academy.online&port=8443&secret=52d97cd84dc43a0cea96fa864359c814
-tg://proxy?server=90.156.219.76&port=443&secret=dd000102030405060708090a0b0c0d0e0f
 tg://proxy?server=bestproxy.ink&port=443&secret=ee7d793037a0760186574b0282f2f435e762657374696e6b2e74657374
 tg://proxy?server=burner.paid.pantshoes.ramiform.tippler.pinoyfilms.net&port=8400&secret=3e39b3881bc146caa294c4a6ea64c601
 tg://proxy?server=95.163.213.96&port=443&secret=dd000102030405060708090a0b0c0d0e0f
