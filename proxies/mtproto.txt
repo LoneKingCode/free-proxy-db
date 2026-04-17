@@ -362,7 +362,6 @@ tg://proxy?server=74.1.1.40&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=free.tprox.net&port=443&secret=dd583de2881533667b60a718e9bf8049e9
 tg://proxy?server=74.1.1.41&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.42&port=65535&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=185.215.247.75&port=9443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=74.1.1.46&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=65.21.28.60&port=4455&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=74.1.1.48&port=65535&secret=dd79e344818749bd7ac519130220c25d09
@@ -385,7 +384,6 @@ tg://proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098ab
 tg://proxy?server=64.226.74.11&port=443&secret=dd11df01381be6f64cd0972704061e9bb0
 tg://proxy?server=www.hombus.co.uk&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==
 tg://proxy?server=mtproxy.nbdays.pw&port=9443&secret=44ae73e20c9614efbcb0cf87b4b31b41
-tg://proxy?server=206.166.251.108&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=85.155.96.36&port=443&secret=487b79ac7493db465c8f124fcc70aade
 tg://proxy?server=185.125.202.51&port=443&secret=b7b534acc1aa5a6ae8c812e0d8333bfe
 tg://proxy?server=mtproto.wieldvpn.ru&port=443&secret=8248a72e460a5da4bdf6bb11d9579487
@@ -474,7 +472,6 @@ tg://proxy?server=proxy.3301vpn.space&port=8443&secret=0bcce6b2fcf67dc628121b5fd
 tg://proxy?server=pivo.shukafish.ru&port=5443&secret=ddf5199e949c0f23bc887581218ad8c1e6
 tg://proxy?server=143.110.179.199&port=443&secret=4f78efbe7db10d486caba4ea33862315
 tg://proxy?server=82.38.66.98&port=443&secret=a1a29a12bc4725f9901a4981ad8c867c
-tg://proxy?server=takhtekhab.rylvin.bar&port=443&secret=5839ef5285c1a55062cc35f9197003cb
 tg://proxy?server=mt.vpn-one.net&port=5223&secret=7ae73ddfd70b8e549aae657b4da1bf03
 tg://proxy?server=mt3.vpn-one.net&port=5223&secret=7ae73ddfd70b8e549aae657b4da1bf03
 tg://proxy?server=mt2.vpn-one.net&port=5223&secret=7ae73ddfd70b8e549aae657b4da1bf03
@@ -498,7 +495,6 @@ tg://proxy?server=190.2.142.132&port=8443&secret=0db689723c948575817dece9f0e8840
 tg://proxy?server=190.2.142.133&port=8443&secret=62136c1a891b390bab376ea02fcb1aa6
 tg://proxy?server=proxyobhod.online&port=443&secret=71c30cc28759e0a10b6de5b471d69751
 tg://proxy?server=2.evoevoevo.com&port=443&secret=7e9dcba07510a31d25d200c685e67556
-tg://proxy?server=jtproxy.life&port=443&secret=eef0050d30441bab41f60acae779df0c40766473696e612e7275
 tg://proxy?server=haughtily.mucous.obstetrical.overmaster.zoophile.rawisda.com&port=2290&secret=a630d0df19b52481592a18016d266cf9
 tg://proxy?server=compassionate-heyrovsky.cfd&port=1984&secret=c76b8cb6d99f20a7c1a3ef1b67bbb070
 tg://proxy?server=catholicity.gravely.pudgy.relaxed.scatterer.superpinoy.net&port=2400&secret=c6e97411bd2f36aead173ff1b945c91e
@@ -516,7 +512,6 @@ tg://proxy?server=141.98.6.195&port=443&secret=ee2c7dab3c75adbe7da5d466f44ee2bc4
 tg://proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=195.254.165.247&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=tg.towersflowerss.com&port=443&secret=90eba2e23b01f1cb32b4b9e29bbd7f80
-tg://proxy?server=vaticanic.top&port=8443&secret=870579bd7c908dc115d6dc252cb6a55a
 tg://proxy?server=185.184.122.153&port=443&secret=dd6593c0b3cab1d593ef3c99a064464edc
 tg://proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=195.254.165.244&port=25565&secret=dd79e344818749bd7ac519130220c25d09
@@ -538,7 +533,6 @@ tg://proxy?server=defamation.graduate.mitigatory.passway.purposeless.tupko.com&p
 tg://proxy?server=217.177.34.139&port=443&secret=dd69e899d89ec68e220ca177557322b27f
 tg://proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f68cef86baf
 tg://proxy?server=bookbinder.carburetor.limber-up.pedagog.soccer.pinoyfilms.net&port=8100&secret=dd741d46365e5fab5e34576a00c9b31cad
-tg://proxy?server=91.134.139.232&port=8443&secret=ef5e97666d5248db3aca4e0bc7492ee7
 tg://proxy?server=secure.nuv.su&port=443&secret=dd470cb2b8b29aeadfbdf8a2f7bee5ca3b
 tg://proxy?server=farrowing.forgiven.guantanamo.homey.wagtail.hapka.info&port=47019&secret=3c7dde3640ac06c5dd3e77a57ffc96cd
 tg://proxy?server=party-1.er-news.su&port=443&secret=d819cc80f754a644cf09395098ed1887
@@ -576,7 +570,6 @@ tg://proxy?server=burner.paid.pantshoes.ramiform.tippler.pinoyfilms.net&port=840
 tg://proxy?server=ru.rowny.online&port=5443&secret=dd4ff87b1b527aaa3352de900087b9b304
 tg://proxy?server=hk1ddns.dc6.icu&port=41528&secret=feff39bcddb62859ade093fcad935858
 tg://proxy?server=proxy.jubaoku.com&port=8443&secret=2adab36179e7a39026adf74034615248
-tg://proxy?server=95.85.231.6&port=8443&secret=46b107169c2e3968abc49eba40928782
 tg://proxy?server=194.87.252.116&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 tg://proxy?server=95.216.178.76&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=4test.nuv.su&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
@@ -617,7 +610,6 @@ tg://proxy?server=landing.ad-places.ru&port=8443&secret=eee2933d1dcaba391455908c
 tg://proxy?server=94.156.112.129&port=443&secret=ed391f275a6d93e52cdbf4058562bc20
 tg://proxy?server=havene5c9-c9862954.proxytg.ink&port=443&secret=b968de5d8c88024af77ee0ed494abb74
 tg://proxy?server=prism72a6-d996dda7.proxytg.ink&port=443&secret=02567895943d8069be957f7058fa8aed
-tg://proxy?server=ee.vdl.lat&port=443&secret=ee1a21752bd8823f6d2e7ac3642f2608ac6170706c652e636f6d
 tg://proxy?server=tg.fra-1.cndlx.lol&port=443&secret=ddf4610bfbc599ee66906aba602589cba7
 tg://proxy?server=62.238.15.67&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=awned.expatriation.miniaturization.oolitic.outdazzle.umatno.info&port=39267&secret=3dd4a8cc68315179d764d8608456af14
