@@ -527,7 +527,6 @@ tg://proxy?server=s11.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee
 tg://proxy?server=proxy1.simplvpn.pro&port=443&secret=84c007092f334d33232899f86c2ac767
 tg://proxy?server=188.137.250.103&port=443&secret=dd55e6dc2a653a5b98684624035dea96ce
 tg://proxy?server=65.109.61.31&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=65.109.61.14&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=tg.n3o.ooo&port=8444&secret=8a5492da2728b7c1220a697e9f357c93
 tg://proxy?server=fast.de1.tg-proxyes.ru&port=2233&secret=d244dda98688b2f326818efd79e85996
 tg://proxy?server=95.85.248.205&port=443&secret=dd1e40f4b0fedfeaa739d478a413885cec
