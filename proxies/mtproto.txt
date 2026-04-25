@@ -224,7 +224,6 @@ tg://proxy?server=140.233.167.193&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdG
 tg://proxy?server=https.dlacroonomic66.com&port=443&secret=Y4vs8P6YnKohsQeXrU0cOA==
 tg://proxy?server=papco-notebook.jomla-and-wordpress.yektanet.donyayeserial-seriesiron.fist-soft.sub.s01-bluray.khosroprtgswreqetdgsrrpi-esoiiisolfinwfsksjvwu-urishklfduiwoeii.info&port=6443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=184.174.98.37&port=443&secret=EERighJJvXrFGRMCIMJdCQ
-tg://proxy?server=184.174.98.38&port=443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.bing.count_with_me.cyou.net.digikala.sanjesh.enamad.google.msn.yahoo.microsoft.again_to_fight.everyone.i_am.the_internet.vocalisting.co.uk&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=163.5.31.177&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=163.5.31.175&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
