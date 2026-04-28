@@ -330,7 +330,6 @@ tg://proxy?server=87.229.100.18&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFu
 tg://proxy?server=https.web.www.gorgan-well.co.uk&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=168.222.252.215&port=443&secret=365a496ecc22d30370534b75ecc02630
 tg://proxy?server=27.124.29.201&port=33306&secret=dd01cdd354110000000000000000415251
-tg://proxy?server=45.143.167.111&port=20&secret=c7692d3e633c20b510da620b0c172fd5
 tg://proxy?server=74.1.1.36&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54
 tg://proxy?server=s1.proxyhelp.cc&port=65085&secret=dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2
@@ -353,7 +352,6 @@ tg://proxy?server=74.1.1.53&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.54&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=proxy.jubaoku.com&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=proxy.wuxiandai.com&port=9443&secret=2adab36179e7a39026adf74034615248
-tg://proxy?server=74.1.1.34&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=balance-ee.elix.rip&port=443&secret=77e616b89815f53b5a2d2d4299fc7ede
 tg://proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8
 tg://proxy?server=64.226.74.11&port=443&secret=dd11df01381be6f64cd0972704061e9bb0
@@ -481,7 +479,6 @@ tg://proxy?server=47.238.118.153&port=8888&secret=dd1c29c9e2cf1bebef973063bf5cee
 tg://proxy?server=47.76.185.250&port=8888&secret=ddbc333021b477f9f51080ec9f6e9f5ef3
 tg://proxy?server=caveat.dyslexia.justly.pedlery.talisman.superpinoy.net&port=2450&secret=8f6c67087a603cb91c94886ba79d4bdd
 tg://proxy?server=psql.s1nqq.fun&port=5432&secret=0e5360aecceecd4c27f7acd6aa79a7d5
-tg://proxy?server=159.89.5.21&port=8443&secret=686575b8d3e478c5ba3b7b6a60bbd225
 tg://proxy?server=defamation.graduate.mitigatory.passway.purposeless.tupko.com&port=21647&secret=44ae74575512c08ff11cfdbcc8b41825
 tg://proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f68cef86baf
 tg://proxy?server=bookbinder.carburetor.limber-up.pedagog.soccer.pinoyfilms.net&port=8100&secret=dd741d46365e5fab5e34576a00c9b31cad
