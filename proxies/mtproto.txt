@@ -338,9 +338,7 @@ tg://proxy?server=74.1.1.47&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.49&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.51&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.52&port=65535&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=74.1.1.44&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.55&port=65535&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=74.1.1.53&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.54&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=proxy.jubaoku.com&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=proxy.wuxiandai.com&port=9443&secret=2adab36179e7a39026adf74034615248
@@ -442,7 +440,6 @@ tg://proxy?server=compassionate-heyrovsky.cfd&port=1984&secret=c76b8cb6d99f20a7c
 tg://proxy?server=catholicity.gravely.pudgy.relaxed.scatterer.superpinoy.net&port=2400&secret=c6e97411bd2f36aead173ff1b945c91e
 tg://proxy?server=tg.hellohiro.ru&port=8443&secret=dd973e178b06e6b204a3f6d8044dda69c7
 tg://proxy?server=tg.nosokvpn.com&port=443&secret=118fb8496cb1abb9cd6e0fbe1000ad92
-tg://proxy?server=2.26.97.0&port=8443&secret=f5a96ceadd1bbedd719fbd7f1c9387dd
 tg://proxy?server=213.108.21.105&port=2053&secret=dd586464b7256dddfd4b5ede01693551ee
 tg://proxy?server=obxod2.vpnforum.ru&port=443&secret=bf9f2d60e8d4ca1b376a71ea5400c7d2
 tg://proxy?server=1.evoevoevo.com&port=443&secret=59ecc03bfbc542556d7ea2919d688663
@@ -454,7 +451,6 @@ tg://proxy?server=195.254.165.247&port=25565&secret=dd79e344818749bd7ac519130220
 tg://proxy?server=tg.towersflowerss.com&port=443&secret=90eba2e23b01f1cb32b4b9e29bbd7f80
 tg://proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=195.254.165.244&port=25565&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=tg.alabalainds.xyz&port=9443&secret=0867e1b95cc9aa87049f7d68fa83760d
 tg://proxy?server=195.254.165.243&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=195.254.165.245&port=25565&secret=dd79e344818749bd7ac519130220c25d09
@@ -516,4 +512,3 @@ tg://proxy?server=prism72a6-d996dda7.proxytg.ink&port=443&secret=02567895943d806
 tg://proxy?server=tg.fra-1.cndlx.lol&port=443&secret=ddf4610bfbc599ee66906aba602589cba7
 tg://proxy?server=awned.expatriation.miniaturization.oolitic.outdazzle.umatno.info&port=39267&secret=3dd4a8cc68315179d764d8608456af14
 tg://proxy?server=flint3de6-c07c0599.proxytg.ink&port=443&secret=a8e84b0bdd918ad1aa18e8380b24690a
-tg://proxy?server=158.160.89.29&port=853&secret=eef71f54ba7012d8bf91f5c9d8a347cc437777772e636c6f7564666c6172652e636f6d
