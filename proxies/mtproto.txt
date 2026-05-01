@@ -449,7 +449,6 @@ tg://proxy?server=1.evoevoevo.com&port=443&secret=59ecc03bfbc542556d7ea2919d6886
 tg://proxy?server=185.100.157.137&port=1488&secret=039bce408d88478d679656d4845f4842
 tg://proxy?server=138.124.70.86&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 tg://proxy?server=141.98.6.85&port=443&secret=ee2c7dab3c75adbe7da5d466f44ee2bc4a78702e6170706c652e636f6d
-tg://proxy?server=141.98.6.195&port=443&secret=ee2c7dab3c75adbe7da5d466f44ee2bc4a78702e6170706c652e636f6d
 tg://proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=195.254.165.247&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=tg.towersflowerss.com&port=443&secret=90eba2e23b01f1cb32b4b9e29bbd7f80
@@ -483,13 +482,11 @@ tg://proxy?server=aggrieve.bighead.dividable.fatly.fixings.teleseryerewind.com&p
 tg://proxy?server=pms2.openconn.ru&port=443&secret=ee2aa6fb44b6064899630563f554eaaad67777772e6b696e6f2d74656174722e7275
 tg://proxy?server=distant.hellenian.horseplayer.workpiece.xenomania.tupko.com&port=21698&secret=5ccc99ae70fcc5817f00c14d1e62c71f
 tg://proxy?server=s12.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93626f6f6b696e672e636f6d
-tg://proxy?server=45.66.11.224&port=443&secret=dd2efb3fbae16446f3b021b7069b592367
 tg://proxy?server=91.92.33.42&port=10010&secret=a776b2138267bee7902cb7840c71a7ad
 tg://proxy?server=204.168.250.138&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
 tg://proxy?server=chaldea.impel.monopathy.pure.wallah.pinoyteleseryerewind.org&port=5650&secret=8ebb2512295182a9d66e85313ea78185
 tg://proxy?server=138.124.8.104&port=11443&secret=b0f72442b4bc008f45cf271af6a40aa0
 tg://proxy?server=s11.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93726164696f7265636f72642e7275
-tg://proxy?server=proxy1.simplvpn.pro&port=443&secret=84c007092f334d33232899f86c2ac767
 tg://proxy?server=188.137.250.103&port=443&secret=dd55e6dc2a653a5b98684624035dea96ce
 tg://proxy?server=tg.n3o.ooo&port=8444&secret=8a5492da2728b7c1220a697e9f357c93
 tg://proxy?server=95.85.248.205&port=443&secret=dd1e40f4b0fedfeaa739d478a413885cec
@@ -502,7 +499,6 @@ tg://proxy?server=proxy.jubaoku.com&port=8443&secret=2adab36179e7a39026adf740346
 tg://proxy?server=194.87.252.116&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 tg://proxy?server=4test.nuv.su&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
 tg://proxy?server=64.176.72.153&port=8443&secret=ee8b645f148dc6cff239590eb96457c61e646c2e676f6f676c652e636f6d
-tg://proxy?server=2.26.49.102&port=443&secret=f6c4563d6f3d67137a1c286b7d92fa0f
 tg://proxy?server=handbell.jude.meet.motoring.shake-up.watchpinoyteleserye.com&port=1150&secret=9c3dd2c3b66976461382216193e8e323
 tg://proxy?server=mtproxy.brizproject.space&port=8444&secret=07f4765c38cb72f40c92238c6e2ce02c
 tg://proxy?server=cheburnet.n3o.ooo&port=4444&secret=00000040004004444400044400000000
