@@ -327,10 +327,7 @@ tg://proxy?server=s2.proxyhelp.cc&port=65501&secret=dde5c3a1f7d9b2e4c6a8f0d2b4e6
 tg://proxy?server=161.97.113.87&port=443&secret=dd402d7c35d73d302ccd9c6ba8243a9430
 tg://proxy?server=74.1.1.40&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=free.tprox.net&port=443&secret=dd583de2881533667b60a718e9bf8049e9
-tg://proxy?server=74.1.1.42&port=65535&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=74.1.1.48&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=74.1.1.49&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=74.1.1.52&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=proxy.jubaoku.com&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=proxy.wuxiandai.com&port=9443&secret=2adab36179e7a39026adf74034615248
@@ -465,7 +462,6 @@ tg://proxy?server=94.130.191.164&port=443&secret=dd104462821249bd7ac519130220c25
 tg://proxy?server=befall.demonopolize.edged.parsley.tourniquet.chuka-chuka.com&port=13626&secret=65e0233b5290a685376414576f43e109
 tg://proxy?server=144.31.215.178&port=7443&secret=da5418d123ae6ec61a8ba57d0ae7f9ec
 tg://proxy?server=ru36.importmsk.ru&port=8443&secret=dde3d3a09a31f5c857890cfc2a0bcab4c1
-tg://proxy?server=157.173.122.85&port=4515&secret=cc63d963f06aaacd6d9c6a4d15da35d9
 tg://proxy?server=aggrieve.bighead.dividable.fatly.fixings.teleseryerewind.com&port=6700&secret=669f43a4abf980e5223ac3b3afba5018
 tg://proxy?server=pms2.openconn.ru&port=443&secret=ee2aa6fb44b6064899630563f554eaaad67777772e6b696e6f2d74656174722e7275
 tg://proxy?server=distant.hellenian.horseplayer.workpiece.xenomania.tupko.com&port=21698&secret=5ccc99ae70fcc5817f00c14d1e62c71f
