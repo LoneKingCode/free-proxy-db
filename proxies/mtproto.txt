@@ -317,7 +317,6 @@ tg://proxy?server=87.229.100.18&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFu
 tg://proxy?server=https.web.www.gorgan-well.co.uk&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=168.222.252.215&port=443&secret=365a496ecc22d30370534b75ecc02630
 tg://proxy?server=27.124.29.201&port=33306&secret=dd01cdd354110000000000000000415251
-tg://proxy?server=74.1.1.36&port=65535&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54
 tg://proxy?server=s1.proxyhelp.cc&port=65085&secret=dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2
 tg://proxy?server=s2.proxyhelp.cc&port=65501&secret=dde5c3a1f7d9b2e4c6a8f0d2b4e6a8c0e2
