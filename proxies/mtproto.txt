@@ -419,7 +419,6 @@ tg://proxy?server=138.124.8.104&port=11443&secret=b0f72442b4bc008f45cf271af6a40a
 tg://proxy?server=188.137.250.103&port=443&secret=dd55e6dc2a653a5b98684624035dea96ce
 tg://proxy?server=tg.n3o.ooo&port=8444&secret=8a5492da2728b7c1220a697e9f357c93
 tg://proxy?server=proxytelega.store&port=443&secret=5d41402abc4b2a76b9719d911017c592
-tg://proxy?server=34.61.55.25&port=1337&secret=dd59e555899de6e9ddda5a707350540c18
 tg://proxy?server=89.167.104.111&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
 tg://proxy?server=burner.paid.pantshoes.ramiform.tippler.pinoyfilms.net&port=8400&secret=3e39b3881bc146caa294c4a6ea64c601
 tg://proxy?server=proxy.jubaoku.com&port=8443&secret=2adab36179e7a39026adf74034615248
