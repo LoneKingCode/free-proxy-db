@@ -440,4 +440,3 @@ tg://proxy?server=havene5c9-c9862954.proxytg.ink&port=443&secret=b968de5d8c88024
 tg://proxy?server=prism72a6-d996dda7.proxytg.ink&port=443&secret=02567895943d8069be957f7058fa8aed
 tg://proxy?server=tg.fra-1.cndlx.lol&port=443&secret=ddf4610bfbc599ee66906aba602589cba7
 tg://proxy?server=awned.expatriation.miniaturization.oolitic.outdazzle.umatno.info&port=39267&secret=3dd4a8cc68315179d764d8608456af14
-tg://proxy?server=flint3de6-c07c0599.proxytg.ink&port=443&secret=a8e84b0bdd918ad1aa18e8380b24690a
