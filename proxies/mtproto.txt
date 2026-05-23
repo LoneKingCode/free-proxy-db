@@ -303,7 +303,6 @@ tg://proxy?server=proxy.duojinbao.com&port=9443&secret=2adab36179e7a39026adf7403
 tg://proxy?server=172.65.159.128&port=3389&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=43.250.53.22&port=443&secret=4fc30d1222972a04067e805a5134cb57
 tg://proxy?server=potatofree.top&port=443&secret=dd36c492218192a41afc3361f58379870a
-tg://proxy?server=185.86.147.201&port=443&secret=e13a803e33fc25129e083d2bf3a81dcf
 tg://proxy?server=94.139.245.4&port=443&secret=faffb4eec19f3fce5f63acc248ce1c09
 tg://proxy?server=tg.iloveyou-russia.ru&port=443&secret=b3a2c62bcd96ee97e40ce5a89ca58f8d
 tg://proxy?server=telegram.mtpproxy.ltvpn.org&port=443&secret=9e9458e4b939ce0894bc146049e64b58
