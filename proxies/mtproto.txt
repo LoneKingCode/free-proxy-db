@@ -130,7 +130,6 @@ tg://proxy?server=14.102.10.6&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZ
 tg://proxy?server=https.www.vocalisting.co.uk&port=443&secret=7HQighJPBNMYVRNB6tdkVw==
 tg://proxy?server=www.weblog.com.revayat-karan.ir&port=44300&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=lokmas-berco.web-co.www.kizashi.co.uk&port=9060&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=norobian.sinus-dc.ir&port=1080&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=163.5.31.41&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 tg://proxy?server=balancehttps.jur.azizedelaml.ir&port=443&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnUldQOFpvTHVwZmNp
 tg://proxy?server=llllll.llllll.llllll.illlll.ir&port=48173&secret=EECLOUDASIzRJlmd4iaQgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -190,7 +189,6 @@ tg://proxy?server=140.233.167.193&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdG
 tg://proxy?server=papco-notebook.jomla-and-wordpress.yektanet.donyayeserial-seriesiron.fist-soft.sub.s01-bluray.khosroprtgswreqetdgsrrpi-esoiiisolfinwfsksjvwu-urishklfduiwoeii.info&port=6443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.bing.count_with_me.cyou.net.digikala.sanjesh.enamad.google.msn.yahoo.microsoft.again_to_fight.everyone.i_am.the_internet.vocalisting.co.uk&port=443&secret=DDBighLLvXrFGRMCBVJdFQ==
 tg://proxy?server=163.5.31.176&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=163.5.31.173&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=45.81.35.120&port=443&secret=34bea56aa827b78652b0ef8c855aba12
 tg://proxy?server=184.174.98.43&port=3443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tg://proxy?server=184.174.98.45&port=3443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -299,7 +297,6 @@ tg://proxy?server=openimp.space&port=443&secret=075d7b345dc0222924ccea508c8edf91
 tg://proxy?server=172.65.152.49&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=paswd1.ru&port=443&secret=3faad3fea85e735ebf2fbc0c6cab5544
 tg://proxy?server=proxy2.strettenvpn.com&port=443&secret=dfe878ca3ef58feb5df4243e5fcd3da0
-tg://proxy?server=172.65.156.245&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=tg-proxy-de.deltavpn.me&port=444&secret=dc87d3c46c48e181d7352737b28b3113
 tg://proxy?server=mt.tematika.org&port=443&secret=1d8976ce8bacd795a21036fb05c4addc
 tg://proxy?server=vtslystore.ru&port=443&secret=096b8b7bfd4af6d7e67ab3cb24e9542d
