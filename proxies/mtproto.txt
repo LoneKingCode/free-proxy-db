@@ -273,7 +273,6 @@ tg://proxy?server=mtproto.alpha-network.org&port=8443&secret=29e2a89bd3dd5e88de8
 tg://proxy?server=172.65.137.149&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=tgprox.yourownstorage.info&port=443&secret=dd0b07756f8bb33668eaf2b55c01890615
 tg://proxy?server=172.65.158.169&port=25565&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=telegram-proxy.sssrvpn.pro&port=443&secret=2084c7e58d8213296a3206da70356c81
 tg://proxy?server=proto.fastfive.ru&port=443&secret=e5bca2dcc8d9b782ee9aada3cecc0e63
 tg://proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f
 tg://proxy?server=www.telbet.app&port=25565&secret=dd79e344818749bd7ac519130220c25d09
@@ -316,7 +315,6 @@ tg://proxy?server=burned.concordantly.onlay.unicolourous.wholesale.superpinoy.ne
 tg://proxy?server=proxlet.site&port=443&secret=8d969eef6ecad3c29a3a629280e686cf
 tg://proxy?server=64.188.65.63&port=443&secret=14f9b82c38f7cc3f9f938277dc6c6038
 tg://proxy?server=204.168.145.16&port=443&secret=8f604a7e17871ca0b6e39e5435ac2e10
-tg://proxy?server=proxyobhod.online&port=443&secret=71c30cc28759e0a10b6de5b471d69751
 tg://proxy?server=2.evoevoevo.com&port=443&secret=7e9dcba07510a31d25d200c685e67556
 tg://proxy?server=haughtily.mucous.obstetrical.overmaster.zoophile.rawisda.com&port=2290&secret=a630d0df19b52481592a18016d266cf9
 tg://proxy?server=compassionate-heyrovsky.cfd&port=1984&secret=c76b8cb6d99f20a7c1a3ef1b67bbb070
