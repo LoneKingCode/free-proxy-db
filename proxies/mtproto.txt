@@ -272,7 +272,6 @@ tg://proxy?server=172.65.152.49&port=25565&secret=dd79e344818749bd7ac519130220c2
 tg://proxy?server=paswd1.ru&port=443&secret=3faad3fea85e735ebf2fbc0c6cab5544
 tg://proxy?server=proxy2.strettenvpn.com&port=443&secret=dfe878ca3ef58feb5df4243e5fcd3da0
 tg://proxy?server=tg-proxy-de.deltavpn.me&port=444&secret=dc87d3c46c48e181d7352737b28b3113
-tg://proxy?server=mt.tematika.org&port=443&secret=1d8976ce8bacd795a21036fb05c4addc
 tg://proxy?server=vtslystore.ru&port=443&secret=096b8b7bfd4af6d7e67ab3cb24e9542d
 tg://proxy?server=tg-proxy-nl.deltavpn.me&port=444&secret=ed7db22e961bc366ae25ce9b5060b98c
 tg://proxy?server=barintg.top&port=7443&secret=dd572ff07948f06419be1d730cc49b980b
@@ -316,7 +315,6 @@ tg://proxy?server=195.254.165.245&port=25565&secret=dd79e344818749bd7ac519130220
 tg://proxy?server=166.1.160.127&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 tg://proxy?server=195.254.165.241&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=77.105.143.25&port=443&secret=757652b1946c948f1880a09ad95fc238
-tg://proxy?server=47.238.118.153&port=8888&secret=dd1c29c9e2cf1bebef973063bf5cee2ab6
 tg://proxy?server=caveat.dyslexia.justly.pedlery.talisman.superpinoy.net&port=2450&secret=8f6c67087a603cb91c94886ba79d4bdd
 tg://proxy?server=defamation.graduate.mitigatory.passway.purposeless.tupko.com&port=21647&secret=44ae74575512c08ff11cfdbcc8b41825
 tg://proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f68cef86baf
@@ -326,7 +324,6 @@ tg://proxy?server=befall.demonopolize.edged.parsley.tourniquet.chuka-chuka.com&p
 tg://proxy?server=ru36.importmsk.ru&port=8443&secret=dde3d3a09a31f5c857890cfc2a0bcab4c1
 tg://proxy?server=aggrieve.bighead.dividable.fatly.fixings.teleseryerewind.com&port=6700&secret=669f43a4abf980e5223ac3b3afba5018
 tg://proxy?server=distant.hellenian.horseplayer.workpiece.xenomania.tupko.com&port=21698&secret=5ccc99ae70fcc5817f00c14d1e62c71f
-tg://proxy?server=s12.dimasssss.space&port=443&secret=eebe3007e927acd147dde12bee8b1a7c93626f6f6b696e672e636f6d
 tg://proxy?server=chaldea.impel.monopathy.pure.wallah.pinoyteleseryerewind.org&port=5650&secret=8ebb2512295182a9d66e85313ea78185
 tg://proxy?server=188.137.250.103&port=443&secret=dd55e6dc2a653a5b98684624035dea96ce
 tg://proxy?server=89.167.104.111&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162
