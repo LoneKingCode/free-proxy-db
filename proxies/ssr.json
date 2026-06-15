@@ -1,0 +1,28 @@
+[
+    {
+        "id": 308373,
+        "ip": "ssca.irundns.net",
+        "asn": "",
+        "speed": 0.11,
+        "port": 443,
+        "protocol": "ssr",
+        "anonymity": "elite",
+        "is_valid": 1,
+        "https": 1,
+        "check_success_count": 2,
+        "check_error_count": 0,
+        "country": "",
+        "city": "",
+        "connect_string": "ssr://c3NjYS5pcnVuZG5zLm5ldDo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY2ZiOmh0dHBfcG9zdDpKQ1JVZFhKaU1GWlFUaVFrLz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcVBDZmg2WkRRUzAwTlM0eE5UUXVNakEwTGpFekxUQXhOREUlM0QmcHJvdG9wYXJhbT0=",
+        "available_site_info": null,
+        "site_protocol": "ssr",
+        "secret": "",
+        "source": null,
+        "stat_key": "",
+        "crawl_stat_id": null,
+        "username": "",
+        "password": "",
+        "last_checked": "2026-06-15 18:09:03",
+        "created_at": "2026-06-15 18:09:03"
+    }
+]
