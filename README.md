@@ -18,7 +18,7 @@ Welcome to **Free Proxy DB** - Your ultimate destination for **1000+ daily-updat
 ### **Essential Anonymity Tools**
 - **🔍 [Proxy Checker](https://freeproxydb.com/freeTools/proxyChecker)**: Test proxy speed, reliability, and anonymity levels
 - **🔌 [Port Checker](https://freeproxydb.com/freeTools/portChecker)**: Verify network connectivity and port availability
-- **�� [IP Checker](https://freeproxydb.com/freeTools/ipChecker)**: Check IP location with interactive map and detailed network information
+- **🔌 [IP Checker](https://freeproxydb.com/freeTools/ipChecker)**: Check IP location with interactive map and detailed network information
 - **🕷️ [Web Crawler](https://freeproxydb.com/freeTools/webCrawler)**: Anonymous web scraping with proxy rotation support
 - **🕵️ [Anon. Check](https://freeproxydb.com/anonChecker)**: Verify proxy anonymity and inspect HTTP headers for privacy
 
