@@ -70,7 +70,7 @@ Access our verified proxy lists directly:
 
 ## 🛠️ **Developer Resources**
 
-- **�� [API Documentation](https://freeproxydb.com/documentation/apiDocs)**: Complete integration reference
+- **💻 [API Documentation](https://freeproxydb.com/documentation/apiDocs)**: Complete integration reference
 - **💻 [Code Examples](https://freeproxydb.com/documentation/codeUsage)**: Python, JavaScript, and more
 - **🕷️ [Web Crawler Guide](https://freeproxydb.com/documentation/webCrawlerDocs)**: Advanced scraping techniques
 - **❓ [FAQ](https://freeproxydb.com/documentation/faq)**: Common questions and solutions
