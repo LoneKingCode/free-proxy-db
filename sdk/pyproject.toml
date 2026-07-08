@@ -1,0 +1,45 @@
+[project]
+name = "freeproxydb"
+version = "0.1.0"
+description = "Python SDK for the FreeProxyDB public and user proxy APIs"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "FreeProxyDB" }]
+keywords = ["proxy", "freeproxydb", "socks5", "vmess", "vless"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Internet :: Proxy Servers",
+    "Typing :: Typed",
+]
+dependencies = [
+    "httpx[socks]>=0.27.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-httpx>=0.30.0",
+]
+
+[project.urls]
+Homepage = "https://freeproxydb.com"
+Documentation = "https://freeproxydb.com/documentation/apiDocs"
+Repository = "https://github.com/LoneKingCode/free-proxy-db"
+Issues = "https://github.com/LoneKingCode/free-proxy-db/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["freeproxydb"]
+
+[tool.hatch.build.targets.sdist]
+include = ["freeproxydb", "README.md", "LICENSE"]
