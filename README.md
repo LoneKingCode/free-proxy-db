@@ -3,7 +3,6 @@
 > **Live database & free tools:** [**freeproxydb.com**](https://freeproxydb.com/)  
 > Browse 1000+ verified proxies, filter by country/protocol, export lists, and use free proxy tools — no signup required.
 
-
 This repository provides **daily-updated sample proxy lists** and pool statistics.  
 For the **full database**, advanced filters, free tools, and API access, visit the website above.
 
@@ -22,17 +21,6 @@ For the **full database**, advanced filters, free tools, and API access, visit t
 | **MTProto / Telegram** | [freeproxydb.com/freeProxy/mtproto](https://freeproxydb.com/freeProxy/mtproto) |
 | **Statistics Dashboard** | [freeproxydb.com/statistics](https://freeproxydb.com/statistics) |
 
-### Browse by Link Type (Subscription URLs)
-
-| Link Type | Website |
-|-----------|---------|
-| VMess (`vmess://`) | [freeproxydb.com/freeProxy/linktype/vmess](https://freeproxydb.com/freeProxy/linktype/vmess) |
-| VLESS (`vless://`) | [freeproxydb.com/freeProxy/linktype/vless](https://freeproxydb.com/freeProxy/linktype/vless) |
-| Trojan (`trojan://`) | [freeproxydb.com/freeProxy/linktype/trojan](https://freeproxydb.com/freeProxy/linktype/trojan) |
-| Shadowsocks (`ss://`) | [freeproxydb.com/freeProxy/linktype/ss](https://freeproxydb.com/freeProxy/linktype/ss) |
-| SSR (`ssr://`) | [freeproxydb.com/freeProxy/linktype/ssr](https://freeproxydb.com/freeProxy/linktype/ssr) |
-| Telegram (`tg://`) | [freeproxydb.com/freeProxy/linktype/tg](https://freeproxydb.com/freeProxy/linktype/tg) |
-
 ---
 
 ## Free Tools (Website)
@@ -47,7 +35,7 @@ For the **full database**, advanced filters, free tools, and API access, visit t
 
 ## GitHub Sample Lists (Top 100 per Protocol)
 
-These files contain the **top 100 verified proxies per protocol** (sorted by reliability and speed).  
+These files under [`proxies/`](proxies/) contain the **top 100 verified proxies per protocol** (sorted by reliability and speed).  
 The full database with country/protocol filters and real-time updates is on the website.
 
 | Proxy Type | JSON | TXT |
@@ -70,16 +58,60 @@ curl -O https://raw.githubusercontent.com/LoneKingCode/free-proxy-db/main/proxie
 
 ---
 
+## Python SDK (`sdk/`)
+
+> **Note:** PyPI package `freeproxydb` is **not published yet**. Install from source below for now.
+
+The [`sdk/`](sdk/) directory contains the official **FreeProxyDB Python SDK**.  
+It wraps the public and user REST APIs so you can search proxies, fetch subscription feeds, run checker tools, and send HTTP requests with **automatic HTTP/SOCKS proxy rotation** — no manual proxy list handling required.
+
+The SDK is kept in sync with this repository whenever proxy sample lists are updated.
+
+### Install
+
+```bash
+# PyPI (coming soon — not available yet)
+# pip install freeproxydb
+```
+
+Install from this repo (current method):
+
+```bash
+git clone https://github.com/LoneKingCode/free-proxy-db.git
+cd free-proxy-db/sdk
+pip install -e .
+```
+
+### Quick Example
+
+```python
+from freeproxydb import PublicClient, ProxyHttpClient
+
+# Search proxies (no API key)
+with PublicClient() as client:
+    page = client.search(country="US", protocol=["http", "socks5"], page_size=10)
+    print(page["total_count"], len(page["data"]))
+
+# HTTP request via auto-rotating HTTP/SOCKS proxies
+with ProxyHttpClient(protocol=["http", "socks5"], max_retries=5) as client:
+    result = client.get("https://httpbin.org/ip")
+    print(result.proxy_url, result.response.text)
+```
+
+With an API key you get access to the high-quality pool (`valid_proxies`) and higher subscribe limits. See the full SDK guide in [`sdk/README.md`](sdk/README.md).
+
+---
+
 ## GitHub vs Website vs API Key
 
-| Feature | GitHub Sample | Website / Public API |
-|---------|---------------|----------------------|
-| Data volume | Top 100 / protocol | Full database |
-| Data quality | Standard verified | Standard verified |
-| Filters | None | Country, protocol, link type |
-| Rate limits | None (static files) | Yes |
+| Feature | GitHub Sample | Website / Public API | API Key |
+|---------|---------------|----------------------|---------|
+| Data volume | Top 100 / protocol | Full database | Full database |
+| Data quality | Standard verified | Standard verified | High-quality pool |
+| Filters | None | Country, protocol, link type | Country, protocol, link type |
+| Rate limits | None (static files) | Yes | Higher quotas |
 | Free tools | No | Yes | Yes |
-| Real-time updates | Periodic sync | Real-time |
+| Real-time updates | Periodic sync | Real-time | Real-time |
 
 Need higher quotas, faster proxies, or programmatic access at scale?  
 Request an **API Key** via Telegram on [freeproxydb.com](https://freeproxydb.com/) (see [API Documentation](https://freeproxydb.com/documentation/apiDocs)).
@@ -89,6 +121,7 @@ Request an **API Key** via Telegram on [freeproxydb.com](https://freeproxydb.com
 ## Developer Resources
 
 - **[API Documentation](https://freeproxydb.com/documentation/apiDocs)** — REST API reference
+- **[Python SDK](sdk/README.md)** — install from `sdk/` (PyPI coming soon), full examples and API coverage
 - **[Code Examples](https://freeproxydb.com/documentation/codeUsage)** — Python, Java, PHP integration
 - **[Web Crawler Guide](https://freeproxydb.com/documentation/webCrawlerDocs)** — Scraping best practices
 - **[FAQ](https://freeproxydb.com/documentation/faq)** — Common questions
@@ -111,6 +144,19 @@ See [API Documentation](https://freeproxydb.com/documentation/apiDocs) for authe
 
 ---
 
+## Repository Layout
+
+```
+free-proxy-db/
+├── proxies/          # Daily-updated sample lists (JSON + TXT)
+├── sdk/              # Official Python SDK (PyPI: freeproxydb — coming soon)
+│   ├── freeproxydb/
+│   └── README.md     # Full SDK documentation
+└── README.md
+```
+
+---
+
 ## Supported Protocols
 
 HTTP · HTTPS · SOCKS4 · SOCKS5 · V2Ray · VMess · VLESS · Trojan · Shadowsocks (SS) · ShadowsocksR (SSR) · MTProto · Telegram (`tg://`)
@@ -124,7 +170,7 @@ HTTP · HTTPS · SOCKS4 · SOCKS5 · V2Ray · VMess · VLESS · Trojan · Shadow
 - **Global coverage** — filter by country and protocol
 - **No registration** for website browsing and public tools
 - **Export support** — JSON, TXT, CSV
-- **Developer-friendly** — REST API, code examples, GitHub samples
+- **Developer-friendly** — REST API, Python SDK, code examples, GitHub samples
 
 ---
 
