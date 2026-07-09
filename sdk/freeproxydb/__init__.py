@@ -12,10 +12,13 @@ from freeproxydb.proxy_pool import ProxyPool, ProxyPoolExhaustedError
 from freeproxydb.public import PublicClient
 from freeproxydb.user import UserClient
 from freeproxydb._http import DEFAULT_BASE_URL
+from freeproxydb._web_crawler import WebCrawlerMethod, WebCrawlerProtocol
 
 __all__ = [
     "PublicClient",
     "UserClient",
+    "WebCrawlerMethod",
+    "WebCrawlerProtocol",
     "ProxyHttpClient",
     "ProxyFetchResult",
     "ProxyPool",

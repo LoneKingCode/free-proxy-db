@@ -14,6 +14,7 @@ import os
 import sys
 
 from freeproxydb import ProxyHttpClient, PublicClient, UserClient
+from freeproxydb._web_crawler import build_web_crawler_params
 from freeproxydb.proxy_pool import ProxyPool
 from freeproxydb.proxy_url import (
     https_filter_for_url,
@@ -118,16 +119,64 @@ def test_public_subscribe():
 def test_public_web_crawler():
     with PublicClient() as client:
         try:
-            body = client.web_crawler(HTTPBIN, "http", timeout=15)
+            body = client.web_crawler(HTTPBIN, "auto", timeout=15)
         except Exception as exc:
-            print(f"web_crawler skipped (http): {exc}")
+            print(f"web_crawler skipped (auto): {exc}")
             try:
-                body = client.web_crawler(HTTPBIN, "socks", timeout=15)
+                body = client.web_crawler(HTTPBIN, "http", timeout=15)
             except Exception as exc2:
-                print(f"web_crawler skipped (socks): {exc2}")
-                return
+                print(f"web_crawler skipped (http): {exc2}")
+                try:
+                    body = client.web_crawler(HTTPBIN, "socks", timeout=15)
+                except Exception as exc3:
+                    print(f"web_crawler skipped (socks): {exc3}")
+                    return
         print("web_crawler body preview:", str(body)[:120])
         assert body
+
+
+def test_public_web_crawler_post():
+    with PublicClient() as client:
+        try:
+            body = client.web_crawler(
+                "https://httpbin.org/post",
+                "auto",
+                timeout=20,
+                method="POST",
+                headers={"Content-Type": "application/json"},
+                body='{"hello":"world"}',
+            )
+        except Exception as exc:
+            print(f"web_crawler POST skipped: {exc}")
+            return
+        print("web_crawler POST preview:", str(body)[:160])
+        assert "hello" in str(body)
+
+
+def test_web_crawler_param_validation():
+    params = build_web_crawler_params(
+        "https://example.com",
+        "auto",
+        method="POST",
+        headers={"User-Agent": "test"},
+        body="ok",
+    )
+    assert params["method"] == "POST"
+    assert params["protocol"] == "auto"
+    assert "headers" in params
+    assert params["body"] == "ok"
+
+    try:
+        build_web_crawler_params("https://example.com", "auto", method="GET", body="x")
+        assert False, "expected ValueError"
+    except ValueError as exc:
+        print("validation ok:", exc)
+
+    try:
+        build_web_crawler_params("https://example.com", "ftp")
+        assert False, "expected ValueError"
+    except ValueError as exc:
+        print("protocol validation ok:", exc)
 
 
 def test_public_proxy_checker():
@@ -306,6 +355,8 @@ TESTS = [
     ("PublicClient.port_checker", test_public_port_checker),
     ("PublicClient.subscribe", test_public_subscribe),
     ("PublicClient.web_crawler", test_public_web_crawler),
+    ("PublicClient.web_crawler POST", test_public_web_crawler_post),
+    ("web_crawler param validation", test_web_crawler_param_validation),
     ("PublicClient.proxy_checker", test_public_proxy_checker),
     ("UserClient.valid_proxies", test_user_valid_proxies),
     ("UserClient.subscribe", test_user_subscribe),

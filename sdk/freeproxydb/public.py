@@ -4,6 +4,11 @@ from typing import Any, Iterable, List, Optional, Union
 
 from freeproxydb._http import BaseHttpClient, DEFAULT_BASE_URL
 from freeproxydb._utils import https_param, join_csv
+from freeproxydb._web_crawler import (
+    HeadersInput,
+    WebCrawlerProtocol,
+    build_web_crawler_params,
+)
 
 FilterValue = Union[str, Iterable[str], None]
 
@@ -92,14 +97,36 @@ class PublicClient(BaseHttpClient):
     def web_crawler(
         self,
         url: str,
-        protocol: str,
+        protocol: WebCrawlerProtocol,
         *,
         timeout: Optional[int] = None,
+        method: str = "GET",
+        headers: HeadersInput = None,
+        cookie: Optional[str] = None,
+        body: Optional[str] = None,
     ) -> str:
-        """Fetch a URL through a public proxy route. Returns response body text."""
-        params: dict[str, Any] = {"url": url, "protocol": protocol}
-        if timeout is not None:
-            params["timeout"] = timeout
+        """Fetch a URL through the public crawler. Returns the response body text.
+
+        Routes through HTTP, SOCKS, and/or the internal Xray pool depending on
+        ``protocol``:
+
+        - ``http`` — random HTTP proxy from the validated pool
+        - ``socks`` — SOCKS pool plus Xray share-link nodes when available
+        - ``auto`` — full routing with automatic retries (recommended)
+
+        Optional ``method``, ``headers`` (dict or JSON string), ``cookie``, and
+        ``body`` (POST only) customize the outbound request. Subject to per-IP
+        rate limits.
+        """
+        params = build_web_crawler_params(
+            url,
+            protocol,
+            timeout=timeout,
+            method=method,
+            headers=headers,
+            cookie=cookie,
+            body=body,
+        )
         return self.get_json("/proxy/web_crawler", params=params)
 
     def proxy_checker(
