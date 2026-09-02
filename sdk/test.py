@@ -14,7 +14,7 @@ import os
 import sys
 
 from freeproxydb import ProxyHttpClient, PublicClient, UserClient
-from freeproxydb._web_crawler import build_web_crawler_params
+from freeproxydb._web_crawler import build_web_crawler_payload
 from freeproxydb.proxy_pool import ProxyPool
 from freeproxydb.proxy_url import (
     https_filter_for_url,
@@ -119,26 +119,32 @@ def test_public_subscribe():
 def test_public_web_crawler():
     with PublicClient() as client:
         try:
-            body = client.web_crawler(HTTPBIN, "auto", timeout=15)
+            result = client.web_crawler(HTTPBIN, "auto", timeout=15)
         except Exception as exc:
             print(f"web_crawler skipped (auto): {exc}")
             try:
-                body = client.web_crawler(HTTPBIN, "http", timeout=15)
+                result = client.web_crawler(HTTPBIN, "http", timeout=15)
             except Exception as exc2:
                 print(f"web_crawler skipped (http): {exc2}")
                 try:
-                    body = client.web_crawler(HTTPBIN, "socks", timeout=15)
+                    result = client.web_crawler(HTTPBIN, "socks", timeout=15)
                 except Exception as exc3:
                     print(f"web_crawler skipped (socks): {exc3}")
                     return
-        print("web_crawler body preview:", str(body)[:120])
-        assert body
+        print(
+            "web_crawler preview:",
+            result.get("status_code"),
+            str(result.get("body", ""))[:120],
+        )
+        assert isinstance(result, dict)
+        assert "status_code" in result
+        assert "body" in result
 
 
 def test_public_web_crawler_post():
     with PublicClient() as client:
         try:
-            body = client.web_crawler(
+            result = client.web_crawler(
                 "https://httpbin.org/post",
                 "auto",
                 timeout=20,
@@ -149,31 +155,36 @@ def test_public_web_crawler_post():
         except Exception as exc:
             print(f"web_crawler POST skipped: {exc}")
             return
-        print("web_crawler POST preview:", str(body)[:160])
-        assert "hello" in str(body)
+        print(
+            "web_crawler POST preview:",
+            result.get("status_code"),
+            str(result.get("body", ""))[:160],
+        )
+        assert isinstance(result, dict)
+        assert "hello" in str(result.get("body", ""))
 
 
 def test_web_crawler_param_validation():
-    params = build_web_crawler_params(
+    payload = build_web_crawler_payload(
         "https://example.com",
         "auto",
         method="POST",
         headers={"User-Agent": "test"},
         body="ok",
     )
-    assert params["method"] == "POST"
-    assert params["protocol"] == "auto"
-    assert "headers" in params
-    assert params["body"] == "ok"
+    assert payload["method"] == "POST"
+    assert payload["protocol"] == "auto"
+    assert payload["headers"] == {"User-Agent": "test"}
+    assert payload["body"] == "ok"
 
     try:
-        build_web_crawler_params("https://example.com", "auto", method="GET", body="x")
+        build_web_crawler_payload("https://example.com", "auto", method="GET", body="x")
         assert False, "expected ValueError"
     except ValueError as exc:
         print("validation ok:", exc)
 
     try:
-        build_web_crawler_params("https://example.com", "ftp")
+        build_web_crawler_payload("https://example.com", "ftp")
         assert False, "expected ValueError"
     except ValueError as exc:
         print("protocol validation ok:", exc)
@@ -224,9 +235,15 @@ def test_user_web_crawler():
         print("skip: set FREEPROXYDB_API_KEY to run")
         return
     with UserClient(api_key=API_KEY) as client:
-        body = client.web_crawler(HTTPBIN, "auto", timeout=15)
-        print("user web_crawler preview:", str(body)[:120])
-        assert body
+        result = client.web_crawler(HTTPBIN, "auto", timeout=15)
+        print(
+            "user web_crawler preview:",
+            result.get("status_code"),
+            str(result.get("body", ""))[:120],
+        )
+        assert isinstance(result, dict)
+        assert "status_code" in result
+        assert "body" in result
 
 
 # ---------------------------------------------------------------------------

@@ -102,7 +102,8 @@ with UserClient(api_key="YOUR_API_KEY") as user:
     feed = user.subscribe(count=100, subscribe_format="original")
 
     # Server-side fetch through a proxy (recommended: protocol="auto")
-    body = user.web_crawler("https://example.com", protocol="auto", timeout=30)
+    result = user.web_crawler("https://example.com", protocol="auto", timeout=30)
+    print(result["status_code"], result["body"][:200])
 ```
 
 You can pass the key from an environment variable:
@@ -118,11 +119,11 @@ The SDK sends the key via the `X-API-KEY` header (recommended). The server also 
 
 ### Web Crawler (server-side fetch)
 
-Both `PublicClient.web_crawler` and `UserClient.web_crawler` call FreeProxyDB’s server-side crawler. You send a target URL; the API routes the request through HTTP, SOCKS, and/or the internal **Xray pool** (VMess, VLESS, Trojan, etc.) and returns the **response body text**.
+Both `PublicClient.web_crawler` and `UserClient.web_crawler` call FreeProxyDB’s server-side crawler via **POST**. You send a target URL; the API routes the request through HTTP, SOCKS, and/or the internal **Xray pool** (VMess, VLESS, Trojan, etc.) and returns `{"status_code": int, "body": str}`.
 
 | | Public | User (API key) |
 |---|--------|----------------|
-| Route | `GET /proxy/web_crawler` | `GET /user/web_crawler` |
+| Route | `POST /proxy/web_crawler` | `POST /user/web_crawler` |
 | Limits | Per client IP | Per API key (higher quotas) |
 | Pool | Validated public pool | High-quality pool + Xray |
 
@@ -140,12 +141,12 @@ Both `PublicClient.web_crawler` and `UserClient.web_crawler` call FreeProxyDB’
 from freeproxydb import PublicClient
 
 with PublicClient() as client:
-    html = client.web_crawler(
+    result = client.web_crawler(
         "https://httpbin.org/get",
         protocol="auto",
         timeout=30,
     )
-    print(html[:200])
+    print(result["status_code"], result["body"][:200])
 ```
 
 **POST with custom headers, cookie, and body**
@@ -160,7 +161,7 @@ headers = {
 }
 
 with PublicClient() as client:
-    body = client.web_crawler(
+    result = client.web_crawler(
         "https://httpbin.org/post",
         protocol="auto",
         method="POST",
@@ -169,14 +170,15 @@ with PublicClient() as client:
         body=payload,
         timeout=30,
     )
+    print(result["status_code"], result["body"])
 
-# headers may also be a JSON string (same as the REST API)
+# headers may also be a JSON string
 with UserClient(api_key="YOUR_API_KEY") as user:
-    body = user.web_crawler(
+    result = user.web_crawler(
         "https://httpbin.org/post",
         protocol="auto",
         method="POST",
-        headers='{"Content-Type":"application/json"}',
+        headers={"Content-Type": "application/json"},
         body=payload,
     )
 ```
@@ -192,8 +194,11 @@ with UserClient(api_key="YOUR_API_KEY") as user:
 | `headers` | No | `dict[str, str]` or JSON object string (max 30 entries) |
 | `cookie` | No | Shorthand for the `Cookie` header |
 | `body` | No | Raw POST body; only allowed with `method="POST"` |
+| `encoding` | No | Force response decode (`utf-8` / `gbk` / `gb18030`…); omit for auto-detect |
 
 Hop-by-hop headers such as `Host` and `Content-Length` are rejected. Invalid combinations (e.g. `body` with `GET`) raise `ValueError` locally before the HTTP call.
+
+API `status: 1` means the proxy fetch completed; inspect `result["status_code"]` for the target site’s real HTTP status (including non-200).
 
 For production scrapers and integrations, prefer `UserClient.web_crawler` with `protocol="auto"`.
 
@@ -307,13 +312,13 @@ finally:
 | `PublicClient.total_statistics` | `GET /proxy/total_statistics` | No |
 | `PublicClient.client_ip` | `GET /proxy/client_ip` | No |
 | `PublicClient.anon_check` | `GET /proxy/anon_check` | No |
-| `PublicClient.web_crawler` | `GET /proxy/web_crawler` | No — supports `method`, `headers`, `cookie`, `body` |
+| `PublicClient.web_crawler` | `POST /proxy/web_crawler` | No — supports `method`, `headers`, `cookie`, `body` |
 | `PublicClient.proxy_checker` | `POST /proxy/proxy_checker` | No |
 | `PublicClient.ip_checker` | `GET /proxy/ip_checker` | No |
 | `PublicClient.port_checker` | `GET /proxy/port_checker` | No |
 | `UserClient.valid_proxies` | `GET /user/valid_proxies` | API key |
 | `UserClient.subscribe` | `GET /user/subscribe` | API key |
-| `UserClient.web_crawler` | `GET /user/web_crawler` | API key — same advanced options as public |
+| `UserClient.web_crawler` | `POST /user/web_crawler` | API key — same advanced options as public |
 
 **HTTP client helpers (local, not REST endpoints)**
 

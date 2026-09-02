@@ -7,7 +7,8 @@ from freeproxydb._utils import https_param, join_csv
 from freeproxydb._web_crawler import (
     HeadersInput,
     WebCrawlerProtocol,
-    build_web_crawler_params,
+    WebCrawlerResult,
+    build_web_crawler_payload,
 )
 
 FilterValue = Union[str, Iterable[str], None]
@@ -104,8 +105,16 @@ class PublicClient(BaseHttpClient):
         headers: HeadersInput = None,
         cookie: Optional[str] = None,
         body: Optional[str] = None,
-    ) -> str:
-        """Fetch a URL through the public crawler. Returns the response body text.
+        encoding: Optional[str] = None,
+    ) -> WebCrawlerResult:
+        """Fetch a URL through the public crawler.
+
+        Returns ``{"status_code": int, "body": str}`` for the target response.
+        ``status=1`` from the API means the proxy fetch completed; inspect
+        ``status_code`` for the upstream HTTP status.
+
+        Optional ``encoding`` forces response body decoding (e.g. ``gbk`` /
+        ``gb18030``) when auto-detection fails on Chinese sites.
 
         Routes through HTTP, SOCKS, and/or the internal Xray pool depending on
         ``protocol``:
@@ -118,7 +127,7 @@ class PublicClient(BaseHttpClient):
         ``body`` (POST only) customize the outbound request. Subject to per-IP
         rate limits.
         """
-        params = build_web_crawler_params(
+        payload = build_web_crawler_payload(
             url,
             protocol,
             timeout=timeout,
@@ -126,8 +135,9 @@ class PublicClient(BaseHttpClient):
             headers=headers,
             cookie=cookie,
             body=body,
+            encoding=encoding,
         )
-        return self.get_json("/proxy/web_crawler", params=params)
+        return self.post_json("/proxy/web_crawler", json=payload)
 
     def proxy_checker(
         self,

@@ -1,12 +1,19 @@
 from __future__ import annotations
 
-import json
-from typing import Any, Literal, Mapping, Optional, Union
+from typing import Any, Literal, Mapping, Optional, TypedDict, Union
 
 WebCrawlerProtocol = Literal["http", "socks", "auto"]
 WebCrawlerMethod = Literal["GET", "POST"]
 
 HeadersInput = Union[Mapping[str, str], str, None]
+
+
+class WebCrawlerResult(TypedDict):
+    """Unwrapped ``data`` from POST /proxy|user/web_crawler."""
+
+    status_code: int
+    body: str
+
 
 _FORBIDDEN_HEADERS = frozenset(
     {
@@ -41,10 +48,12 @@ def normalize_web_crawler_protocol(protocol: str) -> WebCrawlerProtocol:
     return normalized  # type: ignore[return-value]
 
 
-def _encode_headers_param(headers: HeadersInput) -> Optional[str]:
+def _normalize_headers(headers: HeadersInput) -> Optional[dict[str, str]]:
     if headers is None:
         return None
     if isinstance(headers, str):
+        import json
+
         raw = headers.strip()
         if not raw:
             return None
@@ -72,10 +81,10 @@ def _encode_headers_param(headers: HeadersInput) -> Optional[str]:
             raise ValueError(f"Header {name!r} value exceeds max length")
         encoded[name] = value
 
-    return json.dumps(encoded, ensure_ascii=False) if encoded else None
+    return encoded or None
 
 
-def build_web_crawler_params(
+def build_web_crawler_payload(
     url: str,
     protocol: str,
     *,
@@ -84,8 +93,9 @@ def build_web_crawler_params(
     headers: HeadersInput = None,
     cookie: Optional[str] = None,
     body: Optional[str] = None,
+    encoding: Optional[str] = None,
 ) -> dict[str, Any]:
-    """Build query params for `/proxy/web_crawler` and `/user/web_crawler`."""
+    """Build JSON body for POST ``/proxy/web_crawler`` and ``/user/web_crawler``."""
     if not url or not url.strip():
         raise ValueError("url is required")
 
@@ -103,20 +113,34 @@ def build_web_crawler_params(
     if cookie is not None and len(cookie) > _MAX_COOKIE_LEN:
         raise ValueError("cookie exceeds max length")
 
-    params: dict[str, Any] = {
+    if encoding is not None and str(encoding).strip():
+        try:
+            import codecs
+
+            codecs.lookup(str(encoding).strip())
+        except LookupError as exc:
+            raise ValueError(f"Unsupported encoding: {encoding}") from exc
+
+    payload: dict[str, Any] = {
         "url": url.strip(),
         "protocol": routing,
         "method": http_method,
     }
     if timeout is not None:
-        params["timeout"] = timeout
+        payload["timeout"] = timeout
 
-    headers_param = _encode_headers_param(headers)
-    if headers_param:
-        params["headers"] = headers_param
+    headers_obj = _normalize_headers(headers)
+    if headers_obj:
+        payload["headers"] = headers_obj
     if cookie:
-        params["cookie"] = cookie.strip()
+        payload["cookie"] = cookie.strip()
     if body is not None:
-        params["body"] = body
+        payload["body"] = body
+    if encoding is not None and str(encoding).strip():
+        payload["encoding"] = str(encoding).strip()
 
-    return params
+    return payload
+
+
+# Backwards-compatible alias used by older imports/tests in this repo.
+build_web_crawler_params = build_web_crawler_payload

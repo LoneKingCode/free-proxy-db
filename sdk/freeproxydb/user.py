@@ -7,7 +7,8 @@ from freeproxydb._utils import https_param, join_csv
 from freeproxydb._web_crawler import (
     HeadersInput,
     WebCrawlerProtocol,
-    build_web_crawler_params,
+    WebCrawlerResult,
+    build_web_crawler_payload,
 )
 from freeproxydb.exceptions import AuthenticationError
 from freeproxydb.public import FilterValue, PublicClient
@@ -89,17 +90,22 @@ class UserClient(PublicClient):
         headers: HeadersInput = None,
         cookie: Optional[str] = None,
         body: Optional[str] = None,
-    ) -> str:
-        """Fetch a URL via the authenticated crawler. Returns the response body text.
+        encoding: Optional[str] = None,
+    ) -> WebCrawlerResult:
+        """Fetch a URL via the authenticated crawler.
 
+        Returns ``{"status_code": int, "body": str}`` for the target response.
         Same routing engine as :meth:`PublicClient.web_crawler` (HTTP / SOCKS /
         Xray pool with ``protocol=auto``), but uses the high-quality pool and
         per-API-key quotas instead of per-IP limits.
 
+        Optional ``encoding`` forces response body decoding (e.g. ``gbk`` /
+        ``gb18030``) when auto-detection fails on Chinese sites.
+
         Supports ``method``, ``headers`` (dict or JSON string), ``cookie``, and
         ``body`` (POST only) for production scraping workflows.
         """
-        params = build_web_crawler_params(
+        payload = build_web_crawler_payload(
             url,
             protocol,
             timeout=timeout,
@@ -107,5 +113,6 @@ class UserClient(PublicClient):
             headers=headers,
             cookie=cookie,
             body=body,
+            encoding=encoding,
         )
-        return self.get_json("/user/web_crawler", params=params)
+        return self.post_json("/user/web_crawler", json=payload)
