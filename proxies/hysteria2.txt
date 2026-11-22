@@ -1,1 +1,1 @@
-hysteria2://fanvpn.net@104.233.178.178:443?insecure=1&sni=www.bing.com#US%20HY2-04%20%7C%20free-nodes
+hysteria2://36187bef1c708c82fd4099b9d70116ffd8c0f1f5bfd19cbb319eeb67899714f6@jpk.wentibuxiaobuda.xyz:443?insecure=1&sni=jpk.wentibuxiaobuda.xyz#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%7C%20JPN%20%232
