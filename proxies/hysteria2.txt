@@ -1,0 +1,1 @@
+hysteria2://fanvpn.net@104.233.178.178:443?insecure=1&sni=www.bing.com#US%20HY2-04%20%7C%20free-nodes
